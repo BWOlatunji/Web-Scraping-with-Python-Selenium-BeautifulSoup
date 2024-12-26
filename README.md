@@ -1,4 +1,3 @@
-# Web-Scraping-with-Python-Selenium-BeautifulSoup
 # Web Scraping Project Description
 
 ## Project Overview
