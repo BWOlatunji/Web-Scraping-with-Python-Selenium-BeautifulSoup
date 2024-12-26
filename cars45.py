@@ -65,7 +65,9 @@ def extract_car_details():
                 By.XPATH,
                 ".//div[@class='car-feature__details']//div[@class='car-feature__others']//span[@class = 'car-feature__others__item'][last()]",
             ).text
-            car_mileage.append(mileage)
+            # Use regular expressions to extract only the numeric part (removing ₦ and commas)
+            mileage_numeric_value = re.sub(r"[^\d]", "", mileage)
+            car_mileage.append(mileage_numeric_value)
 
             image = car.find_element(
                 by=By.XPATH, value=".//div[@class = 'car-feature__image']//img"

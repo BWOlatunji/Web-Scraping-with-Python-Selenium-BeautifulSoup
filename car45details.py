@@ -8,7 +8,6 @@ import time
 
 # Load the CSV file containing car detail URLs
 car_data = pd.read_csv("new_cars_data.csv")
-# car_data = car_data.head()
 car_urls = car_data["details_url"].tolist()
 
 # Define the path to ChromeDriver
