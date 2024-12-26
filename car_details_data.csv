@@ -1,0 +1,2058 @@
+make,model,year_of_manufacture,color,condition,mileage,engine_size,registered_city,selling_condition,bought_condition,transmission_system
+Toyota,Corolla,2006,Blue,Local Used,281806,1800,ABUJA,Registered,Registered,Automatic
+Lexus,RX,2004,Black,Local Used,198307,3500,N/A,Registered,Registered,Automatic
+Toyota,Venza,2013,Black,Local Used,179378,2700,LAGOS,Registered,Imported,Automatic
+Hyundai,Sonata,2015,Black,Local Used,145651,2400,N/A,Registered,Imported,Automatic
+Lexus,ES,2010,Gold,Local Used,95113,3500,Lagos,Registered,Imported,Automatic
+Toyota,Camry,2009,Blue,Local Used,185234,2500,N/A,Registered,Imported,Automatic
+Kia,Rio,2014,Black,Local Used,80940,1600,LAGOS,Registered,Imported,Manual
+Ford,F-150,2007,White,Local Used,372142,5400,LAGOS,Registered,Imported,Automatic
+Toyota,Corolla,2018,Gray,Local Used,N/A,1800,Rivers state,Registered,Imported,Automatic
+Lexus,RX 350,2013,Gray,Foreign Used,230443,3500,N/A,Imported,Imported,Automatic
+Honda,Civic,2004,Gray,Local Used,287862,1700,N/A,Registered,Registered,Automatic
+Honda,Odyssey,2014,Silver,Foreign Used,178559,3500,N/A,Imported,Imported,Automatic
+Honda,CR-V,2000,Green,Local Used,243689,2000,N/A,Registered,Registered,Automatic
+Toyota,Camry,2003,Red,Local Used,201136,2400,N/A,Registered,Registered,Automatic
+Lexus,GS,2007,Blue,Local Used,425998,3500,N/A,Registered,Registered,Automatic
+Toyota,Sienna,2007,Gray,Local Used,161315,3500,LAGOS,Registered,Registered,Automatic
+Toyota,Corolla,2003,Blue,Local Used,152509,1800,Abuja,Registered,Registered,Automatic
+Toyota,Sienna,2005,Gold,Foreign Used,410283,3300,N/A,Imported,Registered,Automatic
+Honda,Accord Crosstour,2010,Red,Local Used,140736,3500,ABUJA,Registered,Imported,Automatic
+Toyota,Camry,2015,Black,Foreign Used,249468,2500,N/A,Imported,Imported,Automatic
+Toyota,Camry,2007,Black,Local Used,528858,2500,Abuja,Registered,Imported,Automatic
+BMW,X6,2011,Red,Local Used,217315,4400,Abuja,Registered,Registered,Automatic
+Toyota,Camry,2007,Silver,Local Used,131095,2400,Lagos,Registered,Registered,Automatic
+Hyundai,Sonata,2011,Black,Local Used,2984430,2000,Abuja,Registered,Registered,Automatic
+Toyota,Corolla,2008,Black,Local Used,46928,1800,EDO,Registered,Registered,Automatic
+Honda,CR-V,2007,Red,Local Used,164320,2400,EDO,Registered,Registered,Automatic
+Kia,Rio,2013,Black,Local Used,147939,1400,N/A,Registered,Registered,Automatic
+Ford,Edge,2012,Black,Local Used,102387,3500,Lagos,Registered,Registered,Automatic
+Toyota,Corolla,2004,Gray,Local Used,347799,1800,Lagos,Registered,Imported,Automatic
+Hyundai,Tucson,2018,Black,Local Used,29070,2000,Ebonyi,Registered,Brand new,Automatic
+Lexus,ES,2011,Green,Local Used,127999,3500,Lagos,Registered,Imported,Automatic
+Kia,Sportage,2009,Black,Local Used,333664,2000,ABUJA,Registered,Registered,Automatic
+Volkswagen,Passat,2003,Blue,Local Used,441301,1800,LAGOS,Registered,Registered,Automatic
+Toyota,Yaris,2013,Black,Local Used,141572,N/A,N/A,Registered,Imported,Automatic
+Honda,Accord,2014,Gray,Foreign Used,349403,3000,N/A,Imported,Imported,Automatic
+Pontiac,Vibe,2004,Gray,Local Used,299999,1800,N/A,Registered,Registered,Automatic
+Toyota,Corolla,2009,Silver,Local Used,192172,1800,LAGOS,Registered,Registered,Automatic
+Rover,Land,2015,Gray,Local Used,253458,3000,N/A,Registered,Imported,Automatic
+Mercedes-Benz,M Class,2012,Black,Local Used,134001,3500,N/A,Registered,Imported,Automatic
+Mercedes-Benz,GLK-Class,2015,Black,Local Used,176864,3500,Lagos,Registered,Imported,Automatic
+Lexus,RX 300,2001,Gold,Local Used,215463,3000,LAGOS,Registered,Registered,Automatic
+Hyundai,Accent,2008,Gray,Local Used,164973,1400,LAGOS,Registered,Registered,Manual
+Toyota,Sienna,2006,Burgandy,Local Used,162016,3300,N/A,Registered,Registered,Automatic
+Hyundai,Accent,2012,Black,Local Used,47279,1600,Lagos,Registered,Brand new,Automatic
+Mazda,3,2007,Black,Local Used,259480,2500,ABUJA,Registered,Imported,Automatic
+Toyota,Sienna,2004,Gold,Local Used,362357,3300,N/A,Registered,Registered,Automatic
+Toyota,Corolla,2006,Black,Local Used,231897,1600,Lagos,Registered,Imported,Automatic
+Toyota,Highlander,2013,Gray,Local Used,177806,3000,Lagos,Registered,Imported,Automatic
+Peugeot,406,2000,Green,Local Used,1245184,1600,FCT,Registered,Imported,Manual
+Mercedes-Benz,CLA-Class,2015,Black,Local Used,53999,2000,N/A,Registered,Imported,Automatic
+Mercedes-Benz,GLK-Class,2013,Silver,Foreign Used,233761,3500,N/A,Imported,Imported,Automatic
+Toyota,Camry,2003,Gold,Local Used,196366,2400,LAGOS,Registered,Imported,Automatic
+Toyota,Avalon,2000,Gold,Local Used,181740,300,IMO,Registered,Registered,Automatic
+Toyota,Corolla,2010,Red,Local Used,187187,1800,LAGOS,Registered,Registered,Automatic
+Mercedes-Benz,GLE-Class,2016,Gray,Foreign Used,144449,3500,N/A,Imported,Imported,Automatic
+Toyota,Tundra,2007,Blue,Local Used,587106,4700,LAGOS,Registered,Imported,Automatic
+Land Rover,Range Rover Sport,2011,Black,Local Used,65038,5000,LAGOS,Registered,Registered,Automatic
+Honda,Accord,2014,Burgandy,Local Used,44479,3500,ABUJA,Registered,Registered,Automatic
+Toyota,Camry,2012,Silver,Local Used,277732,2500,N/A,Registered,Imported,Automatic
+Acura,MDX,2010,Black,Local Used,129266,3700,ABUJA,Registered,Registered,Automatic
+Toyota,Camry,2000,Gold,Local Used,219437,2200,N/A,Registered,Registered,Automatic
+Toyota,Tundra,2014,Black,Foreign Used,61853,N/A,N/A,Imported,Imported,Automatic
+Lexus,RX 300,2000,Black,Local Used,252803,3000,N/A,Registered,Registered,Automatic
+Nissan,Sentra,2018,Black,Foreign Used,402260,2400,N/A,Imported,Imported,Automatic
+Lexus,GS,2007,Black,Local Used,N/A,3500,RIVERS,Registered,Brand new,Automatic
+Toyota,Camry,2008,Silver,Local Used,355002,2400,LAGOS,Registered,Registered,Automatic
+Toyota,Highlander,2003,Black,Local Used,293412,3000,N/A,Registered,Imported,Automatic
+Toyota,Camry,2002,Gray,Local Used,289588,2400,IMO,Registered,Registered,Automatic
+Lexus,RX,1999,White,Local Used,120028,3000,Abuja,Registered,Registered,Automatic
+Lexus,RX 350,2010,White,Local Used,187058,3500,LAGOS,Registered,Registered,Automatic
+Lexus,LS,2009,Blue,Local Used,90117,4600,N/A,Registered,Registered,Automatic
+Honda,Accord,2005,Gray,Local Used,335366,2400,N/A,Registered,Imported,Automatic
+Toyota,Camry,2003,Black,Local Used,236553,2400,N/A,Registered,Registered,Automatic
+Honda,Accord,2018,Black,Foreign Used,233761,1500,N/A,Imported,Imported,CVT
+Toyota,Camry,2005,Silver,Local Used,179422,2400,Lagos,Registered,Imported,Automatic
+Ford,Edge,2014,Red,Local Used,237776,3500,N/A,Registered,Imported,Automatic
+Infiniti,FX35,2009,Black,Local Used,158919,3500,Abuja,Registered,Registered,Automatic
+Mercedes-Benz,E350,2013,White,Local Used,212745,3500,Abuja,Registered,Registered,Automatic
+Ford,Flex,2009,Blue,Local Used,318712,3500,LAGOS,Registered,Imported,Automatic
+Toyota,Corolla,2004,Gold,Local Used,280663,1800,EDO,Registered,Registered,Automatic
+Toyota,Solara,2009,Black,Local Used,175122,3300,000,Registered,Imported,Automatic
+Audi,Q7,2008,Black,Local Used,303498,3600,LAGOS,Registered,Imported,Automatic
+Toyota,Camry,2005,Gray,Local Used,309184,2400,Lagos,Registered,Imported,Automatic
+Honda,Ridgeline,2006,Black,Local Used,190226,3500,Abuja,Registered,Registered,Automatic
+Lexus,RX 350,2010,Black,Local Used,109097,3500,N/A,Registered,Imported,Automatic
+Nissan,Pathfinder,2013,Gray,Foreign Used,18520,3500,N/A,Imported,Imported,Automatic
+Toyota,Camry,2010,Silver,Local Used,106763,2500,LAGOS,Registered,Registered,Automatic
+Toyota,Matrix,2005,Blue,Local Used,99999,1800,LAGOS,Registered,Registered,Automatic
+Lexus,RX 350,2008,Blue,Local Used,243568,3500,N/A,Registered,Registered,Automatic
+Toyota,Camry,2007,Black,Local Used,180184,2400,KWARA,Registered,Registered,Automatic
+Toyota,Corolla,2006,Blue,Local Used,359811,1800,LAGOS,Registered,Registered,Automatic
+Hyundai,Santa Fe,2013,Black,Local Used,64757,2500,N/A,Registered,Registered,Automatic
+Toyota,Highlander,2003,Silver,Local Used,241467,3000,ABUJA,Registered,Registered,Automatic
+Toyota,Camry,2008,Black,Local Used,46814,2400,Lagos,Registered,Registered,Automatic
+Toyota,Corolla Verso,2004,Silver,Local Used,183355,1800,Lagos,Registered,Registered,AMT
+Ford,Edge,2008,Blue,Local Used,237041,3500,LAGOS,Registered,Imported,Automatic
+Toyota,Highlander,2021,Black,Foreign Used,61855,3500,N/A,Imported,Brand new,Automatic
+Lexus,IS,2006,Black,Local Used,309628,2500,LAGOS,Registered,Imported,Automatic
+Toyota,Sienna,2004,Gray,Local Used,581795,3500,Kaduna,Registered,Imported,Automatic
+Peugeot,407,2006,Black,Local Used,227144,1800,ENUGU,Registered,Registered,Manual
+Toyota,Corolla,2011,Black,Local Used,260422,N/A,LAGOS,Registered,Brand new,Manual
+Toyota,Camry,1998,Gray,Local Used,350000,2200,ENUGU,Registered,Registered,Automatic
+Mercedes-Benz,GL-Class,2013,White,Foreign Used,180752,4600,N/A,Imported,Imported,Automatic
+Ford,Escape,2008,Gray,Local Used,262840,3300,N/A,Registered,Imported,Automatic
+Lexus,ES,2006,Gray,Local Used,172835,3500,ABUJA,Registered,Registered,Automatic
+Toyota,Highlander,2017,Burgandy,Foreign Used,61613,3500,N/A,Imported,Imported,Automatic
+Lexus,ES,2006,Silver,Local Used,196191,3500,LAGOS,Registered,Imported,Automatic
+Mazda,323,1999,Burgandy,Local Used,N/A,1500,N/A,Registered,Registered,Manual
+Toyota,Venza,2011,Red,Foreign Used,128502,N/A,N/A,Imported,Imported,Automatic
+Lexus,RX 350,2007,Blue,Local Used,217064,3500,N/A,Registered,Registered,Automatic
+Toyota,Highlander,2005,Silver,Local Used,203776,3300,LAGOS,Registered,Imported,Automatic
+Honda,CR-V,2001,Green,Local Used,130723,N/A,Lagos,Registered,Registered,Automatic
+Honda,Accord,2007,Blue,Local Used,70404,3000,Lagos,Registered,Imported,Automatic
+Acura,RL,2005,Gray,Local Used,N/A,3500,N/A,Registered,Imported,Automatic
+Toyota,Matrix,2012,Red,Local Used,193195,N/A,N/A,Registered,Registered,Automatic
+Acura,MDX,2002,Silver,Local Used,271738,3500,Lagos,Registered,Imported,Automatic
+Mazda,Tribute,2004,Black,Local Used,293670,3000,DELTA,Registered,Imported,Automatic
+Ford,Taurus,2011,Black,Local Used,181517,3500,LAGOS,Registered,Registered,Automatic
+Land Rover,Range Rover Sport,2021,Black,Foreign Used,31521,3000,N/A,Imported,Imported,CVT
+Toyota,Land Cruiser,2013,Black,Local Used,91014,5700,Lagos,Registered,Brand new,Automatic
+Toyota,Highlander,2004,Gray,Local Used,132255,3300,N/A,Registered,Imported,Automatic
+Toyota,Sienna,2001,Green,Local Used,122913,3800,LAGOS,Registered,Registered,Automatic
+Toyota,RAV4,2010,Silver,Local Used,307338,3500,LAGOS,Registered,Imported,Automatic
+Honda,Accord,2004,Gray,Local Used,68887,2400,LAGOS,Registered,Registered,Automatic
+Hyundai,Elantra,2007,Gold,Local Used,200769,2000,Lagos,Registered,Imported,Automatic
+Lexus,ES,2008,White,Local Used,258617,3500,N/A,Registered,Registered,Automatic
+Toyota,Matrix,2004,Blue,Local Used,202519,1800,LAGOS,Registered,Registered,Automatic
+Lexus,GX,2006,White,Local Used,196463,4700,LAGOS,Registered,Imported,Automatic
+Toyota,Corolla,2003,Blue,Local Used,463848,1800,ABUJA,Registered,Imported,Automatic
+Chevrolet,Captiva,2014,Red,Local Used,149591,2500,N/A,Registered,Imported,Automatic
+Acura,TL,2012,Black,Local Used,N/A,3500,LAGOS,Registered,Imported,Automatic
+Nissan,Rogue,2010,White,Local Used,247671,2800,LAGOS,Registered,Registered,Automatic
+Honda,Accord,2011,Red,Local Used,73932,2400,ABUJA,Registered,Registered,Automatic
+Hyundai,Accent,2014,Black,Local Used,259918,1400,N/A,Registered,Registered,Manual
+Nissan,Versa,2007,Blue,Local Used,186991,1800,N/A,Registered,Imported,Automatic
+Ford,Edge,2013,Black,Local Used,97873,3500,Lagos,Registered,Imported,Automatic
+Toyota,Corolla,2015,Gray,Local Used,213438,1800,N/A,Registered,Registered,Automatic
+Honda,Pilot,2014,White,Local Used,141055,3500,Kano,Registered,Brand new,Automatic
+Hyundai,Sonata,2015,Gray,Foreign Used,182727,2400,N/A,Imported,Imported,Automatic
+Honda,CR-V,2007,Black,Local Used,146619,2400,N/A,Registered,Registered,Automatic
+Toyota,HiAce,1996,White,Local Used,142118,3000,LAGOS,Registered,Imported,Manual
+Toyota,Sienna,2005,Silver,Foreign Used,120896,3300,N/A,Imported,Imported,Automatic
+Honda,Accord,2014,Black,Local Used,72974,2400,Lagos,Registered,Brand new,Automatic
+Ford,Edge,2008,Black,Local Used,132093,3500,N/A,Registered,Imported,Automatic
+Ford,Explorer,2013,Gray,Local Used,167854,3500,N/A,Registered,Registered,Automatic
+Land Rover,Range Rover Sport,2015,Black,Local Used,78183,3000,N/A,Registered,Imported,Automatic
+Honda,Accord Crosstour,2013,Black,Foreign Used,191401,2400,N/A,Imported,Imported,Automatic
+Honda,Pilot,2005,Black,Local Used,239315,3000,N/A,Registered,Imported,Automatic
+Toyota,Camry,2007,Silver,Local Used,410890,2400,LAGOS,Registered,Imported,Automatic
+Land Rover,Range Rover Sport,2010,Gray,Local Used,294876,4500,LAGOS,Registered,Registered,Automatic
+Hyundai,Starex,2009,Yellow,Local Used,126701,2500,LAGOS,Registered,Registered,Automatic
+Toyota,Venza,2010,Silver,Local Used,94150,3500,ABUJA,Registered,Imported,Automatic
+Toyota,Camry,2012,Silver,Foreign Used,58639,3500,N/A,Imported,Imported,Automatic
+Honda,Accord,2005,Black,Local Used,181708,2400,AKWA IBOM,Registered,Registered,Automatic
+Toyota,RAV4,2006,Blue,Local Used,146732,3600,LAGOS,Registered,Imported,Automatic
+Toyota,Camry,2003,Black,Local Used,152455,2400,LAGOS,Registered,Imported,Automatic
+Toyota,Corolla,2008,Blue,Local Used,206206,1800,Lagos,Registered,Imported,Automatic
+Toyota,Camry,2019,Red,Foreign Used,88887,2500,N/A,Imported,Imported,Automatic
+Toyota,Highlander,2003,Silver,Local Used,240431,3000,Abuja,Registered,Imported,Automatic
+Toyota,Corolla,2003,Gold,Local Used,328107,1600,N/A,Registered,Registered,Automatic
+Land Rover,Range Rover Sport,2012,Green,Foreign Used,156242,5000,N/A,Imported,Imported,Automatic
+Toyota,Sequoia,2004,Burgandy,Local Used,263461,4800,LAGOS,Registered,Registered,Automatic
+Toyota,Corolla,2016,Red,Local Used,103213,1800,N/A,Registered,Imported,Automatic
+Toyota,Highlander,2004,Red,Local Used,119788,2400,N/A,Registered,Imported,Automatic
+Toyota,Corolla,2009,Black,Local Used,164463,1800,Abuja,Registered,Registered,Automatic
+Lexus,ES,2002,Green,Local Used,172266,3300,ABUJA,Registered,Registered,Automatic
+Honda,Accord,2016,Black,Local Used,154858,3500,ABUJA,Registered,Imported,Automatic
+Honda,Civic,2008,Silver,Local Used,169687,1800,LAGOS,Registered,Registered,Automatic
+Hyundai,Elantra,2010,Black,Local Used,110675,1600,N/A,Registered,Registered,Automatic
+Land Rover,Range Rover Evoque,2014,White,Local Used,108234,2000,ABUJA,Registered,Registered,CVT
+Honda,Pilot,2007,Burgandy,Local Used,261475,3500,Lagos,Registered,Imported,Automatic
+Lexus,RX,1998,Silver,Local Used,436873,3000,LAGOS,Registered,Imported,Automatic
+Toyota,Yaris,2008,Gray,Local Used,296703,1500,Abuja,Registered,Registered,Automatic
+Toyota,Land Cruiser Prado,2012,Black,Local Used,89935,2700,Lagos,Registered,Brand new,Automatic
+Ford,Edge,2008,Gray,Local Used,119532,3500,N/A,Registered,Imported,Automatic
+Toyota,Highlander,2010,Black,Local Used,124846,3500,LAGOS,Registered,Imported,Automatic
+Toyota,Camry,2008,Black,Local Used,134543,3500,N/A,Registered,Registered,Automatic
+Toyota,Sequoia,2005,Black,Local Used,264201,4800,LAGOS,Registered,Registered,Automatic
+Nissan,Maxima,2014,White,Local Used,143996,3500,LAGOS,Registered,Registered,Automatic
+Toyota,Corolla,2010,Silver,Foreign Used,236709,1800,N/A,Imported,Imported,Automatic
+Toyota,Avalon,2006,Silver,Local Used,136540,3500,LAGOS,Registered,Registered,Automatic
+Lexus,LX,2009,Black,Local Used,126278,5700,N/A,Registered,Registered,Automatic
+Honda,Accord,2009,Blue,Local Used,179858,2400,LAGOS,Registered,Imported,Automatic
+Acura,MDX,2001,Silver,Local Used,328098,3500,LAGOS,Registered,Registered,Automatic
+Toyota,Corolla,2009,Green,Local Used,91378,1800,N/A,Registered,Registered,Automatic
+Toyota,RAV4,2007,Black,Local Used,314051,3500,N/A,Registered,Registered,Automatic
+Ford,Edge,2011,White,Local Used,172315,3700,N/A,Registered,Registered,Automatic
+Lexus,RX,2005,Burgandy,Local Used,154951,3300,N/A,Registered,Registered,Automatic
+Volkswagen,Tiguan,2012,Gray,Local Used,245577,2000,N/A,Registered,Registered,Automatic
+Nissan,Pathfinder,2005,Black,Local Used,251951,4000,N/A,Registered,Registered,Automatic
+Honda,Accord,2012,Black,Local Used,102632,3500,N/A,Registered,Registered,Automatic
+Honda,Accord,2006,Gray,Local Used,217862,3000,N/A,Registered,Registered,Automatic
+Kia,Optima,2009,Gray,Local Used,249331,2000,N/A,Registered,Imported,Automatic
+Honda,Pilot,2015,Gray,Local Used,183673,3500,N/A,Registered,Imported,Automatic
+Toyota,Camry,2007,Gray,Local Used,299141,2400,Lagos,Registered,Registered,Automatic
+Toyota,Corolla,2014,Red,Foreign Used,137410,1800,N/A,Imported,Imported,Automatic
+Toyota,Camry,2014,Black,Foreign Used,147158,2500,N/A,Imported,Imported,Automatic
+Toyota,Camry,2006,Silver,Local Used,188943,2400,EDO,Registered,Registered,Automatic
+Toyota,RAV4,2015,Gray,Local Used,120864,2000,N/A,Registered,Brand new,Automatic
+Toyota,Venza,2009,Red,Local Used,212463,3500,N/A,Registered,Imported,Automatic
+Lexus,ES,2005,Silver,Local Used,295518,3300,LAGOS,Registered,Registered,Automatic
+Toyota,Previa,2003,Black,Local Used,590089,2400,LAGOS,Registered,Imported,Automatic
+Hyundai,Sonata,2011,Blue,Foreign Used,169131,2400,N/A,Imported,Imported,Automatic
+Lexus,RX 350,2021,Black,Foreign Used,39248,3500,N/A,Imported,Imported,Automatic
+Toyota,Corolla,2003,Burgandy,Local Used,119517,1800,LAGOS,Registered,Registered,Automatic
+Toyota,Camry,2009,Silver,Local Used,185620,2000,Lagos,Registered,Imported,Automatic
+Volvo,XC90,2007,Green,Local Used,316772,3200,Lagos,Registered,Imported,Automatic
+Toyota,Venza,2009,Gold,Local Used,168771,3500,Lagos,Registered,Registered,Automatic
+Toyota,Camry,2009,Silver,Local Used,246642,2400,Cross River,Registered,Registered,Automatic
+Ford,Escape,2009,Gray,Local Used,328891,3000,LAGOS,Registered,Registered,Automatic
+Kia,Optima,2013,Gray,Foreign Used,80089,N/A,N/A,Imported,Imported,Automatic
+Toyota,RAV4,2010,Blue,Local Used,153222,3500,ABUJA,Registered,Imported,Automatic
+Hyundai,Santa Fe,2015,Black,Local Used,115992,2400,N/A,Registered,Imported,Automatic
+Toyota,Highlander,2006,White,Local Used,124733,3300,Lagos,Registered,Imported,Automatic
+Toyota,Corolla,2010,Black,Foreign Used,433662,1800,N/A,Imported,Imported,Automatic
+Lexus,RX 350,2015,Gray,Foreign Used,129228,3500,N/A,Imported,Imported,Automatic
+Honda,Odyssey,2007,Blue,Local Used,301422,3500,Lagos,Registered,Registered,Automatic
+Mazda,MPV,2002,Gold,Local Used,348135,3000,LAGOS,Registered,Registered,Automatic
+Toyota,4-Runner,2003,Blue,Local Used,152341,3500,N/A,Registered,Imported,Automatic
+Toyota,Camry,2008,Gray,Local Used,214417,2400,EDO,Registered,Registered,Automatic
+Honda,Pilot,2007,Black,Local Used,173279,3500,ABUJA,Registered,Registered,Automatic
+Toyota,Camry,2002,Gray,Local Used,393053,2400,Lagos,Registered,Registered,Automatic
+Honda,Civic,2001,Silver,Local Used,255565,1600,Abuja,Registered,Registered,Automatic
+Nissan,Pathfinder,2006,Gray,Local Used,206217,3500,Abuja,Registered,Registered,Automatic
+Hyundai,Accent,2010,Silver,Local Used,N/A,1600,Lagos,Registered,Registered,Manual
+Toyota,Corolla,2007,Gray,Local Used,329903,1800,Lagos,Registered,Imported,Automatic
+Mercedes-Benz,M Class,2012,Gray,Local Used,247749,3500,LAGOS,Registered,Registered,Automatic
+Toyota,Camry,2008,Blue,Local Used,267112,2400,ENUGU,Registered,Imported,Automatic
+Kia,Sportage,2017,White,Local Used,43660,2000,N/A,Registered,Imported,Automatic
+Toyota,Highlander,2015,Black,Foreign Used,254996,3500,N/A,Imported,Imported,Automatic
+Toyota,Camry,2006,Gold,Foreign Used,207397,2400,N/A,Imported,Imported,Automatic
+Toyota,Highlander,2008,Black,Local Used,113556,3500,LAGOS,Registered,Imported,Automatic
+Acura,MDX,2009,Gray,Local Used,104537,3700,LAGOS,Registered,Imported,Automatic
+Honda,Pilot,2011,Red,Local Used,104465,3500,Lagos,Registered,Imported,Automatic
+Opel,Signum,2005,Red,Local Used,136822,2200,PLATEAU,Registered,Registered,Automatic
+Toyota,4-Runner,2003,Black,Local Used,204134,4700,Abuja,Registered,Imported,Automatic
+Toyota,RAV4,2012,Silver,Foreign Used,85444,2500,N/A,Imported,Imported,Automatic
+Lexus,RX 350,2019,Gray,Local Used,24651,3500,Lagos,Registered,Imported,Automatic
+Toyota,Camry,2008,Black,Local Used,57406,2400,Delta,Registered,Registered,Automatic
+Nissan,Quest,2015,Green,Local Used,355321,3500,N/A,Registered,Imported,Automatic
+Mercedes-Benz,E350,2012,White,Local Used,57699,3500,N/A,Registered,Registered,Automatic
+Toyota,Highlander,2005,Gold,Local Used,99999,3300,KADUNA,Registered,Imported,Automatic
+Toyota,Avensis,2004,Red,Local Used,338724,1800,N/A,Registered,Imported,Automatic
+Toyota,Camry,2009,Green,Local Used,162197,3500,LAGOS,Registered,Imported,Automatic
+Honda,Accord,1996,Red,Local Used,156138,2000,LAGOS,Registered,Registered,Manual
+Nissan,Almera,2004,Blue,Local Used,267118,1800,LAGOS,Registered,Registered,Manual
+Toyota,RAV4,2017,Gray,Foreign Used,325276,2500,N/A,Imported,Imported,Automatic
+Land Rover,Range Rover Evoque,2018,White,Local Used,126854,2000,N/A,Registered,Imported,Automatic
+Lexus,RX 300,2001,Gray,Local Used,211688,3000,Abuja,Registered,Registered,Automatic
+Toyota,Sienna,2007,Blue,Foreign Used,238088,3500,N/A,Imported,Imported,Automatic
+Toyota,Corolla,2005,Red,Local Used,462572,1800,Lagos,Registered,Registered,Automatic
+Volkswagen,Golf,1999,Black,Local Used,305884,1800,Lagos,Registered,Imported,Automatic
+Hyundai,Accent,2012,Gold,Local Used,203750,1600,ABUJA,Registered,Registered,Automatic
+Toyota,Camry,2008,Gray,Local Used,244948,2400,ABUJA,Registered,Registered,Automatic
+Mazda,CX-9,2008,Black,Local Used,163443,3500,N/A,Registered,Imported,Automatic
+Acura,MDX,2008,Green,Local Used,350015,3500,ENUGU,Registered,Registered,Automatic
+Ford,Escape,2014,Black,Local Used,89621,1600,N/A,Registered,Brand new,Automatic
+Mitsubishi,Lancer,2008,Black,Local Used,177573,1500,LAGOS,Registered,Registered,Automatic
+Toyota,Matrix,2006,Green,Local Used,139261,1800,N/A,Registered,Registered,Automatic
+Kia,Forte,2010,Silver,Local Used,265180,2000,N/A,Registered,Imported,Automatic
+Toyota,Corolla,2005,Gray,Local Used,197708,1800,Lagos,Registered,Registered,Automatic
+Toyota,Venza,2010,Silver,Foreign Used,217038,3000,N/A,Imported,Imported,Automatic
+Ford,Edge,2011,Black,Local Used,128359,3500,ABUJA,Registered,Imported,Automatic
+Toyota,Sienna,2002,Silver,Local Used,281861,3000,KADUNA,Registered,Imported,Automatic
+Toyota,Camry,2009,Gray,Local Used,284870,2500,LAGOS,Registered,Imported,Automatic
+Volkswagen,Passat,2008,Black,Local Used,235252,2000,ABUJA,Registered,Registered,Automatic
+Toyota,RAV4,2007,Black,Local Used,255085,2400,N/A,Registered,Imported,Automatic
+Mercedes-Benz,GLK-Class,2012,Black,Local Used,262114,3500,N/A,Registered,Registered,Automatic
+Toyota,Corolla,2006,Blue,Local Used,313225,1800,Lagos,Registered,Imported,Automatic
+Toyota,Camry,2013,Red,Foreign Used,334192,2500,N/A,Imported,Imported,Automatic
+Toyota,Camry,2004,Blue,Local Used,559878,2400,Lagos,Registered,Imported,Automatic
+Mercedes-Benz,M Class,2006,White,Local Used,340095,3500,LAGOS,Registered,Imported,Automatic
+Mercedes-Benz,C180,1999,Silver,Foreign Used,308073,1800,N/A,Imported,Imported,Automatic
+Toyota,Highlander,2008,Black,Local Used,191664,3500,DELTA,Registered,Imported,Automatic
+Toyota,Highlander,2008,Black,Local Used,169994,3500,N/A,Registered,Imported,Automatic
+Land Rover,Range Rover Velar,2018,Black,Local Used,55359,3000,ABUJA,Registered,Imported,Automatic
+Hyundai,Elantra,2010,Gray,Local Used,247238,2400,N/A,Registered,Brand new,Automatic
+Toyota,Camry,2012,Black,Local Used,371325,3500,N/A,Registered,Imported,Automatic
+Toyota,Matrix,2005,Silver,Local Used,224510,1800,N/A,Registered,Registered,Automatic
+Seat,Ibiza,1999,Green,Local Used,12071,1600,LAGOS,Registered,Imported,Manual
+Mercedes-Benz,M Class,2012,Black,Foreign Used,261154,3500,N/A,Imported,Imported,Automatic
+Toyota,Corolla,2005,Silver,Local Used,280866,1800,LAGOS,Registered,Imported,Manual
+Hyundai,Sonata,2006,Black,Local Used,223064,2400,N/A,Registered,Brand new,Automatic
+Toyota,Highlander,2004,Silver,Local Used,432587,3000,Lagos,Registered,Registered,Automatic
+Mercedes-Benz,C300,2008,Gray,Local Used,N/A,3000,Lagos,Registered,Registered,Automatic
+Lexus,RX 350,2014,Gray,Foreign Used,127508,3500,N/A,Imported,Imported,Automatic
+Toyota,Camry,2005,Gray,Local Used,265415,2400,Lagos,Registered,Imported,Automatic
+Peugeot,206,2006,Black,Local Used,99999,1600,KADUNA,Registered,Registered,Automatic
+Volkswagen,Passat,2018,White,Foreign Used,63629,3600,N/A,Imported,Imported,Automatic
+Toyota,Venza,2010,Silver,Local Used,133681,2700,Lagos,Registered,Registered,Automatic
+Ford,Edge,2008,Black,Local Used,133449,3500,LAGOS,Registered,Registered,Automatic
+Toyota,Corolla,2015,Red,Local Used,223287,1800,ABUJA,Registered,Registered,Automatic
+Lexus,ES,2008,Burgandy,Local Used,71000,3500,N/A,Registered,Registered,Automatic
+Toyota,Corolla,2004,Gray,Local Used,62160,1800,Abuja,Registered,Registered,Automatic
+Toyota,Camry,2007,Gold,Local Used,288420,2400,N/A,Registered,Registered,Automatic
+Honda,Civic,2007,Blue,Local Used,98803,1800,LAGOS,Registered,Registered,Automatic
+Honda,Odyssey,2003,Black,Local Used,N/A,3500,Lagos,Registered,Registered,Automatic
+Toyota,Camry,2014,Gray,Local Used,87792,2500,N/A,Registered,Imported,Automatic
+Lexus,RX 330,2005,Black,Local Used,302642,3300,Lagos,Registered,Imported,Automatic
+Lexus,ES,2007,Burgandy,Local Used,113305,3500,LAGOS,Registered,Registered,Automatic
+Toyota,Land Cruiser Prado,2009,Black,Local Used,144534,4000,Lagos,Registered,Brand new,Automatic
+Toyota,Camry,2005,Gray,Local Used,11938,2400,N/A,Registered,Registered,Automatic
+Toyota,Highlander,2013,Gray,Local Used,109866,3500,Rivers,Registered,Registered,Automatic
+Toyota,Camry,2009,Gold,Local Used,118305,2400,LAGOS,Registered,Imported,Automatic
+Lexus,GX,2014,Gray,Local Used,73561,4600,ABUJA,Registered,Imported,Automatic
+Volvo,XC90,2003,Blue,Local Used,403764,2900,Ondo,Registered,Registered,Automatic
+Lexus,RX 350,2014,Gray,Local Used,62301,3500,Abuja,Registered,Imported,Automatic
+Toyota,Camry,2008,Red,Local Used,124695,2400,EDO,Registered,Registered,Automatic
+Toyota,Corolla,2005,Silver,Local Used,172040,1800,ABUJA,Registered,Imported,Automatic
+Lexus,RX 300,2001,Blue,Local Used,233144,3000,LAGOS,Registered,Registered,Automatic
+Toyota,Camry,2012,Gray,Foreign Used,307913,2500,N/A,Imported,Imported,Automatic
+Honda,Pilot,2004,Gray,Local Used,337563,3500,Abuja,Registered,Registered,Automatic
+Toyota,Sienna,2006,Gray,Local Used,144103,3300,LAGOS,Registered,Imported,Automatic
+Honda,Accord,2003,Black,Local Used,537978,2400,OGUN,Registered,Registered,Automatic
+Honda,Accord,2018,Black,Local Used,49739,1500,N/A,Registered,Imported,Automatic
+Toyota,RAV4,2007,Silver,Local Used,352181,3500,N/A,Registered,Registered,Automatic
+Renault,Kangoo,2001,Blue,Local Used,100000,1200,Lagos,Registered,Imported,Manual
+Toyota,Sienna,2004,Gray,Local Used,526077,N/A,Abuja,Registered,Registered,Automatic
+Lexus,ES,2002,Gray,Local Used,123401,3500,N/A,Registered,Registered,Automatic
+Toyota,Camry,2007,Blue,Local Used,271077,2500,Lagos,Registered,Registered,Automatic
+Toyota,Camry,2007,Gray,Local Used,192874,N/A,LAGOS,Registered,Registered,Automatic
+Toyota,Camry,2007,Red,Local Used,365579,2400,LAGOS,Registered,Registered,Automatic
+Toyota,Camry,2007,Gold,Local Used,113156,3500,Lagos,Registered,Registered,Automatic
+Toyota,Highlander,2018,Gray,Local Used,31147,3500,N/A,Registered,Imported,Automatic
+Toyota,Corolla,2003,Black,Local Used,221748,1800,N/A,Registered,Imported,Automatic
+Peugeot,407,2010,Black,Local Used,720735,1800,N/A,Registered,Registered,Automatic
+Peugeot,RC,2011,White,Foreign Used,135789,2000,N/A,Imported,Imported,Manual
+Mercedes-Benz,GLS-Class,2020,White,Foreign Used,27651,3000,N/A,Imported,Imported,Automatic
+Toyota,Corolla,2017,Black,Local Used,21822,2000,LAGOS,Registered,Registered,Automatic
+Toyota,Camry,2002,Silver,Local Used,403316,2400,N/A,Registered,Registered,Automatic
+Kia,Cerato,2011,Black,Local Used,99999,1600,Lagos,Registered,Registered,Manual
+Toyota,Corolla,2005,Black,Local Used,276665,1800,KADUNA,Registered,Imported,Automatic
+Toyota,Camry,2012,Gray,Local Used,164625,3500,N/A,Registered,Registered,Automatic
+Infiniti,Q60,2015,Gray,Foreign Used,268154,3500,N/A,Imported,Imported,Automatic
+Ford,Edge,2008,Gray,Local Used,367833,3500,Lagos,Registered,Registered,Automatic
+Mercedes-Benz,C180,2005,Blue,Local Used,293034,1800,EDO,Registered,Imported,Manual
+Toyota,4-Runner,2003,Gray,Local Used,20285,4700,LAGOS,Registered,Imported,Automatic
+Nissan,Almera,1998,Green,Local Used,302329,1400,OGUN,Registered,Registered,Manual
+Mercedes-Benz,E350,2014,Brown,Local Used,121440,3500,LAGOS,Registered,Imported,Automatic
+Mitsubishi,Pajero,2016,Black,Local Used,83800,3500,Lagos,Registered,Imported,Automatic
+Hyundai,Elantra,2017,Gray,Foreign Used,208840,2000,N/A,Imported,Imported,Automatic
+Toyota,Highlander,2018,Silver,Foreign Used,77539,3500,N/A,Imported,Imported,Automatic
+Honda,Pilot,2011,Silver,Foreign Used,256139,3500,N/A,Imported,Imported,Automatic
+Toyota,Corolla,2003,Black,Local Used,299999,1800,LAGOS,Registered,Registered,Automatic
+Mercedes-Benz,E350,2010,Black,Local Used,230580,3500,N/A,Registered,Registered,Automatic
+Honda,Accord,2005,Gold,Local Used,232645,3000,N/A,Registered,Imported,Automatic
+Toyota,Camry,2005,Green,Local Used,116224,2400,Lagos,Registered,Registered,Automatic
+Kia,Rio,2008,White,Local Used,169196,1400,Lagos,Registered,Brand new,Automatic
+Lexus,RX 330,2005,Blue,Local Used,196667,3300,ABUJA,Registered,Imported,Automatic
+Lexus,GS,2006,Blue,Local Used,311288,3000,N/A,Registered,Imported,Automatic
+Mercedes-Benz,C230,2007,Silver,Local Used,298387,2500,ABUJA,Registered,Registered,Automatic
+Mitsubishi,Pajero,2008,Black,Local Used,136433,3500,LAGOS,Registered,Registered,Automatic
+Toyota,Camry,2020,Black,Foreign Used,64125,2500,N/A,Imported,Imported,Automatic
+Toyota,Camry,2011,Red,Local Used,342483,2500,Abuja,Registered,Imported,Automatic
+Dodge,RAM,2011,Silver,Local Used,216221,4000,LAGOS,Registered,Imported,Automatic
+Toyota,Camry,2007,Blue,Local Used,452885,2400,Lagos State,Registered,Imported,Automatic
+Toyota,RAV4,2002,Gold,Local Used,255082,2000,LAGOS,Registered,Registered,Automatic
+Hyundai,Sonata,2013,Black,Foreign Used,223199,2400,N/A,Imported,Imported,Automatic
+Toyota,Camry,2010,Red,Local Used,167311,2500,LAGOS,Registered,Imported,Automatic
+Mercedes-Benz,GLE-Class,2020,White,Foreign Used,62208,2200,N/A,Imported,Imported,Automatic
+Toyota,Hilux,2013,White,Local Used,93632,3000,LAGOS,Registered,Brand new,Manual
+Infiniti,G35,2006,Gray,Local Used,258440,3500,Abuja,Registered,Registered,Automatic
+Toyota,Highlander,2005,Silver,Local Used,221075,3300,LAGOS,Registered,Registered,Automatic
+Ford,Escape,2013,Gray,Local Used,236879,2500,LAGOS,Registered,Registered,Automatic
+Toyota,Corolla,2003,Black,Local Used,146018,1800,ENUGU,Registered,Registered,Automatic
+Toyota,Corolla,2005,Red,Local Used,280163,1800,N/A,Registered,Imported,Automatic
+Nissan,Pathfinder,2001,Silver,Local Used,138002,3500,IMO,Registered,Registered,Automatic
+Honda,Accord,2009,Gray,Local Used,334670,3500,LAGOS,Registered,Imported,Automatic
+Toyota,Highlander,2002,Silver,Local Used,413265,3000,N/A,Registered,Imported,Automatic
+Hyundai,Accent,2008,White,Local Used,231524,1600,N/A,Registered,Registered,Manual
+Honda,Pilot,2013,White,Local Used,103733,N/A,LAGOS,Registered,Registered,Automatic
+BMW,3 Series,2006,Gray,Local Used,227040,3000,Abuja,Registered,Registered,Automatic
+Opel,Zafira,2005,Blue,Local Used,154810,2200,Lagos,Registered,Registered,Automatic
+Toyota,Venza,2013,White,Foreign Used,185524,3500,N/A,Imported,Imported,Automatic
+Lexus,LS,2007,Green,Local Used,112376,4600,Lagos,Registered,Imported,Automatic
+Mazda,CX-9,2012,Gray,Local Used,251972,3700,ABUJA,Registered,Imported,Automatic
+Mercedes-Benz,A-Class,2007,Silver,Local Used,N/A,1700,OGUN,Registered,Imported,Manual
+Lexus,RX 300,2002,Black,Local Used,349349,3000,OGUN,Registered,Imported,Automatic
+Toyota,Corolla,2005,Gray,Local Used,473543,1800,ABUJA,Registered,Registered,Automatic
+Mercedes-Benz,GLE-Class,2018,Black,Foreign Used,59640,3500,N/A,Imported,Imported,Automatic
+Toyota,Camry,2007,Red,Local Used,256097,2400,LAGOS,Registered,Registered,Automatic
+Toyota,Corolla,2005,Gold,Local Used,289430,1800,Lagos,Registered,Imported,Automatic
+Audi,Q7,2007,Black,Local Used,257627,3000,LAGOS,Registered,Imported,Automatic
+Mercedes-Benz,M Class,2009,Gray,Local Used,331805,3500,ABUJA,Registered,Imported,Automatic
+Honda,Accord,2007,Gray,Local Used,167112,3000,N/A,Registered,Registered,Automatic
+Toyota,Carina,1993,Black,Local Used,265201,2000,LAGOS,Registered,Registered,Manual
+Hyundai,Santa Fe,2017,Gray,Local Used,107508,2400,Lagos,Registered,Imported,Automatic
+Toyota,Corolla,2004,Silver,Local Used,133865,1800,LAGOS,Registered,Imported,Automatic
+Honda,CR-V,2009,Black,Local Used,213521,2400,N/A,Registered,Registered,Automatic
+Toyota,Camry,2007,Gray,Local Used,166355,2400,N/A,Registered,Registered,Automatic
+Toyota,Corolla,2003,Blue,Local Used,392585,1800,N/A,Registered,Registered,Automatic
+Toyota,Tacoma,2008,Silver,Local Used,467090,4000,N/A,Registered,Imported,Automatic
+Toyota,Highlander,2008,Black,Local Used,102352,3500,N/A,Registered,Registered,Automatic
+Lexus,RX 300,2000,Gold,Local Used,320781,3000,Lagos,Registered,Registered,Automatic
+Mercedes-Benz,C350,2008,White,Local Used,N/A,3500,N/A,Registered,Registered,Automatic
+Honda,Accord,2012,Black,Local Used,269644,N/A,N/A,Registered,Imported,Automatic
+Lexus,RX,2010,White,Foreign Used,100348,3500,N/A,Imported,Imported,Automatic
+Volkswagen,Passat,1998,Silver,Local Used,273313,2000,Lagos.,Registered,Registered,Automatic
+Toyota,Corolla,2010,Gray,Local Used,372237,1800,FCT,Registered,Imported,Automatic
+Hummer,H3,2007,Blue,Local Used,93214,3500,N/A,Registered,Imported,Automatic
+Toyota,Highlander,2004,Silver,Local Used,318687,3300,N/A,Registered,Registered,Automatic
+Toyota,Camry,2000,Black,Local Used,174979,2200,N/A,Registered,Registered,Automatic
+Skoda,Rapid,2014,Gray,Local Used,98453,1600,Lagos,Registered,Registered,Automatic
+Honda,Civic,2006,Gray,Local Used,371309,1800,N/A,Registered,Registered,Automatic
+Toyota,Corolla,2010,Black,Local Used,236448,1800,LAGOS,Registered,Registered,Automatic
+Toyota,Corolla,2005,Red,Local Used,465155,1800,N/A,Registered,Registered,Automatic
+Kia,Rio,2014,Silver,Local Used,81911,1500,LAGOS,Registered,Registered,Automatic
+Chevrolet,Cruze,2012,Teal,Foreign Used,290839,1400,N/A,Imported,Imported,Manual
+Lexus,IS,2014,White,Foreign Used,205335,2500,N/A,Imported,Imported,Automatic
+Honda,Pilot,2005,Black,Local Used,126585,3500,EDO,Registered,Imported,Automatic
+Honda,Accord,2003,Gold,Local Used,259525,2500,Lagos,Registered,Registered,Automatic
+Honda,Accord,2003,Blue,Local Used,411172,2400,Osun state,Registered,Imported,Automatic
+Toyota,Camry,1998,Gold,Local Used,235421,2200,N/A,Registered,Registered,Automatic
+Toyota,Land Cruiser Prado,2021,Black,Local Used,4365,2700,N/A,Registered,Imported,Automatic
+Mercedes-Benz,E350,2010,Gray,Local Used,268214,3500,N/A,Registered,Registered,Automatic
+Toyota,Camry,2001,Gold,Local Used,141989,3000,N/A,Registered,Registered,Automatic
+Infiniti,FX35,2008,Blue,Local Used,456679,3500,N/A,Registered,Registered,Automatic
+Lexus,RX 350,2015,Brown,Foreign Used,309702,3500,N/A,Imported,Imported,Automatic
+Toyota,Corolla,2010,Silver,Foreign Used,244609,1800,N/A,Imported,Imported,Automatic
+Ford,Edge,2013,Silver,Local Used,161962,3500,ABUJA,Registered,Imported,Automatic
+Nissan,Almera,2013,Silver,Local Used,110418,2000,N/A,Registered,Imported,Automatic
+Honda,Accord Crosstour,2012,Black,Local Used,123069,3500,N/A,Registered,Imported,Automatic
+Toyota,Camry,2018,Gray,Local Used,108353,3500,ABUJA,Registered,Imported,Automatic
+Toyota,RAV4,2002,Silver,Local Used,101575,2400,LAGOS,Registered,Registered,Automatic
+Lexus,ES,2008,Gold,Local Used,95055,3500,LAGOS,Registered,Imported,Automatic
+Mazda,323,1998,Red,Foreign Used,144787,1400,N/A,Imported,Imported,Automatic
+Dodge,RAM,2013,Blue,Foreign Used,303611,5700,N/A,Imported,Imported,Automatic
+Hyundai,Sonata,2015,Gray,Foreign Used,156942,2400,N/A,Imported,Imported,Automatic
+Toyota,Carina,1992,Gray,Local Used,345213,2000,N/A,Registered,Registered,Automatic
+Nissan,Pathfinder,2002,Black,Local Used,382215,3500,LAGOS,Registered,Registered,Automatic
+Toyota,Camry,2002,Green,Local Used,181535,2400,Lagos,Registered,Registered,Automatic
+Toyota,4-Runner,2003,Gray,Local Used,196692,4000,N/A,Registered,Registered,Automatic
+Toyota,RAV4,2008,Black,Local Used,198384,3500,LAGOS,Registered,Imported,Automatic
+Lexus,RX 350,2009,Black,Foreign Used,364270,3500,N/A,Imported,Imported,Automatic
+Acura,MDX,2008,Gray,Local Used,106889,3700,Abuja,Registered,Registered,Automatic
+Toyota,Camry,1999,Gold,Local Used,197214,N/A,ABUJA,Registered,Registered,Automatic
+Toyota,Camry,2009,Silver,Local Used,203316,2400,N/A,Registered,Imported,Automatic
+Toyota,Sienna,2008,Gray,Local Used,167005,3500,N/A,Registered,Imported,Automatic
+Toyota,Highlander,2001,Black,Local Used,258670,3000,ABUJA,Registered,Registered,Automatic
+BMW,528i,2013,White,Foreign Used,271920,2000,N/A,Imported,Imported,Automatic
+Lexus,ES,2009,Black,Local Used,259454,3500,ABUJA,Registered,Imported,Automatic
+Toyota,Avalon,2008,Silver,Local Used,239078,3500,N/A,Registered,Registered,Automatic
+Volkswagen,Sharan,2001,Red,Foreign Used,224245,1800,N/A,Imported,Imported,Manual
+Toyota,Highlander,2013,Black,Local Used,53490,3500,N/A,Registered,Imported,Automatic
+Toyota,Camry,2007,Red,Local Used,83772,2400,Lagos,Registered,Imported,Automatic
+Honda,Pilot,2010,Black,Local Used,151098,3500,abuja,Registered,Imported,Automatic
+Mercedes-Benz,C300,2015,Black,Local Used,100690,2000,Abuja,Registered,Registered,Automatic
+Honda,Accord,2014,Black,Local Used,86998,3500,N/A,Registered,Imported,Automatic
+Honda,CR-V,2002,Black,Local Used,234153,2800,LAGOS,Registered,Registered,Automatic
+Toyota,Corolla,2008,Blue,Local Used,162746,1800,Lagos,Registered,Imported,Automatic
+Honda,Accord,2022,Silver,Foreign Used,19347,1500,N/A,Imported,Imported,Automatic
+Lexus,RX 400h,2007,Silver,Foreign Used,321433,3500,N/A,Imported,Imported,Automatic
+Peugeot,406,2000,Silver,Local Used,999999,N/A,N/A,Registered,Registered,Automatic
+Honda,Accord,2008,Blue,Local Used,143431,2400,Abuja,Registered,Registered,Automatic
+Toyota,Camry,2004,Green,Local Used,388145,3000,DELTA,Registered,Imported,Automatic
+Lexus,RX 350,2010,Black,Foreign Used,181914,3500,N/A,Imported,Imported,Automatic
+Honda,Accord,1999,Silver,Local Used,238689,2000,LAGOS,Registered,Registered,Automatic
+Mercedes-Benz,C300,2014,Black,Local Used,158952,3500,N/A,Registered,Imported,Automatic
+Ford,Edge,2007,Gray,Local Used,389067,3500,N/A,Registered,Registered,Automatic
+Lexus,IS,2019,Gray,Local Used,81926,N/A,N/A,Registered,Imported,Automatic
+Lexus,GX,2012,Black,Local Used,122063,4600,Lagos,Registered,Imported,Automatic
+Skoda,Octavia,2013,Blue,Local Used,116198,2000,Lagos,Registered,Registered,Automatic
+Toyota,Camry,2004,Silver,Local Used,158244,2400,LAGOS,Registered,Registered,Automatic
+Toyota,Matrix,2005,Gray,Local Used,284446,2500,N/A,Registered,Imported,Automatic
+Toyota,Camry,2008,Gold,Local Used,253343,2400,LAGOS,Registered,Imported,Automatic
+Acura,TSX,2009,Brown,Local Used,136399,2400,N/A,Registered,Registered,Automatic
+Toyota,Venza,2010,Black,Foreign Used,162507,3500,N/A,Imported,Imported,Automatic
+Land Rover,Lr4,2010,Black,Local Used,157670,5000,N/A,Registered,Imported,Automatic
+Toyota,Camry,2004,Silver,Local Used,224443,2400,N/A,Registered,Imported,Automatic
+Toyota,Corolla,2007,Blue,Local Used,159252,1800,N/A,Registered,Imported,Automatic
+Toyota,Camry,2007,Red,Local Used,103820,2400,Lagos,Registered,Imported,Automatic
+Lexus,RX 300,2000,Black,Local Used,340803,3000,LAGOS,Registered,Registered,Automatic
+Acura,TL,2009,Black,Local Used,344430,3500,LAGOS,Registered,Registered,Automatic
+Honda,Accord,2006,Black,Local Used,207728,2400,N/A,Registered,Registered,Automatic
+Toyota,Highlander,2011,Blue,Local Used,240935,N/A,LAGOS,Registered,Imported,Automatic
+Lexus,RX 330,2006,Black,Local Used,317123,3300,LAGOS,Registered,Imported,Automatic
+Toyota,Avalon,2005,Gray,Local Used,225606,3500,FCT,Registered,Registered,Automatic
+Nissan,Murano,2005,Red,Local Used,250562,3500,Nasarawa,Registered,Registered,Automatic
+Mercedes-Benz,C300,2008,White,Local Used,332046,3000,ABUJA,Registered,Registered,Automatic
+Toyota,Highlander,2012,Black,Foreign Used,144673,3500,N/A,Imported,Imported,Automatic
+Toyota,Corolla,2008,Beige,Local Used,107280,1800,N/A,Registered,Imported,Automatic
+Hyundai,Sonata,2013,Silver,Foreign Used,194088,2400,N/A,Imported,Imported,Automatic
+Lexus,ES,2005,Silver,Local Used,408236,3300,LAGOS,Registered,Registered,Automatic
+Mercedes-Benz,C300,2015,Black,Local Used,142615,2000,Lagos,Registered,Imported,Automatic
+Toyota,Camry,2012,Silver,Foreign Used,213601,2500,N/A,Imported,Imported,Automatic
+Lexus,RX 350,2012,Black,Local Used,225385,3500,Bayelsa,Registered,Imported,Automatic
+Toyota,Sienna,2008,Black,Local Used,226519,3500,Abuja,Registered,Registered,Automatic
+Ford,Edge,2017,Brown,Local Used,74040,2000,N/A,Registered,Registered,Automatic
+Toyota,Matrix,2005,Silver,Local Used,155682,1800,N/A,Registered,Registered,Automatic
+Toyota,RAV4,2020,Gray,Foreign Used,380576,2500,N/A,Imported,Imported,Automatic
+Toyota,HiAce,2004,White,Local Used,85680,2500,LAGOS,Registered,Imported,Manual
+Toyota,Corolla,2004,Gray,Local Used,413342,1800,LAGOS,Registered,Imported,Automatic
+Peugeot,207,2008,Silver,Foreign Used,179007,1400,N/A,Imported,Imported,Manual
+Toyota,Camry,2004,Gold,Local Used,262301,2400,N/A,Registered,Registered,Automatic
+Toyota,Sienna,2007,Gold,Local Used,98141,3500,N/A,Registered,Imported,Automatic
+Honda,Accord,2003,Gold,Local Used,349159,2400,Lagos State,Registered,Imported,Automatic
+Toyota,Camry,1999,Gold,Local Used,241323,2200,ABUJA,Registered,Registered,Automatic
+Nissan,Altima,2011,Blue,Local Used,141377,2500,N/A,Registered,Imported,CVT
+Lexus,LS,2007,Black,Local Used,117659,4500,ABUJA,Registered,Registered,Automatic
+Toyota,Highlander,2017,Gray,Local Used,92987,3500,N/A,Registered,Imported,Automatic
+Toyota,Camry,2003,Blue,Local Used,222825,2400,LAGOS,Registered,Registered,Automatic
+Toyota,Camry,2003,Black,Local Used,232351,2400,N/A,Registered,Registered,Automatic
+Toyota,Land Cruiser,2018,Black,Local Used,176858,4600,LAGOS,Registered,Brand new,Automatic
+Toyota,Land Cruiser,2008,Black,Local Used,91495,4000,N/A,Registered,Imported,Automatic
+Chevrolet,Camaro,2013,Black,Local Used,126843,3600,N/A,Registered,Imported,Automatic
+Volkswagen,Golf,2008,Silver,Local Used,171990,2500,ENUGU,Registered,Imported,Automatic
+Nissan,Rogue,2001,Black,Local Used,199872,2500,N/A,Registered,Registered,Automatic
+Toyota,Camry,2007,Gold,Local Used,242569,2400,RIVERS,Registered,Imported,Automatic
+Hyundai,Ix35,2011,Blue,Local Used,114787,2000,Lagos,Registered,Registered,Automatic
+Toyota,Matrix,2004,Silver,Local Used,235114,1800,Lagos,Registered,Imported,Automatic
+Toyota,Highlander,2020,Silver,Foreign Used,92036,3500,N/A,Imported,Imported,Automatic
+Ford,Edge,2007,Gray,Local Used,87834,3500,AKWA IBOM,Registered,Registered,Automatic
+Honda,Accord,2003,Black,Local Used,N/A,3000,N/A,Registered,Imported,Automatic
+Nissan,Pathfinder,2006,Gold,Local Used,245326,4000,LAGOS,Registered,Registered,Automatic
+Toyota,Corolla,2007,Black,Local Used,224302,1800,AKWA IBOM,Registered,Registered,Automatic
+Honda,Accord Crosstour,2010,Red,Local Used,103179,3500,N/A,Registered,Registered,Automatic
+Toyota,Fortuner,2015,Black,Local Used,82363,2700,Lagos,Registered,Imported,Automatic
+Toyota,RAV4,2002,Blue,Local Used,260148,2000,Abuja,Registered,Registered,Automatic
+Land Rover,Range Rover,2006,White,Local Used,N/A,N/A,LAGOS,Registered,Imported,CVT
+Toyota,4-Runner,2005,Blue,Local Used,254431,3500,LAGOS,Registered,Imported,Automatic
+Toyota,Camry,2002,Gold,Local Used,293519,2400,LAGOS,Registered,Registered,Automatic
+Mercedes-Benz,C230,2009,Gray,Local Used,127527,2500,Kebbi state,Registered,Registered,Automatic
+Lexus,RX 350,2010,Gray,Foreign Used,245135,3500,N/A,Imported,Imported,Automatic
+Toyota,Camry,2003,Blue,Local Used,360582,N/A,IMO,Registered,Registered,Automatic
+Toyota,Camry,2008,Blue,Foreign Used,253294,2400,N/A,Imported,Imported,Automatic
+Land Rover,Range Rover Vogue,2014,White,Local Used,67229,2200,LAGOS,Registered,Imported,Automatic
+Ford,Mustang,2018,Gray,Foreign Used,38619,2300,N/A,Imported,Imported,Automatic
+Lexus,RX,2013,Black,Foreign Used,282070,3500,N/A,Imported,Imported,Automatic
+Toyota,Highlander,2010,Black,Local Used,281777,3500,N/A,Registered,Registered,Automatic
+Honda,Pilot,2003,Gold,Local Used,115694,3500,RIVERS,Registered,Registered,Automatic
+Toyota,Sienna,2005,Red,Local Used,350772,3300,Lagos,Registered,Registered,Automatic
+Toyota,Camry,2003,Black,Local Used,477983,2400,Lagos,Registered,Registered,Automatic
+Toyota,Corolla,2017,Black,Foreign Used,75639,1800,N/A,Imported,Imported,CVT
+Lexus,RX 350,2017,Gray,Local Used,44029,3500,LAGOS,Registered,Imported,Automatic
+Honda,Accord,2006,Silver,Local Used,106916,2400,ABUJA,Registered,Registered,Manual
+Toyota,RAV4,2007,Black,Local Used,129662,2400,Lagos,Registered,Imported,Automatic
+Lexus,ES,2002,Beige,Local Used,160888,3000,LAGOS,Registered,Registered,Automatic
+Toyota,Corolla,2006,Blue,Local Used,482800,1800,Lagos,Registered,Registered,Automatic
+Toyota,Corolla,2008,Black,Local Used,142191,1400,DELTA,Registered,Registered,Manual
+Nissan,Maxima,2005,Black,Local Used,110525,3500,LAGOS,Registered,Registered,Automatic
+Jeep,Wrangler,2014,Black,Local Used,91384,3600,Lagos,Registered,Imported,Automatic
+Nissan,Primera,1998,Silver,Local Used,577304,2000,Oyo State,Registered,Registered,Manual
+Toyota,RAV4,2001,Blue,Local Used,200747,1800,LAGOS,Registered,Registered,Automatic
+Toyota,Camry,2007,Blue,Foreign Used,304236,2400,N/A,Imported,Imported,Automatic
+Kia,Sportage,2013,Black,Local Used,128296,2000,N/A,Registered,Brand new,Automatic
+Peugeot,508,2018,Black,Local Used,88855,N/A,Abuja,Registered,Registered,Automatic
+Lexus,RX,2000,Brown,Local Used,129622,3000,AKWA IBOM,Registered,Registered,Automatic
+Mercedes-Benz,CLK,2003,Black,Local Used,125190,5000,ABUJA,Registered,Imported,Automatic
+Mercedes-Benz,GLA-Class,2017,Black,Local Used,34800,4600,Lagos,Registered,Imported,Automatic
+Toyota,Land Cruiser Prado,2013,Black,Local Used,248027,2500,N/A,Registered,Brand new,Automatic
+Lexus,RX,2006,Black,Local Used,N/A,3300,N/A,Registered,Registered,Automatic
+Lexus,RX 300,2003,Gray,Local Used,98868,3000,Lagos,Registered,Registered,Automatic
+GMC,Terrain,2013,Black,Local Used,364193,3600,ABUJA,Registered,Imported,Automatic
+Toyota,Venza,2010,White,Local Used,236601,3500,Taraba,Registered,Registered,Automatic
+BMW,5 Series,2009,Silver,Foreign Used,173893,3000,N/A,Imported,Imported,Automatic
+Acura,MDX,2008,White,Local Used,180342,3700,N/A,Registered,Registered,Automatic
+Honda,Accord,2008,Silver,Local Used,223888,N/A,LAGOS,Registered,Imported,Automatic
+Lexus,RX 350,2008,Gold,Local Used,215350,3500,N/A,Registered,Registered,Automatic
+Toyota,Corolla,2009,White,Local Used,266965,1800,Abuja,Registered,Registered,Automatic
+Mercedes-Benz,S-Class,2015,Black,Local Used,123334,4700,Abuja,Registered,Imported,Automatic
+Lexus,RX 300,2000,Black,Local Used,548424,3000,LAGOS,Registered,Registered,Automatic
+Toyota,Camry,2008,Gold,Local Used,196164,2400,Abuja,Registered,Registered,Automatic
+Toyota,Corolla,2009,Blue,Foreign Used,48751,1900,N/A,Imported,Imported,Automatic
+Toyota,Highlander,2022,White,Foreign Used,15523,3500,N/A,Imported,Imported,Automatic
+Toyota,RAV4,2018,Red,Foreign Used,119765,2500,N/A,Imported,Imported,Automatic
+Toyota,RAV4,2015,Black,Foreign Used,47768,2500,N/A,Imported,Imported,Automatic
+Honda,Accord,2001,Silver,Local Used,N/A,2300,Kano,Registered,Registered,Automatic
+Hyundai,Elantra,2008,White,Local Used,154894,2000,ABUJA,Registered,Registered,Automatic
+Hyundai,Elantra,2008,White,Local Used,240470,2000,N/A,Registered,Registered,Automatic
+Honda,Accord,2009,Black,Foreign Used,127467,3500,N/A,Imported,Imported,Automatic
+Toyota,Camry,2010,Gray,Local Used,75057,2500,N/A,Registered,Imported,Automatic
+Infiniti,QX4,2002,Black,Local Used,209090,3500,ABUJA,Registered,Registered,Automatic
+Mercedes-Benz,C300,2015,Silver,Local Used,176858,2000,N/A,Registered,Imported,Automatic
+Honda,Crosstour,2011,Black,Local Used,162683,3500,LAGOS,Registered,Registered,Automatic
+Toyota,Corolla,2006,Gold,Local Used,301370,2500,Lagos,Registered,Registered,Automatic
+Honda,Accord,2003,Black,Local Used,483437,2400,N/A,Registered,Imported,Automatic
+BMW,325i,2014,Black,Local Used,175158,3000,N/A,Registered,Imported,Automatic
+Toyota,Venza,2011,Black,Foreign Used,102501,3000,N/A,Imported,Imported,Automatic
+Toyota,Sienna,2013,Gray,Local Used,80026,3500,Lagos,Registered,Imported,Automatic
+Mercedes-Benz,GL-Class,2013,Black,Local Used,145630,4700,Lagos,Registered,Imported,Automatic
+Mercedes-Benz,GLC-Class,2018,Silver,Foreign Used,78865,2000,N/A,Imported,Imported,Automatic
+Mercedes-Benz,C300,2008,Gray,Local Used,281743,3000,ABUJA,Registered,Imported,Automatic
+Toyota,Corolla,2007,Gray,Local Used,19039,1800,Lagos,Registered,Registered,Automatic
+Honda,Accord,2003,Silver,Local Used,14588,2400,Adamawa,Registered,Registered,Automatic
+Honda,Accord,2010,Black,Local Used,N/A,2400,NASARAWA,Registered,Registered,Automatic
+Lexus,RX 350,2017,Black,Local Used,107908,3500,ABUJA,Registered,Imported,Automatic
+Lexus,RX 300,1999,Silver,Local Used,294968,3000,ENUGU,Registered,Registered,Automatic
+Lexus,RX,2001,Blue,Local Used,445651,3000,LAGOS,Registered,Imported,Automatic
+Honda,Accord,2008,Blue,Local Used,N/A,2400,N/A,Registered,Imported,Automatic
+Mazda,3,2010,Black,Local Used,272139,2000,ABUJA,Registered,Registered,Automatic
+Mercedes-Benz,M Class,2010,Silver,Local Used,320981,3500,LAGOS,Registered,Imported,Automatic
+Toyota,Yaris,2008,Black,Local Used,N/A,1300,LAGOS,Registered,Registered,Automatic
+Toyota,Camry,2010,Silver,Local Used,280747,2500,FCT,Registered,Imported,Automatic
+Lexus,ES,2007,Blue,Local Used,233285,3500,N/A,Registered,Registered,Automatic
+Lincoln,MKZ,2017,Red,Local Used,176588,2000,Abuja,Registered,Imported,Automatic
+Hyundai,Elantra,2009,Black,Local Used,179097,2000,LAGOS,Registered,Registered,Automatic
+Toyota,Corolla,2009,White,Local Used,121340,1800,Kwara,Registered,Imported,Automatic
+Toyota,Sienna,2011,Gray,Local Used,50656,3500,LAGOS,Registered,Imported,Automatic
+Hyundai,Elantra,2018,Red,Foreign Used,92807,1600,N/A,Imported,Imported,Automatic
+Toyota,Highlander,2015,Gold,Local Used,59082,3500,N/A,Registered,Imported,Automatic
+Nissan,Pathfinder,2006,Gray,Local Used,197888,4000,Abuja,Registered,Registered,Automatic
+Toyota,Camry,2003,Black,Local Used,237356,2400,FCT,Registered,Imported,Automatic
+Nissan,NV3500,2014,White,Local Used,267194,2700,LAGOS,Registered,Registered,Manual
+Mercedes-Benz,M Class,2008,Black,Local Used,331295,3500,FCT,Registered,Registered,Automatic
+Toyota,Avalon,2014,Burgandy,Foreign Used,125494,3500,N/A,Imported,Imported,Automatic
+Toyota,Sienna,2006,Gray,Foreign Used,312826,3300,N/A,Imported,Imported,Automatic
+Toyota,Camry,2006,Green,Local Used,268974,2400,N/A,Registered,Imported,Automatic
+Toyota,Camry,2003,Gold,Local Used,176014,2400,ABUJA,Registered,Imported,Automatic
+Honda,Accord,2001,Silver,Local Used,433770,3000,Nasarawa,Registered,Registered,Automatic
+Nissan,Pathfinder,2003,Gold,Local Used,272285,3500,LAGOS,Registered,Imported,Automatic
+Lexus,RX 350,2010,Red,Foreign Used,296976,3500,N/A,Imported,Imported,Automatic
+Honda,Accord,2009,Brown,Local Used,336770,2400,Edo,Registered,Registered,Automatic
+Toyota,Corolla,2003,Green,Local Used,298455,1800,Lagos,Registered,Imported,Automatic
+Honda,Crosstour,2011,White,Local Used,165274,3500,N/A,Registered,Imported,Automatic
+Toyota,Camry,2007,Silver,Local Used,144935,2400,N/A,Registered,Registered,Automatic
+Toyota,Corolla,2007,Gold,Local Used,58205,1800,RIVERS,Registered,Imported,Automatic
+Toyota,Camry,2006,Black,Local Used,215678,2400,N/A,Registered,Registered,Automatic
+Peugeot,307,2003,Silver,Local Used,999999,1400,PLATEAU,Registered,Registered,Manual
+Toyota,Avalon,2012,Silver,Local Used,258371,3500,Oyo,Registered,Imported,Automatic
+Toyota,4-Runner,2010,Black,Local Used,106375,4000,LAGOS,Registered,Imported,Automatic
+Toyota,Corolla,2004,Red,Local Used,153212,1800,N/A,Registered,Imported,Automatic
+Hyundai,Santa Fe,2016,Gray,Foreign Used,114137,3300,N/A,Imported,Imported,Automatic
+Mercedes-Benz,GLK-Class,2014,White,Foreign Used,232969,3500,N/A,Imported,Imported,Automatic
+Toyota,Camry,2009,Blue,Local Used,234928,2400,Lagos,Registered,Imported,Automatic
+BMW,X5,2008,Gray,Local Used,171585,3000,Abuja,Registered,Registered,Automatic
+Land Rover,Range Rover Velar,2019,Blue,Local Used,88450,3000,LAGOS,Registered,Imported,Automatic
+Toyota,Camry,2012,Black,Local Used,218961,2500,LAGOS,Registered,Imported,Automatic
+BMW,330i,2006,Black,Local Used,308465,3000,N/A,Registered,Imported,Automatic
+Toyota,Camry,2012,Silver,Foreign Used,220391,2500,N/A,Imported,Imported,Automatic
+Mercedes-Benz,S-Class,2005,Black,Local Used,N/A,2000,Lagos,Registered,Brand new,Automatic
+Toyota,Camry,2009,Gray,Local Used,134258,2400,N/A,Registered,Imported,Automatic
+Hyundai,Elantra,2008,Blue,Local Used,217371,1600,LAGOS,Registered,Registered,Automatic
+Porsche,Cayenne,2012,Black,Local Used,38604,4800,Abuja,Registered,Imported,Automatic
+Toyota,Highlander,2001,Silver,Local Used,434697,3000,N/A,Registered,Imported,Automatic
+Mazda,CX-9,2013,Black,Foreign Used,125085,3700,N/A,Imported,Imported,Automatic
+Toyota,Camry,2003,Gray,Local Used,296435,3000,N/A,Registered,Registered,Automatic
+Honda,Accord,2013,Gray,Local Used,131524,3500,Abuja,Registered,Registered,Automatic
+Mercedes-Benz,GL-Class,2011,White,Foreign Used,223445,3000,N/A,Imported,Imported,Automatic
+Toyota,Camry,2009,Silver,Local Used,109658,2500,Lagos,Registered,Registered,Automatic
+Toyota,Sienna,2001,Gray,Local Used,264475,3000,ENUGU,Registered,Imported,Automatic
+Toyota,Sienna,2001,White,Local Used,218055,3000,LAGOS,Registered,Registered,Automatic
+Toyota,Sienna,2006,Red,Foreign Used,293710,3500,N/A,Imported,Imported,Automatic
+Toyota,Highlander,2004,Black,Local Used,144337,3300,Kano State,Registered,Imported,Automatic
+Mercedes-Benz,M Class,2006,Gold,Local Used,193162,3500,ENUGU,Registered,Imported,Automatic
+Toyota,RAV4,2003,Silver,Local Used,315000,2000,ENUGU,Registered,Imported,Automatic
+Lexus,RX 400h,2006,Blue,Local Used,113639,3300,LAGOS,Registered,Registered,Automatic
+Jeep,Wrangler,2014,Black,Local Used,103816,3600,LAGOS,Registered,Registered,Automatic
+GAC,GS4,2016,Black,Local Used,31555,1500,Abuja,Registered,Brand new,Automatic
+Changan,CS35,2023,Gray,Local Used,9209,2500,N/A,Registered,Brand new,Automatic
+Toyota,Corolla,2006,Gray,Local Used,140322,1800,N/A,Registered,Imported,Automatic
+Lexus,IS,2008,Gray,Local Used,162525,2500,N/A,Registered,Registered,Automatic
+Honda,CR-V,2009,Green,Local Used,114589,2400,N/A,Registered,Registered,Automatic
+Hyundai,Sonata,2015,Silver,Local Used,60949,2400,N/A,Registered,Registered,Automatic
+Ford,Explorer,2012,Gold,Foreign Used,141451,3500,N/A,Imported,Imported,Automatic
+Lexus,RX 300,1999,White,Local Used,138081,3000,Delta State,Registered,Registered,Automatic
+Ford,Edge,2012,Black,Local Used,169048,3500,Lagos,Registered,Registered,Automatic
+Toyota,Camry,2012,White,Foreign Used,236701,2500,N/A,Imported,Imported,Automatic
+Toyota,Highlander,2005,Red,Local Used,328054,3300,Lagos State,Registered,Imported,Automatic
+Toyota,Camry,2006,Black,Local Used,216424,2000,N/A,Registered,Registered,Automatic
+Pontiac,Aztek,2001,Red,Local Used,104114,3400,ENUGU,Registered,Imported,Automatic
+Ford,F-150,2003,White,Foreign Used,255231,5400,N/A,Imported,Imported,Automatic
+Toyota,Hilux,2020,White,Local Used,37217,2700,N/A,Registered,Imported,Automatic
+Nissan,Pathfinder,2005,Gray,Local Used,196778,4000,LAGOS,Registered,Registered,Automatic
+Mercedes-Benz,E350,2011,Red,Foreign Used,170158,3500,N/A,Imported,Imported,Automatic
+Nissan,Frontier,2005,Black,Local Used,119233,4000,LAGOS,Registered,Registered,Automatic
+Honda,Crosstour,2012,Blue,Local Used,225185,3500,RIVERS,Registered,Registered,Automatic
+Honda,Accord,2013,Black,Local Used,91624,2400,N/A,Registered,Registered,Automatic
+Toyota,Corolla,2010,Black,Local Used,163838,1800,Rivers,Registered,Registered,Automatic
+Ford,Focus,2005,Silver,Local Used,130142,N/A,Rivers,Registered,Registered,Automatic
+Lexus,RX 400h,2006,Silver,Local Used,181720,3300,LAGOS,Registered,Imported,Automatic
+Mercedes-Benz,M Class,2007,White,Local Used,169090,3500,FCT,Registered,Registered,Automatic
+Mercedes-Benz,C230,2005,Black,Local Used,345209,1800,Delta,Registered,Registered,Automatic
+Toyota,Avensis,2003,Gray,Local Used,293662,1800,FCT,Registered,Registered,Automatic
+Honda,CR-V,2007,Blue,Local Used,213315,2400,N/A,Registered,Registered,Automatic
+Toyota,Avensis,2004,Gray,Local Used,195683,2800,LAGOS,Registered,Registered,Automatic
+Lexus,RX 400h,2006,Blue,Local Used,316344,N/A,Lagos,Registered,Registered,Automatic
+Honda,Accord,2007,Gray,Local Used,142947,3000,Lagos,Registered,Imported,Automatic
+Toyota,Corolla,2005,Gray,Local Used,320466,1800,Abuja,Registered,Registered,Automatic
+Lexus,LX,2011,Black,Local Used,10018,5700,LAGOS,Registered,Brand new,Automatic
+Nissan,Almera,2013,Gray,Local Used,122093,1500,LAGOS,Registered,Registered,Manual
+Nissan,Primera,2004,Gray,Local Used,233348,2000,N/A,Registered,Registered,Automatic
+Toyota,Camry,2000,Gray,Local Used,290007,2000,LAGOS,Registered,Imported,Automatic
+Lexus,RX 300,2000,Silver,Local Used,203045,3000,N/A,Registered,Registered,Automatic
+Honda,Accord,2005,Black,Local Used,2159850,2400,N/A,Registered,Imported,Automatic
+Toyota,Sienna,2011,Gray,Foreign Used,288685,3500,N/A,Imported,Imported,Automatic
+Honda,Accord,2004,Gray,Local Used,333514,2400,LAGOS,Registered,Registered,Automatic
+Toyota,Celica,2003,Red,Local Used,104584,1800,LAGOS,Registered,Imported,Automatic
+Land Rover,Lr3,2006,Gray,Local Used,330118,4400,ABUJA,Registered,Registered,Automatic
+Honda,Accord,1999,Silver,Local Used,106238,2200,LAGOS,Registered,Registered,Automatic
+Toyota,Corolla,2009,Black,Foreign Used,105302,1800,N/A,Imported,Imported,Automatic
+Toyota,Sienna,2004,Gray,Local Used,431143,3300,ABUJA,Registered,Imported,Automatic
+Mitsubishi,Pajero,2019,Black,Local Used,69623,2500,N/A,Registered,Imported,Automatic
+Lexus,ES,2009,White,Local Used,141135,3500,ABUJA,Registered,Registered,Automatic
+Lexus,GX,2007,Black,Local Used,166334,4700,N/A,Registered,Registered,Automatic
+Toyota,Land Cruiser,2007,Black,Local Used,N/A,4500,LAGOS,Registered,Registered,Automatic
+Lexus,IS,2008,Black,Local Used,253247,3500,Lagos,Registered,Registered,Automatic
+Honda,Accord,2008,Black,Local Used,207147,2400,Abuja,Registered,Registered,Automatic
+Mercedes-Benz,C300,2015,White,Local Used,103834,2000,N/A,Registered,Imported,Automatic
+Land Rover,Discovery,2005,Gold,Local Used,198518,4600,N/A,Registered,Registered,Automatic
+Toyota,Camry,2010,Gray,Foreign Used,272660,2500,N/A,Imported,Imported,Automatic
+Toyota,Camry,2004,Red,Local Used,450134,2400,LAGOS,Registered,Imported,Automatic
+Lexus,RX,2000,White,Local Used,224734,3000,Lagos,Registered,Registered,Automatic
+Hyundai,Santa Fe,2009,Brown,Local Used,118716,2700,LAGOS,Registered,Brand new,Manual
+Ford,Fiesta,2012,White,Foreign Used,210543,1600,N/A,Imported,Imported,Automatic
+Lexus,ES,2012,Brown,Local Used,167951,3500,ABUJA,Registered,Imported,Automatic
+Lexus,GS,2004,Silver,Local Used,446870,3000,Lagos,Registered,Imported,Automatic
+Toyota,Corolla,2004,Black,Local Used,221769,1800,Lagos,Registered,Imported,Automatic
+Toyota,Avalon,2006,Blue,Local Used,156312,3500,LAGOS,Registered,Registered,Automatic
+Jeep,Renegade,2015,Silver,Local Used,131108,2400,LAGOS,Registered,Imported,Automatic
+Toyota,Venza,2009,Gray,Foreign Used,97381,3500,N/A,Imported,Imported,Automatic
+Honda,CR-V,2000,Red,Local Used,279174,N/A,RIVERS,Registered,Imported,Automatic
+Honda,CR-V,2013,Gray,Local Used,346630,2400,N/A,Registered,Imported,Automatic
+Honda,Accord,2010,Red,Local Used,263415,2400,N/A,Registered,Registered,Automatic
+Lexus,RX 350,2011,Black,Foreign Used,95357,3500,N/A,Imported,Imported,Automatic
+Toyota,Camry,2007,Silver,Local Used,431822,2400,Lagos,Registered,Registered,Automatic
+Toyota,Camry,2013,White,Foreign Used,121412,2500,N/A,Imported,Imported,Automatic
+Ford,Edge,2008,Red,Local Used,1949865,3500,LAGOS,Registered,Imported,Automatic
+Mercedes-Benz,GLC-Class,2016,Red,Foreign Used,179484,2000,N/A,Imported,Imported,Automatic
+Hyundai,Elantra,2014,Red,Local Used,189803,1800,N/A,Registered,Imported,Automatic
+Toyota,Highlander,2010,Black,Local Used,291251,3500,N/A,Registered,Registered,Automatic
+Ford,Edge,2008,Gold,Local Used,270021,3500,LAGOS,Registered,Registered,Automatic
+Honda,Accord,2003,Gray,Local Used,244493,2500,N/A,Registered,Registered,Automatic
+Toyota,Yaris,2007,Silver,Local Used,146241,1500,Kwara state,Registered,Registered,Automatic
+Lexus,ES,1993,Blue,Local Used,N/A,N/A,Abia,Registered,Registered,Automatic
+Mercedes-Benz,GL-Class,2007,Black,Local Used,266122,4500,LAGOS,Registered,Registered,Automatic
+Mercedes-Benz,CLA-Class,2015,Black,Local Used,56804,2500,N/A,Registered,Registered,Automatic
+Toyota,Camry,2009,Black,Local Used,127865,2400,LAGOS,Registered,Registered,Automatic
+Nissan,Frontier,2006,Blue,Local Used,70617,4000,OYO,Registered,Registered,Automatic
+Toyota,Corolla,2003,Gold,Local Used,132762,1800,N/A,Registered,Registered,Automatic
+Ford,Explorer,2005,Silver,Foreign Used,320371,4000,N/A,Imported,Imported,Automatic
+Lexus,RX 400h,2006,Silver,Local Used,251766,3500,LAGOS,Registered,Imported,Automatic
+Nissan,Sentra,2013,Black,Local Used,98432,1800,LAGOS,Registered,Brand new,CVT
+Toyota,Corolla,2006,White,Local Used,188355,1800,LAGOS,Registered,Registered,Automatic
+Toyota,Camry,2008,Black,Local Used,91396,2400,N/A,Registered,Imported,Automatic
+Lexus,RX 350,2010,Silver,Local Used,341735,3500,N/A,Registered,Imported,Automatic
+Toyota,Camry,2006,Gold,Local Used,215025,2400,OYO STATE,Registered,Registered,Automatic
+Dodge,Charger,2021,Black,Foreign Used,88571,5700,N/A,Imported,Imported,Automatic
+Kia,Sorento,2012,Silver,Foreign Used,260880,3000,N/A,Imported,Imported,Automatic
+Honda,CR-V,2007,Blue,Foreign Used,168825,2400,N/A,Imported,Imported,Automatic
+Toyota,Camry,2008,Green,Local Used,169951,3000,Lagos,Registered,Registered,Automatic
+Mercedes-Benz,C300,2015,Black,Foreign Used,165201,2000,N/A,Imported,Imported,Automatic
+Toyota,Sequoia,2003,Gray,Local Used,230368,4700,Lagos,Registered,Imported,Automatic
+Mercedes-Benz,GLE-Class,2016,Black,Foreign Used,88038,3500,N/A,Imported,Imported,Automatic
+Toyota,Venza,2015,Blue,Foreign Used,116594,2700,N/A,Imported,Imported,Automatic
+Mercedes-Benz,GLK-Class,2011,Red,Local Used,227644,3500,LAGOS,Registered,Imported,Automatic
+Toyota,Corolla,2014,Gray,Foreign Used,154438,1800,N/A,Imported,Imported,Automatic
+Toyota,Camry,2007,Blue,Local Used,274917,2400,N/A,Registered,Imported,Automatic
+Volkswagen,Routan,2009,White,Foreign Used,147037,3700,N/A,Imported,Imported,Automatic
+Ford,Escape,2006,Gray,Local Used,25326,3000,Rivers,Registered,Registered,Automatic
+Lexus,RX 330,2004,Black,Local Used,249401,3300,RIVERS,Registered,Registered,Automatic
+Toyota,Corolla,2011,Silver,Local Used,102400,1800,RIVERS,Registered,Registered,Automatic
+Mercedes-Benz,G-Class,2002,Black,Local Used,999999,5000,N/A,Registered,Registered,Automatic
+Lexus,LX,2014,Black,Local Used,244753,5700,N/A,Registered,Registered,Automatic
+Hyundai,Tucson,2007,Blue,Local Used,124920,2700,Rivers,Registered,Registered,Automatic
+Volvo,XC90,2011,Silver,Local Used,216869,3200,Lagos,Registered,Imported,Automatic
+Lexus,RX 300,1999,Silver,Local Used,226064,3000,Lagos,Registered,Imported,Automatic
+Mercedes-Benz,M Class,2008,Gray,Local Used,160108,3000,N/A,Registered,Imported,Automatic
+Hyundai,Tucson,2006,Silver,Local Used,484271,2700,N/A,Registered,Imported,Automatic
+Toyota,Sienna,2004,Gold,Local Used,221404,3300,Lagos,Registered,Imported,Automatic
+Mercedes-Benz,GLE-Class,2020,Black,Local Used,55977,2000,LAGOS,Registered,Imported,Automatic
+Lexus,GS,2003,Red,Local Used,234841,3300,LAGOS,Registered,Registered,Automatic
+Toyota,Camry,2004,Blue,Local Used,498922,3300,Abuja,Registered,Registered,Automatic
+Toyota,Sienna,2013,Gray,Local Used,91391,3500,LAGOS,Registered,Imported,Automatic
+Ford,Edge,2007,Red,Local Used,204230,3500,ABUJA,Registered,Imported,Automatic
+Toyota,Avalon,2000,Black,Local Used,225734,3000,LAGOS,Registered,Registered,Automatic
+Nissan,Sentra,2014,Burgandy,Local Used,93991,1800,N/A,Registered,Registered,Automatic
+Toyota,Corolla,2009,Black,Local Used,111971,1800,EDO,Registered,Registered,Automatic
+Mercedes-Benz,E350,2010,Black,Local Used,140601,3500,N/A,Registered,Registered,Automatic
+Toyota,Venza,2015,Green,Foreign Used,232420,3500,N/A,Imported,Imported,Automatic
+Lexus,LS,2007,Black,Local Used,116014,4600,Lagos,Registered,Imported,Automatic
+Lexus,RX 330,2005,Blue,Local Used,197364,3300,Lagos,Registered,Registered,Automatic
+Toyota,Camry,2002,Gold,Local Used,15533,2400,lagos,Registered,Imported,Automatic
+Honda,Civic,2001,Silver,Local Used,108771,1400,LAGOS,Registered,Registered,Manual
+Subaru,Forester,2006,Gray,Local Used,256603,2500,LAGOS,Registered,Registered,Automatic
+Land Rover,Range Rover Evoque,2013,Black,Local Used,92936,2000,ABUJA,Registered,Imported,Automatic
+Audi,A6,2008,Blue,Local Used,547573,3100,Lagos,Registered,Imported,Automatic
+Nissan,Sentra,2014,Black,Foreign Used,174446,1800,N/A,Imported,Imported,Automatic
+Kia,Rio,2008,Black,Local Used,227564,1600,N/A,Registered,Registered,Automatic
+Toyota,Corolla,2011,Black,Local Used,120676,1800,Lagos,Registered,Imported,Automatic
+Mercedes-Benz,GL-Class,2010,Black,Local Used,200533,4600,N/A,Registered,Registered,Automatic
+Toyota,Corolla,2003,Gray,Local Used,125017,1800,Lagos,Registered,Imported,Automatic
+Honda,Accord,2005,Gray,Local Used,210252,2000,LAGOS,Registered,Registered,Automatic
+Toyota,Sienna,2002,Blue,Local Used,210450,3000,LAGOS,Registered,Registered,Automatic
+Toyota,Venza,2013,Black,Local Used,64558,2700,Lagos,Registered,Imported,Automatic
+Nissan,Pathfinder,2008,Black,Local Used,208245,4000,NASARAWA,Registered,Registered,Automatic
+Toyota,Corolla,2014,Gray,Foreign Used,201400,1800,N/A,Imported,Imported,Automatic
+Toyota,Venza,2009,Black,Foreign Used,153486,3500,N/A,Imported,Imported,Automatic
+BMW,Z4,2003,Gray,Foreign Used,322482,3000,N/A,Imported,Imported,Automatic
+Peugeot,RC,2011,Silver,Foreign Used,97409,1600,N/A,Imported,Imported,Manual
+Lexus,LX,2018,Black,Foreign Used,38965,5700,N/A,Imported,Imported,Automatic
+Hyundai,Sonata,2011,Black,Local Used,190026,2000,N/A,Registered,Imported,Automatic
+Hyundai,Elantra,2008,Black,Local Used,243151,2000,OGUN,Registered,Registered,Automatic
+Lexus,RX 300,2000,Gold,Local Used,133176,3000,ENUGU,Registered,Registered,Automatic
+Lexus,ES,2019,Blue,Foreign Used,64698,3500,N/A,Imported,Imported,Automatic
+Toyota,Sienna,2000,Beige,Local Used,359891,3000,N/A,Registered,Imported,Automatic
+Toyota,Camry,2006,Red,Local Used,397946,2400,RIVERS,Registered,Registered,Automatic
+Mercedes-Benz,GLE-Class,2020,Black,Foreign Used,96714,2000,N/A,Imported,Imported,Automatic
+Toyota,Corolla,2003,Silver,Local Used,136333,1600,LAGOS,Registered,Imported,Automatic
+Toyota,Venza,2014,Blue,Foreign Used,278622,2700,N/A,Imported,Imported,Automatic
+Peugeot,406,2007,Blue,Local Used,999999,2000,N/A,Registered,Registered,Manual
+Toyota,Corolla,2009,Gray,Local Used,141071,1800,N/A,Registered,Imported,Automatic
+Ford,Edge,2014,White,Local Used,223021,3500,N/A,Registered,Imported,Automatic
+Lexus,ES,2013,Silver,Foreign Used,111792,3500,N/A,Imported,Imported,Automatic
+Toyota,Yaris,2007,Gray,Local Used,262087,1500,LAGOS,Registered,Registered,Automatic
+Honda,CR-V,2016,Gray,Local Used,52771,2400,Lagos,Registered,Imported,Automatic
+Hyundai,Tucson,2012,Black,Foreign Used,142914,2400,N/A,Imported,Imported,Automatic
+Toyota,Corolla,2010,White,Local Used,91697,1800,N/A,Registered,Registered,Automatic
+Honda,Odyssey,2013,Black,Local Used,51436,3500,Lagos,Registered,Imported,Automatic
+Kia,Picanto,2014,Black,Local Used,108015,1300,Sokoto,Registered,Brand new,Automatic
+MG,MGB,2010,Silver,Local Used,57602,1800,LAGOS,Registered,Registered,Automatic
+Toyota,Camry,2008,Silver,Local Used,128060,3500,Ogun,Registered,Imported,Automatic
+Toyota,Land Cruiser Prado,2015,White,Local Used,156515,2700,N/A,Registered,Imported,Automatic
+Toyota,Corolla,2005,White,Local Used,379527,1800,Lagos,Registered,Imported,Automatic
+Toyota,Corolla,2012,Gray,Local Used,273432,1800,Plateau,Registered,Registered,Automatic
+Toyota,Sienna,2005,Gold,Local Used,104759,3300,Abuja,Registered,Registered,Automatic
+Mercedes-Benz,C300,2009,Black,Local Used,71351,3000,Abuja,Registered,Imported,Automatic
+Honda,Pilot,2005,Gold,Local Used,403871,3500,N/A,Registered,Registered,Automatic
+Nissan,Primera,2001,Blue,Local Used,264525,2000,LAGOS,Registered,Registered,Manual
+Toyota,Camry,2008,Gray,Local Used,214912,2400,ENUGU,Registered,Registered,Automatic
+Toyota,Camry,2017,Blue,Foreign Used,238737,2500,N/A,Imported,Imported,Automatic
+Toyota,Highlander,2004,White,Local Used,317522,3300,Abuja,Registered,Registered,Automatic
+Toyota,Sienna,2004,Silver,Local Used,238391,3300,N/A,Registered,Imported,Automatic
+Toyota,Camry,2015,Silver,Local Used,79241,2500,Lagos,Registered,Imported,Automatic
+Jeep,Liberty,2004,Black,Local Used,236885,3700,N/A,Registered,Registered,Automatic
+Toyota,Corolla,2008,Gray,Local Used,411220,1800,LAGOS,Registered,Registered,Automatic
+Toyota,Camry,2005,Green,Local Used,304672,3800,N/A,Registered,Registered,Automatic
+Toyota,Corolla,2015,Green,Foreign Used,281666,1800,N/A,Imported,Imported,Automatic
+Toyota,Sienna,2004,Blue,Local Used,155719,3300,N/A,Registered,Registered,Automatic
+Toyota,Corolla,2010,Black,Local Used,96990,1800,LAGOS,Registered,Imported,Automatic
+Mercedes-Benz,E350,2014,Silver,Foreign Used,216947,3500,N/A,Imported,Imported,Automatic
+Lexus,RX 350,2010,Black,Local Used,190532,3500,N/A,Registered,Registered,Automatic
+Toyota,Tundra,2006,Black,Local Used,139664,4700,N/A,Registered,Imported,Automatic
+Mercedes-Benz,G-Class,2002,Black,Local Used,N/A,5000,N/A,Registered,Imported,Automatic
+Hyundai,Santa Fe,2015,White,Foreign Used,165084,3300,N/A,Imported,Imported,Automatic
+Toyota,Highlander,2008,Silver,Local Used,214457,3500,Abuja,Registered,Registered,Automatic
+Toyota,Corolla,2011,Red,Local Used,262278,1800,N/A,Registered,Imported,Automatic
+Honda,CR-V,2010,Black,Local Used,69080,2400,LAGOS,Registered,Registered,Automatic
+Lexus,RX 330,2005,Gray,Foreign Used,188027,3300,N/A,Imported,Imported,Automatic
+Toyota,Aygo,2015,Black,Local Used,30097,1800,Lagos,Registered,Imported,Manual
+Nissan,Rogue,2011,Blue,Local Used,122308,2500,Lagos,Registered,Registered,Automatic
+Toyota,Camry,2002,Silver,Local Used,282699,2400,AKWA IBOM,Registered,Registered,Automatic
+Toyota,Camry,2002,Black,Local Used,92538,2400,RIVERS,Registered,Registered,Automatic
+Toyota,Sienna,2004,Silver,Local Used,214474,3300,Lagos,Registered,Registered,Automatic
+Volkswagen,Golf,1994,Black,Local Used,52327,2000,LAGOS,Registered,Registered,Manual
+Kia,Optima,2010,Gray,Local Used,215854,2000,Cross River,Registered,Registered,Manual
+Ford,Edge,2015,Silver,Local Used,63312,2700,LAGOS,Registered,Imported,Automatic
+Mercedes-Benz,C300,2008,Black,Foreign Used,306078,3000,N/A,Imported,Imported,Automatic
+Ford,F-150,2013,Black,Local Used,95116,5000,N/A,Registered,Imported,Automatic
+Honda,Crosstour,2010,Red,Local Used,64599,3500,LAGOS,Registered,Registered,Automatic
+Nissan,Altima,2005,Black,Local Used,121744,2500,N/A,Registered,Imported,Automatic
+Toyota,Corolla,2007,Gray,Foreign Used,385414,1800,N/A,Imported,Imported,Automatic
+Toyota,4-Runner,2013,Black,Local Used,108028,4000,Lagos,Registered,Imported,Automatic
+Toyota,Camry,2003,Gray,Local Used,131608,2400,ABUJA,Registered,Registered,Automatic
+BMW,528i,2016,Black,Local Used,255959,2000,ABUJA,Registered,Imported,Automatic
+Lexus,RX 350,2008,Black,Local Used,189478,3500,EDO,Registered,Registered,Automatic
+Toyota,Corolla,2005,Blue,Foreign Used,1398397,1800,N/A,Imported,Imported,Automatic
+Toyota,4-Runner,1997,Green,Local Used,191745,3400,ABUJA,Registered,Imported,Automatic
+Mercedes-Benz,GLA 250,2021,Gray,Foreign Used,34689,2000,N/A,Imported,Imported,Automatic
+Nissan,Pathfinder,2005,Brown,Local Used,98519,4000,LAGOS,Registered,Registered,Automatic
+Mercedes-Benz,GLE-Class,2020,White,Foreign Used,109001,3500,N/A,Imported,Imported,Automatic
+Mercedes-Benz,GLA 250,2015,White,Local Used,116687,2000,N/A,Registered,Imported,Automatic
+Hyundai,Elantra,2021,White,Foreign Used,74403,2000,N/A,Imported,Imported,Automatic
+Peugeot,408,2011,Black,Foreign Used,732232,2000,N/A,Imported,Imported,Automatic
+Volkswagen,Sharan,1999,Blue,Local Used,295551,2400,N/A,Registered,Imported,Manual
+Acura,ZDX,2010,Black,Local Used,92229,3700,N/A,Registered,Imported,Automatic
+Lexus,LS,2011,Black,Local Used,62256,4600,N/A,Registered,Imported,Automatic
+Mercedes-Benz,GLE-Class,2016,White,Local Used,116861,3500,Lagos,Registered,Imported,Automatic
+Honda,Stream,2001,White,Local Used,261864,2000,N/A,Registered,Registered,Automatic
+Hyundai,Santa Fe,2003,Black,Local Used,194714,2700,N/A,Registered,Registered,Automatic
+Toyota,Venza,2013,Black,Local Used,182669,3500,LAGOS,Registered,Imported,Automatic
+Lexus,RX 350,2007,Gray,Local Used,178015,3500,LAGOS,Registered,Registered,Automatic
+Mercedes-Benz,E350,2010,Blue,Local Used,118754,3500,Abuja,Registered,Registered,Automatic
+Mercedes-Benz,C300,2009,Black,Local Used,317868,3000,Zamfara,Registered,Imported,Automatic
+Honda,Accord,2000,Red,Local Used,482800,2300,LAGOS,Registered,Registered,Automatic
+Land Rover,Lr3,2005,Black,Local Used,200333,4400,RIVERS STATE,Registered,Registered,Automatic
+BMW,X3,2005,Silver,Local Used,252079,3000,N/A,Registered,Registered,Automatic
+Volkswagen,Passat,1999,Silver,Local Used,170885,N/A,LAGOS,Registered,Registered,Manual
+Toyota,Highlander,2004,Black,Local Used,199003,3300,N/A,Registered,Imported,Automatic
+Mercedes-Benz,C-Class,2005,Black,Local Used,N/A,1800,LAGOS,Registered,Imported,Automatic
+Toyota,Corolla,2015,Silver,Foreign Used,126100,1800,N/A,Imported,Imported,Automatic
+Mercedes-Benz,E350,2015,White,Foreign Used,288024,3500,N/A,Imported,Imported,Automatic
+Toyota,Sienna,2019,Red,Foreign Used,7579,3500,N/A,Imported,Imported,Automatic
+Honda,CR-V,1999,Blue,Local Used,234641,2000,N/A,Registered,Imported,Automatic
+Toyota,Avalon,2005,Silver,Local Used,268674,3500,LAGOS,Registered,Imported,Automatic
+Honda,Pilot,2008,Black,Local Used,125162,3500,N/A,Registered,Registered,Automatic
+Nissan,Xterra,2003,Red,Local Used,154231,3800,LAGOS,Registered,Registered,Automatic
+Mercedes-Benz,GLE-Class,2017,Black,Foreign Used,128560,3500,N/A,Imported,Imported,Automatic
+Lexus,RX 300,2001,Black,Local Used,222035,3000,LAGOS,Registered,Registered,Automatic
+Toyota,Camry,2008,Black,Local Used,164651,2400,ENUGU,Registered,Registered,Automatic
+Honda,CR-V,2006,Gold,Local Used,147964,2400,N/A,Registered,Registered,Automatic
+Honda,Accord,2014,White,Foreign Used,219024,2400,N/A,Imported,Imported,Automatic
+Pontiac,Vibe,2009,Blue,Local Used,132014,1800,LAGOS,Registered,Registered,Automatic
+Toyota,Corolla,2016,Black,Local Used,166130,2000,LAGOS,Registered,Imported,Automatic
+Ford,Edge,2008,Gray,Local Used,303848,3500,LAGOS,Registered,Registered,Automatic
+Toyota,Sienna,1999,Green,Local Used,265013,3000,Lagos,Registered,Imported,Automatic
+Acura,MDX,2008,Silver,Local Used,178994,3700,LAGOS,Registered,Imported,Automatic
+Toyota,Corolla,2008,Black,Local Used,203885,1800,Lagos,Registered,Registered,Automatic
+Toyota,Sienna,2011,Red,Foreign Used,174249,2700,N/A,Imported,Imported,Automatic
+Mercedes-Benz,M Class,2002,Black,Local Used,294230,3200,Osun state,Registered,Imported,Automatic
+Honda,Accord,2006,Black,Local Used,259001,2400,Abuja,Registered,Registered,Automatic
+Opel,Zafira,2003,Red,Local Used,N/A,1800,ONDO,Registered,Imported,Manual
+Toyota,Camry,2013,Black,Foreign Used,179031,2500,N/A,Imported,Imported,Automatic
+Toyota,RAV4,2008,Silver,Local Used,203122,3500,LAGOS,Registered,Imported,Automatic
+Toyota,Venza,2014,Red,Local Used,102682,2700,ABUJA,Registered,Registered,Automatic
+Nissan,Altima,2010,Blue,Local Used,123451,2500,N/A,Registered,Registered,Automatic
+Toyota,RAV4,2011,Blue,Local Used,122986,2500,Lagos,Registered,Imported,Automatic
+Toyota,Sienna,2005,Gold,Local Used,199207,3300,Lagos,Registered,Registered,Automatic
+Nissan,Rogue,2010,Gray,Local Used,219508,2500,Abuja,Registered,Registered,Automatic
+Toyota,Corolla,2009,Black,Local Used,213974,1800,LAGOS,Registered,Registered,Manual
+Lexus,ES,2007,Gray,Local Used,240032,3500,LAGOS,Registered,Registered,Automatic
+BMW,328i,2012,Silver,Local Used,275836,2000,N/A,Registered,Registered,CVT
+BMW,323i,2006,Black,Local Used,197446,N/A,N/A,Registered,Imported,Manual
+Kia,Sorento,2014,Silver,Local Used,73746,2400,LAGOS,Registered,Brand new,Automatic
+Ford,Edge,2007,Black,Local Used,301723,3500,LAGOS,Registered,Imported,Automatic
+Hyundai,Sonata,2011,Black,Foreign Used,245115,2000,N/A,Imported,Imported,Automatic
+Honda,Accord,2004,Silver,Local Used,197446,2400,N/A,Registered,Registered,Automatic
+Mercedes-Benz,G-Class,2009,Black,Local Used,86571,5500,N/A,Registered,Imported,Automatic
+Land Rover,Range Rover Sport,2012,Gray,Local Used,117415,5000,N/A,Registered,Registered,Automatic
+Honda,Pilot,2004,Silver,Local Used,324712,3500,N/A,Registered,Registered,Automatic
+Lexus,RX 350,2009,Blue,Local Used,294180,3500,N/A,Registered,Registered,Automatic
+Nissan,Frontier,2007,Brown,Local Used,192912,4000,ABUJA,Registered,Registered,Automatic
+Toyota,Camry,2008,Red,Local Used,174233,2400,N/A,Registered,Registered,Automatic
+Honda,Civic,2019,Black,Local Used,58003,1500,N/A,Registered,Imported,CVT
+Ford,Explorer,2005,Gold,Local Used,291409,3200,N/A,Registered,Imported,Automatic
+Toyota,Camry,2005,Gold,Foreign Used,491030,3000,N/A,Imported,Imported,Automatic
+Toyota,Corolla,2020,Silver,Foreign Used,195024,2000,N/A,Imported,Imported,Automatic
+Toyota,Avalon,2007,Blue,Local Used,254890,3500,ABUJA,Registered,Registered,Automatic
+Porsche,Cayenne,2003,Gray,Local Used,253600,4800,LAGOS,Registered,Registered,Automatic
+Toyota,Corolla,2015,Blue,Local Used,142159,1800,KADUNA,Registered,Imported,Automatic
+Pontiac,Vibe,2003,Gray,Local Used,1,1800,KADUNA,Registered,Registered,Automatic
+Ford,Edge,2016,Blue,Local Used,173514,3500,N/A,Registered,Imported,Automatic
+Honda,Accord,2013,Silver,Local Used,232014,2400,Lagos,Registered,Imported,Automatic
+Ford,Explorer,2014,Black,Local Used,114935,3500,LAGOS,Registered,Brand new,Automatic
+Mercedes-Benz,C230,2007,Silver,Foreign Used,327510,N/A,N/A,Imported,Imported,Automatic
+Toyota,Matrix,2005,Blue,Local Used,254325,2400,N/A,Registered,Imported,Automatic
+Toyota,Avalon,2006,Gray,Local Used,249602,3500,N/A,Registered,Imported,Automatic
+Acura,TL,2008,Black,Local Used,344870,3200,N/A,Registered,Imported,Automatic
+Honda,Accord,2003,Gold,Local Used,170579,2400,ABUJA,Registered,Imported,Automatic
+Toyota,Land Cruiser Prado,2012,Black,Local Used,23618,2700,ABUJA,Registered,Brand new,Automatic
+Nissan,Frontier,2005,White,Local Used,353908,4000,N/A,Registered,Registered,Automatic
+Kia,Optima,2012,Gray,Foreign Used,66114,2400,N/A,Imported,Imported,Automatic
+Toyota,Sequoia,2001,Blue,Local Used,160181,4700,LAGOS,Registered,Registered,Automatic
+Honda,Accord,1998,Black,Local Used,N/A,3000,N/A,Registered,Imported,Automatic
+Toyota,Highlander,2012,White,Local Used,181401,3500,LAGOS,Registered,Imported,Automatic
+Toyota,Camry,2007,Gray,Local Used,151370,3500,LAGOS,Registered,Imported,Automatic
+Toyota,Avalon,2006,Gold,Local Used,184052,3500,ABUJA,Registered,Imported,Automatic
+Mercedes-Benz,S-Class,2007,Black,Local Used,346695,5500,N/A,Registered,Registered,Automatic
+Toyota,Camry,2005,Burgandy,Foreign Used,513744,2400,N/A,Imported,Imported,Automatic
+Mercedes-Benz,M Class,2006,Silver,Local Used,297690,3500,Lagos,Registered,Imported,Automatic
+Toyota,Venza,2012,Black,Local Used,265174,3500,LAGOS,Registered,Imported,Automatic
+Honda,Civic,2017,Silver,Foreign Used,63862,2000,N/A,Imported,Imported,Automatic
+Mazda,626,2007,Gray,Local Used,304648,3800,LAGOS,Registered,Registered,Automatic
+Toyota,Corolla,2010,Black,Local Used,200797,1800,Lagos,Registered,Imported,Automatic
+Toyota,Camry,2008,Gold,Local Used,97490,2400,Lagos,Registered,Registered,Automatic
+Honda,Accord,2007,Gray,Local Used,129224,2400,LAGOS,Registered,Registered,Automatic
+Toyota,Corolla,2007,Gray,Local Used,320000,1800,EBONYI STATE,Registered,Registered,Automatic
+Kia,Mohave,2016,Black,Local Used,140728,3800,N/A,Registered,Registered,Automatic
+Mercedes-Benz,C200,2001,Silver,Local Used,257475,1800,Abuja,Registered,Registered,Automatic
+Toyota,4-Runner,2014,Gray,Local Used,93771,3500,ABUJA,Registered,Imported,Automatic
+Toyota,Venza,2010,Purple,Local Used,125213,2500,N/A,Registered,Imported,Automatic
+Toyota,Camry,2002,Gray,Local Used,139581,2400,N/A,Registered,Registered,Automatic
+Ford,Explorer,2015,Black,Local Used,63840,3500,Lagos,Registered,Brand new,Automatic
+Toyota,Camry,2010,Black,Local Used,128933,2400,Lagos,Registered,Imported,Automatic
+Nissan,240SX,2000,Silver,Local Used,300000,2000,ENUGU,Registered,Registered,Manual
+Toyota,RAV4,2021,Black,Foreign Used,22773,2400,N/A,Imported,Imported,Automatic
+Toyota,Corolla,2005,Gray,Local Used,289015,1800,N/A,Registered,Registered,Automatic
+Lexus,RX 350,2008,Black,Local Used,304450,3500,LAGOS,Registered,Registered,Automatic
+Acura,RDX,2008,Gray,Local Used,146223,2300,Kaduna,Registered,Registered,Automatic
+Peugeot,307,2004,Blue,Local Used,228578,1600,N/A,Registered,Registered,Manual
+Toyota,Camry,2011,Black,Local Used,262082,3500,Lagos,Registered,Imported,Automatic
+Toyota,Sienna,2005,White,Local Used,228098,3300,Lagos State,Registered,Imported,Automatic
+Toyota,Avensis,2014,Silver,Local Used,114782,2000,Abuja,Registered,Brand new,Automatic
+Mazda,CX-9,2008,Gray,Local Used,299811,3500,LAGOS,Registered,Registered,Automatic
+Hyundai,Santa Fe,2008,Red,Local Used,182250,3300,Abuja,Registered,Registered,Automatic
+Toyota,Camry,2008,Silver,Local Used,109670,2400,N/A,Registered,Registered,Automatic
+Lexus,NX,2020,Gray,Local Used,68842,2000,Lagos,Registered,Imported,Automatic
+Toyota,Camry,2011,Silver,Foreign Used,212841,2500,N/A,Imported,Imported,Automatic
+Toyota,Highlander,2003,Green,Local Used,263757,3300,LAGOS,Registered,Imported,Automatic
+Kia,Sportage,2005,Brown,Local Used,172369,3500,LAGOS,Registered,Registered,Automatic
+Peugeot,206,1999,Black,Local Used,231548,1100,N/A,Registered,Registered,Manual
+Honda,Accord,2004,Gray,Local Used,241748,2400,LAGOS,Registered,Imported,Automatic
+Toyota,Corolla,2003,Blue,Local Used,195455,2800,LAGOS,Registered,Registered,Automatic
+Toyota,Corolla,2006,Blue,Local Used,206794,1800,N/A,Registered,Imported,Automatic
+Honda,Civic,2008,Gray,Local Used,192582,2000,LAGOS,Registered,Registered,Automatic
+Toyota,Highlander,2019,Gray,Foreign Used,234636,3500,N/A,Imported,Imported,Automatic
+Honda,Accord,2009,Black,Local Used,165314,2000,N/A,Registered,Registered,Automatic
+Toyota,Corolla,2009,Black,Local Used,184362,1800,Abuja,Registered,Registered,Automatic
+Toyota,Camry,2009,Red,Local Used,131724,2400,ENUGU,Registered,Imported,Automatic
+Volkswagen,Tiguan,2012,Black,Local Used,33033,N/A,LAGOS,Registered,Brand new,Automatic
+Mercedes-Benz,GLC-Class,2016,Gray,Local Used,78391,2000,Lagos,Registered,Imported,Automatic
+Toyota,Camry,2005,Black,Local Used,275824,2400,OGUN,Registered,Registered,Automatic
+Lexus,IS,2006,Silver,Local Used,115558,2500,LAGOS,Registered,Registered,Automatic
+Lexus,ES,2013,Gray,Local Used,253200,3500,Lagos,Registered,Imported,Automatic
+Toyota,RAV4,2008,Green,Local Used,124968,2400,DELTA,Registered,Registered,Automatic
+Toyota,Camry,2011,Gray,Foreign Used,389255,2400,N/A,Imported,Imported,Automatic
+BMW,X5,2009,Black,Foreign Used,185402,4800,N/A,Imported,Imported,Automatic
+BMW,X5,2008,White,Local Used,182927,4800,LAGOS,Registered,Imported,Automatic
+Kia,Sorento,2005,Silver,Local Used,163230,3400,LAGOS,Registered,Registered,Automatic
+Toyota,Highlander,2013,Black,Local Used,207282,3500,Abuja,Registered,Imported,Automatic
+Lexus,LS,2012,Black,Foreign Used,277797,4600,N/A,Imported,Imported,Automatic
+Acura,MDX,2008,Red,Local Used,190082,3700,Lagos,Registered,Registered,Automatic
+Suzuki,VS,2007,Black,Local Used,262550,2700,N/A,Registered,Imported,Automatic
+Toyota,Sienna,2023,Black,Foreign Used,160932,2500,N/A,Imported,Imported,Automatic
+Chevrolet,Nubira,2005,Silver,Local Used,251861,1600,LAGOS,Registered,Brand new,Manual
+Nissan,Murano,2004,Gray,Local Used,190166,3500,N/A,Registered,Registered,Automatic
+Mercedes-Benz,C350,2012,Gray,Foreign Used,133835,3500,N/A,Imported,Imported,Automatic
+Toyota,Camry,2007,Green,Local Used,86426,2800,LAGOS,Registered,Registered,Automatic
+Nissan,UA-QG,2007,White,Foreign Used,N/A,3000,N/A,Imported,Registered,Manual
+Toyota,Corolla,2010,Gray,Local Used,119173,1800,N/A,Registered,Registered,Automatic
+Honda,Accord,2007,Black,Local Used,172188,2400,Lagos State,Registered,Imported,Automatic
+Honda,Accord,2004,Purple,Foreign Used,225429,2400,N/A,Imported,Imported,Automatic
+Toyota,Camry,2010,Blue,Local Used,138208,2500,N/A,Registered,Imported,Automatic
+Lexus,RX 300,2000,Black,Local Used,221926,3000,Abuja,Registered,Registered,Automatic
+Honda,Odyssey,2008,White,Local Used,453745,3500,N/A,Registered,Registered,Automatic
+Toyota,RAV4,2015,Gray,Foreign Used,93158,2500,N/A,Imported,Imported,Automatic
+Toyota,Camry,2007,Blue,Local Used,157269,2400,Lagos,Registered,Imported,Automatic
+Mercedes-Benz,S-Class,2008,Black,Foreign Used,205832,5500,N/A,Imported,Imported,Automatic
+Infiniti,QX56,2011,Ivory,Local Used,91866,5600,Lagos,Registered,Imported,Automatic
+Mazda,CX-7,2007,Blue,Local Used,180466,2300,ABUJA,Registered,Registered,Automatic
+Honda,Shuttle,2000,Blue,Local Used,403229,2200,LAGOS,Registered,Registered,Automatic
+Ford,Fusion,2010,White,Local Used,375096,3000,N/A,Registered,Imported,Automatic
+Nissan,Armada,2008,Gold,Local Used,48696,5600,Lagos,Registered,Registered,Automatic
+Ford,Edge,2011,Brown,Local Used,146477,3500,Lagos,Registered,Imported,Automatic
+Mercedes-Benz,GLE-Class,2020,Gray,Local Used,92023,2000,N/A,Registered,Imported,Automatic
+Honda,Accord,2017,Black,Local Used,91976,2400,LAGOS,Registered,Registered,Automatic
+Nissan,Almera,2004,Silver,Local Used,283759,1800,LAGOS,Registered,Registered,Automatic
+Honda,Accord,2008,Gray,Local Used,94636,3500,OSUN,Registered,Registered,Automatic
+Hyundai,Sonata,2018,Black,Foreign Used,69214,2400,N/A,Imported,Imported,Automatic
+Toyota,Corolla,2019,Red,Local Used,79506,1800,DELTA,Registered,Imported,CVT
+Nissan,Rogue,2012,Silver,Local Used,188852,2500,Lagos,Registered,Imported,CVT
+Toyota,Corolla,2016,Gray,Local Used,128153,1800,LAGOS,Registered,Registered,Automatic
+Honda,Accord,2007,Black,Local Used,171592,3500,ABUJA,Registered,Registered,Automatic
+Nissan,X-Trail,2005,Black,Local Used,422001,2500,Abuja,Registered,Registered,Automatic
+Toyota,Venza,2015,Silver,Foreign Used,129692,2700,N/A,Imported,Imported,Automatic
+Lexus,ES,2010,Gold,Local Used,221450,3500,ABUJA,Registered,Registered,Automatic
+Toyota,RAV4,2008,Red,Local Used,248717,2400,N/A,Registered,Imported,Automatic
+Toyota,Highlander,2022,White,Foreign Used,47985,3500,N/A,Imported,Imported,Automatic
+Toyota,Camry,2004,Silver,Local Used,2106116,2400,N/A,Registered,Imported,Automatic
+Mercedes-Benz,GLE-Class,2020,Silver,Foreign Used,154264,2000,N/A,Imported,Imported,Automatic
+Honda,Accord,2018,Gray,Foreign Used,113637,2400,N/A,Imported,Imported,Automatic
+Toyota,Camry,2011,Gold,Local Used,278832,2500,N/A,Registered,Registered,CVT
+Kia,Sedona,2006,Silver,Local Used,301422,3800,OGUN,Registered,Registered,Automatic
+Lexus,RX 350,2010,Gray,Local Used,164667,3500,Lagos,Registered,Registered,Automatic
+Toyota,Highlander,2012,Blue,Foreign Used,228197,3500,N/A,Imported,Imported,Automatic
+Honda,Accord,2007,Gray,Local Used,72715,2400,LAGOS,Registered,Registered,Automatic
+Lexus,RX 350,2015,Silver,Foreign Used,248538,3500,N/A,Imported,Imported,Automatic
+Toyota,Highlander,2004,Red,Local Used,453259,3300,Abuja,Registered,Registered,Automatic
+Chevrolet,Optra,2009,Red,Local Used,N/A,1600,LAGOS,Registered,Registered,Automatic
+Toyota,Avalon,2003,Black,Local Used,424439,3000,LAGOS,Registered,Registered,Automatic
+Hyundai,Sonata,2009,Black,Local Used,179927,2000,ABUJA,Registered,Registered,Automatic
+Toyota,Corolla,2014,Black,Foreign Used,93071,1800,N/A,Imported,Imported,Automatic
+Lexus,ES,2002,Blue,Local Used,365708,3000,Lagos,Registered,Imported,Automatic
+Toyota,Camry,2008,Blue,Local Used,255204,2400,Yobe,Registered,Imported,Automatic
+Hyundai,Santa Fe,2022,Black,Local Used,58011,2500,LAGOS,Registered,Imported,Automatic
+Toyota,Corolla,2008,Red,Local Used,100937,1800,N/A,Registered,Imported,Automatic
+Mazda,626,2000,Gold,Local Used,390042,2000,N/A,Registered,Registered,Automatic
+Toyota,Camry,2007,Silver,Local Used,111950,2400,LAGOS,Registered,Registered,Automatic
+Hyundai,Tucson,2009,Black,Local Used,332658,2000,LAGOS,Registered,Registered,Automatic
+Toyota,Camry,2008,White,Local Used,424806,2400,Abuja,Registered,Registered,Automatic
+Toyota,Corolla,2005,Silver,Local Used,169420,1800,Lagos,Registered,Imported,Automatic
+Toyota,Corolla,2006,Blue,Local Used,482800,1800,Lagos,Registered,Imported,Automatic
+Honda,Accord,2005,Black,Local Used,194416,3000,N/A,Registered,Imported,Automatic
+Toyota,Venza,2013,White,Local Used,117557,2700,Lagos,Registered,Imported,Automatic
+Toyota,RAV4,2005,Silver,Local Used,236887,2400,N/A,Registered,Imported,Automatic
+Ford,Fusion,2015,Burgandy,Foreign Used,306572,2500,N/A,Imported,Imported,Automatic
+Toyota,Camry,2007,Gray,Local Used,153206,3500,N/A,Registered,Registered,Automatic
+Toyota,Corolla,2014,Gray,Local Used,96337,1800,LAGOS,Registered,Brand new,Automatic
+Toyota,Corolla,2005,Red,Local Used,235145,1800,N/A,Registered,Registered,Automatic
+Toyota,Corolla,2009,Silver,Local Used,234401,1800,Abuja,Registered,Imported,Automatic
+Toyota,Tundra,2015,Blue,Local Used,164487,5700,Abuja,Registered,Registered,Automatic
+Honda,Accord,2012,Gray,Local Used,252701,2400,ABUJA,Registered,Registered,Automatic
+Toyota,Highlander,2017,Red,Foreign Used,191480,3500,N/A,Imported,Imported,Automatic
+Hyundai,Elantra,2008,Red,Local Used,262518,2000,LAGOS,Registered,Registered,Automatic
+Toyota,Camry,2012,White,Local Used,155478,2500,N/A,Registered,Imported,Automatic
+Mercedes-Benz,S-Class,2014,Black,Foreign Used,54699,4600,N/A,Imported,Imported,Automatic
+Ford,Escape,2014,Black,Foreign Used,164928,1600,N/A,Imported,Imported,Automatic
+Toyota,Corolla,2006,Gold,Local Used,243824,1800,N/A,Registered,Registered,Automatic
+Ford,Edge,2010,Red,Local Used,169701,3500,N/A,Registered,Imported,Automatic
+Toyota,Matrix,2005,Blue,Local Used,299999,1800,Lagos,Registered,Imported,Automatic
+Ford,F-150,2010,Red,Local Used,190626,5400,LAGOS,Registered,Registered,Automatic
+Mercedes-Benz,W123,1985,Red,Local Used,173580,2000,Abuja,Registered,Registered,Manual
+Toyota,Corolla,2004,Red,Local Used,248330,1800,N/A,Registered,Registered,Automatic
+Nissan,Maxima,2005,Blue,Local Used,246406,3500,LAGOS,Registered,Registered,Automatic
+Peugeot,407,2004,Black,Local Used,297926,2000,Abuja,Registered,Registered,Automatic
+Mercedes-Benz,GLS-Class,2017,Black,Local Used,1739,4600,N/A,Registered,Imported,Automatic
+Ford,Edge,2016,Gray,Local Used,128225,2000,LAGOS,Registered,Registered,Automatic
+Hyundai,Sonata,2011,White,Local Used,194842,2400,Lagos,Registered,Registered,Automatic
+Lexus,ES,2003,Gold,Local Used,182692,3500,Lagos,Registered,Imported,Automatic
+Toyota,FJ Cruiser,2007,Burgandy,Local Used,126954,4000,Lagos,Registered,Imported,Automatic
+Lexus,LS,2009,Silver,Local Used,149802,4600,N/A,Registered,Imported,Automatic
+Honda,Pilot,2022,Blue,Foreign Used,2335,3500,N/A,Imported,Imported,Automatic
+Toyota,Corolla,2004,Gold,Local Used,183912,1800,ABUJA,Registered,Registered,Automatic
+Toyota,Camry,2009,Green,Local Used,262277,2300,N/A,Registered,Imported,Automatic
+Toyota,Highlander,2017,Silver,Foreign Used,53587,3500,N/A,Imported,Imported,Automatic
+Mercedes-Benz,C230,2004,Silver,Local Used,35222,N/A,Abuja,Registered,Registered,Automatic
+Ford,F-150,2023,Black,Foreign Used,2234,3500,N/A,Imported,Imported,Automatic
+Mercedes-Benz,G-Class,2021,Gray,Foreign Used,1477,2000,N/A,Imported,Imported,Automatic
+Nissan,Almera,2001,Red,Local Used,257525,1800,LAGOS,Registered,Imported,Manual
+Volkswagen,Touran,2006,Gray,Local Used,267633,2000,LAGOS,Registered,Registered,Automatic
+Hyundai,Santa Fe,2004,Black,Local Used,230497,2700,LAGOS,Registered,Imported,Automatic
+Dodge,Journey,2012,White,Local Used,318689,3600,LAGOS,Registered,Registered,Automatic
+Infiniti,QX56,2011,Gray,Local Used,78353,5000,Lagos,Registered,Imported,Automatic
+Toyota,Corolla,2016,Silver,Foreign Used,73720,1800,N/A,Imported,Imported,Automatic
+Toyota,Sienna,2018,Gray,Local Used,65473,3000,N/A,Registered,Imported,Automatic
+Honda,Accord,2004,Silver,Local Used,252881,2400,Lagos,Registered,Imported,Automatic
+Toyota,Sienna,2011,Black,Foreign Used,169667,3500,N/A,Imported,Imported,Automatic
+Toyota,Corolla,2009,Black,Local Used,41494,1800,Oyo state,Registered,Registered,Automatic
+Nissan,Armada,2009,Black,Local Used,108039,5600,DELTA,Registered,Imported,Automatic
+Toyota,Sienna,2004,Gray,Local Used,159996,3300,LAGOS,Registered,Imported,Automatic
+Lexus,ES,2004,Green,Local Used,107979,3300,LAGOS,Registered,Imported,Automatic
+Kia,Soul,2011,Black,Local Used,171960,1600,Abuja,Registered,Registered,Automatic
+GMC,Acadia,2023,Black,Foreign Used,3652,3600,N/A,Imported,Imported,Automatic
+Toyota,Corolla,2010,White,Local Used,292618,1800,N/A,Registered,Imported,Automatic
+Honda,Civic,2003,Red,Local Used,175197,1700,LAGOS,Registered,Registered,Automatic
+Nissan,Pathfinder,2007,Black,Local Used,116707,4000,N/A,Registered,Registered,Automatic
+Toyota,Camry,2014,Green,Foreign Used,300209,2500,N/A,Imported,Imported,Automatic
+Honda,CR-V,2007,Black,Local Used,185098,2400,N/A,Registered,Imported,Automatic
+Volvo,XC90,2009,Red,Foreign Used,306576,3200,N/A,Imported,Imported,Automatic
+Toyota,Camry,2007,Gray,Local Used,353356,3500,N/A,Registered,Imported,Automatic
+Honda,Civic,2001,Gray,Local Used,145968,1700,ABUJA,Registered,Registered,Automatic
+Mazda,CX-9,2011,Black,Foreign Used,187595,3000,N/A,Imported,Imported,Automatic
+Mazda,MPV,2000,Silver,Local Used,218733,2500,N/A,Registered,Registered,Automatic
+Toyota,Camry,2008,Black,Local Used,123370,2400,ENUGU,Registered,Registered,Automatic
+Nissan,Pathfinder,2002,Gray,Local Used,999999,3500,ABUJA,Registered,Registered,Automatic
+Ford,Escape,2010,Black,Local Used,256887,3500,LAGOS,Registered,Imported,Automatic
+Hyundai,Sonata,2011,Gray,Local Used,458241,2400,LAGOS,Registered,Imported,Automatic
+Lexus,GS,2016,White,Local Used,67532,4600,N/A,Registered,Imported,Automatic
+Toyota,Corolla,2007,Red,Local Used,419342,1800,LAGOS,Registered,Registered,Automatic
+Mazda,CX-5,2021,Black,Local Used,57862,2500,LAGOS,Registered,Imported,Automatic
+Toyota,Camry,1992,Blue,Local Used,242666,2000,ENUGU,Registered,Registered,Automatic
+Honda,Accord,2003,Black,Local Used,262341,2400,N/A,Registered,Imported,Automatic
+Lexus,IS,2010,Silver,Foreign Used,160241,N/A,N/A,Imported,Imported,Automatic
+Lexus,RX 350,2017,Gray,Foreign Used,67202,3500,N/A,Imported,Imported,Automatic
+Nissan,Micra,2001,Blue,Local Used,251988,1000,OGUN,Registered,Registered,Manual
+Volkswagen,Golf,1995,White,Local Used,260294,2000,ABUJA,Registered,Imported,Manual
+Ford,Fusion,2011,White,Local Used,287159,2500,Kwara,Registered,Imported,Automatic
+Volkswagen,Touareg,2005,Brown,Local Used,244220,3200,LAGOS,Registered,Registered,Automatic
+Honda,Civic,2006,Gray,Local Used,158352,1800,N/A,Registered,Imported,Automatic
+Nissan,Xterra,2002,Blue,Local Used,225090,3300,Lagos,Registered,Registered,Automatic
+Toyota,Corolla,2014,Gray,Local Used,94753,1800,Lagos,Registered,Imported,Automatic
+Toyota,Corolla,2012,Silver,Local Used,91500,1800,Abuja,Registered,Registered,Automatic
+Lexus,RX 350,2014,Black,Local Used,89156,3500,ABUJA,Registered,Imported,Automatic
+Toyota,Sienna,2001,Green,Local Used,392846,3000,IMO,Registered,Registered,Automatic
+Mitsubishi,L200,2014,White,Local Used,144992,2400,LAGOS,Registered,Registered,Manual
+Toyota,Corolla,2010,Gray,Local Used,244140,1800,Lagos,Registered,Registered,Automatic
+Lexus,ES,2013,Black,Local Used,1269981,3500,RIVERS STATE,Registered,Imported,CVT
+Toyota,Camry,2003,Red,Local Used,154779,2400,N/A,Registered,Registered,Automatic
+Honda,Pilot,2010,Brown,Local Used,347116,3500,OGUN,Registered,Imported,Automatic
+Toyota,Sienna,2004,White,Local Used,412712,3300,N/A,Registered,Registered,Automatic
+Jeep,Liberty,2003,Red,Local Used,162492,3700,Lagos,Registered,Imported,Automatic
+Lexus,GS,2007,Black,Foreign Used,141374,3500,N/A,Imported,Imported,Automatic
+Lexus,ES,2010,Blue,Local Used,260170,3500,Lagos,Registered,Imported,Automatic
+Toyota,Corolla,2015,Silver,Local Used,229919,1800,N/A,Registered,Registered,CVT
+Toyota,Sienna,2002,Gold,Local Used,256480,3000,LAGOS,Registered,Imported,Automatic
+Mercedes-Benz,GL-Class,2011,Black,Local Used,398416,4500,N/A,Registered,Registered,Automatic
+Toyota,Avalon,2007,Purple,Local Used,263334,3500,LAGOS,Registered,Imported,Automatic
+Honda,City,2010,Red,Local Used,262981,1600,ABUJA,Registered,Registered,Automatic
+Toyota,RAV4,2007,Silver,Local Used,136475,2400,N/A,Registered,Registered,Automatic
+Toyota,Camry,2005,Blue,Local Used,228449,2400,Lagos,Registered,Imported,Automatic
+Honda,Crosstour,2011,Black,Local Used,233832,3200,N/A,Registered,Registered,Automatic
+Toyota,Highlander,2002,Green,Local Used,264000,3000,ENUGU,Registered,Imported,Automatic
+Toyota,Tundra,2007,Silver,Local Used,220151,5700,N/A,Registered,Imported,Automatic
+Honda,City,2009,Black,Local Used,175797,1500,LAGOS,Registered,Registered,Automatic
+Honda,Accord,2005,Gold,Local Used,216332,2400,LAGOS,Registered,Imported,Automatic
+Toyota,RAV4,2009,Red,Local Used,312176,2500,Lagos,Registered,Imported,Automatic
+Acura,MDX,2005,Black,Local Used,389028,3500,Lagos,Registered,Imported,Automatic
+Hyundai,Sonata,2012,Gray,Local Used,394788,2000,Lagos,Registered,Imported,Automatic
+Honda,Accord Crosstour,2010,White,Foreign Used,246184,3500,N/A,Imported,Imported,Automatic
+Toyota,4-Runner,2008,Gray,Local Used,134770,4000,Lagos,Registered,Imported,Automatic
+Toyota,Camry,2004,Red,Local Used,147905,3000,RIVERS STATE,Registered,Registered,Automatic
+Toyota,Corolla,2016,Silver,Foreign Used,65601,1800,N/A,Imported,Imported,Automatic
+Nissan,Rogue,2016,Gray,Local Used,153557,2500,N/A,Registered,Imported,Automatic
+Lexus,ES,2007,Gray,Local Used,153413,3500,Lagos,Registered,Imported,Automatic
+Mercedes-Benz,C300,2015,Black,Local Used,100,2000,Lagos,Registered,Imported,Automatic
+Toyota,Camry,2010,Beige,Local Used,193674,2500,LAGOS,Registered,Registered,Automatic
+Volkswagen,Passat,2006,Black,Local Used,231376,2800,LAGOS,Registered,Registered,Automatic
+Mercedes-Benz,GL-Class,2007,Black,Local Used,185041,4500,N/A,Registered,Registered,Automatic
+Honda,Pilot,2003,Gray,Local Used,241986,3500,LAGOS,Registered,Registered,Automatic
+Lexus,GS,2004,Silver,Local Used,224162,3000,LAGOS,Registered,Imported,Automatic
+Toyota,Sienna,2004,Blue,Local Used,261961,3300,LAGOS,Registered,Imported,Automatic
+Ford,Explorer,2010,Green,Local Used,303758,4000,LAGOS,Registered,Imported,Automatic
+Ford,Explorer,2010,White,Local Used,293477,4000,ABUJA,Registered,Registered,Automatic
+Toyota,Corolla,2016,Silver,Local Used,311846,2400,N/A,Registered,Imported,Automatic
+Hyundai,Sonata,2012,Black,Local Used,114208,N/A,ABIA,Registered,Registered,Automatic
+Mercedes-Benz,C300,2010,Black,Local Used,N/A,3000,N/A,Registered,Registered,Automatic
+Kia,Forte,2010,Burgandy,Local Used,304345,2000,N/A,Registered,Imported,Automatic
+Toyota,Camry,2023,Blue,Foreign Used,8450,2500,N/A,Imported,Imported,Automatic
+Toyota,RAV4,2006,Red,Local Used,324204,2400,LAGOS,Registered,Registered,Automatic
+Hyundai,Santa Fe,2007,Black,Local Used,374462,3300,Lagos,Registered,Registered,Automatic
+Honda,Pilot,2004,Gold,Local Used,213017,3500,LAGOS,Registered,Registered,Automatic
+Mercedes-Benz,E320,1999,Black,Local Used,131754,3200,N/A,Registered,Registered,Automatic
+Mercedes-Benz,M Class,2015,Silver,Foreign Used,201371,3500,N/A,Imported,Imported,Automatic
+Lexus,ES,2014,Black,Local Used,172239,3500,N/A,Registered,Registered,Automatic
+Lexus,GX,2014,Black,Foreign Used,170490,4600,N/A,Imported,Imported,Automatic
+Toyota,RAV4,2008,Black,Foreign Used,183028,3500,N/A,Imported,Imported,Automatic
+Hyundai,Creta,2020,Black,Local Used,49181,1600,ABUJA,Registered,Brand new,Automatic
+Toyota,Camry,2007,Blue,Local Used,189187,2400,ABUJA,Registered,Registered,Automatic
+Mercedes-Benz,M Class,2012,White,Local Used,334840,3500,N/A,Registered,Imported,Automatic
+Lexus,RX 300,2002,Blue,Local Used,377374,3000,N/A,Registered,Imported,Automatic
+Toyota,Highlander,2015,Brown,Foreign Used,222285,3500,N/A,Imported,Imported,Automatic
+Volkswagen,Golf,2007,Black,Local Used,319812,2500,N/A,Registered,Registered,Automatic
+Toyota,Highlander,2012,Burgandy,Local Used,128036,3500,Lagos,Registered,Registered,Automatic
+Toyota,Sienna,2012,Gray,Foreign Used,108247,3500,N/A,Imported,Imported,Automatic
+Toyota,Camry,2007,Green,Local Used,344704,3500,Lagos,Registered,Registered,Automatic
+Toyota,Sienna,2007,Silver,Local Used,150171,3500,ENUGU,Registered,Imported,Automatic
+Honda,Accord,2001,Green,Local Used,370201,2800,LAGOS,Registered,Registered,Automatic
+Toyota,Camry,2013,Gold,Foreign Used,187505,2500,N/A,Imported,Imported,Automatic
+Mercedes-Benz,GL-Class,2007,Black,Local Used,132682,4700,LAGOS,Registered,Registered,Automatic
+Ford,Edge,2014,Black,Local Used,5801,3500,N/A,Registered,Registered,Automatic
+Toyota,Avensis,2008,Black,Local Used,256057,2400,N/A,Registered,Imported,Automatic
+Nissan,Murano,2011,Black,Local Used,209460,3500,Lagos,Registered,Registered,CVT
+Peugeot,607,2009,Blue,Local Used,135240,3500,LAGOS,Registered,Imported,Automatic
+BMW,535i,2011,Gray,Foreign Used,310563,3000,N/A,Imported,Imported,Automatic
+Lexus,GS,2008,Silver,Local Used,255054,3500,Lagos,Registered,Imported,Automatic
+Toyota,Highlander,2007,Blue,Local Used,152736,3300,JJJ137FS,Registered,Imported,Automatic
+Mercedes-Benz,GLE-Class,2018,Gray,Foreign Used,139560,3500,N/A,Imported,Imported,Automatic
+Lexus,RX 300,1999,Silver,Local Used,124232,3000,LAGOS,Registered,Registered,Automatic
+Mercedes-Benz,A-Class,2004,Black,Local Used,230210,1500,KADUNA,Registered,Imported,Automatic
+Toyota,RAV4,2016,Black,Local Used,127766,2500,N/A,Registered,Imported,CVT
+Toyota,Camry,1998,Gray,Local Used,328502,2400,LAGOS,Registered,Registered,Automatic
+Peugeot,407,2004,Gray,Local Used,678313,2200,ABUJA,Registered,Registered,Automatic
+Toyota,Venza,2013,Black,Foreign Used,175569,2700,N/A,Imported,Imported,Automatic
+Mitsubishi,Pajero,2008,Black,Local Used,348645,3000,LAGOS,Registered,Imported,Automatic
+Mercedes-Benz,GL-Class,2014,Black,Local Used,116756,4600,N/A,Registered,Imported,Automatic
+Toyota,Corolla,2004,Red,Local Used,299999,1800,IMO,Registered,Registered,Automatic
+Pontiac,Vibe,2006,Red,Local Used,353469,1800,Kaduna,Registered,Imported,Automatic
+Toyota,RAV4,2015,Silver,Local Used,165687,2500,LAGOS,Registered,Registered,Automatic
+Mitsubishi,Montero,2003,Silver,Local Used,193369,3800,Lagos,Registered,Imported,Automatic
+Land Rover,Range Rover Velar,2018,Gray,Foreign Used,106696,3000,N/A,Imported,Imported,Automatic
+Volkswagen,Jetta,2006,Black,Local Used,184505,2500,LAGOS,Registered,Registered,Automatic
+Hyundai,Sonata,2017,Brown,Foreign Used,78687,2400,N/A,Imported,Imported,Automatic
+Toyota,Yaris,2013,Blue,Foreign Used,67894,1800,N/A,Imported,Imported,Automatic
+Toyota,Corolla,2005,Blue,Local Used,296312,1800,Abuja,Registered,Registered,Automatic
+Toyota,Camry,2007,White,Local Used,307305,2400,N/A,Registered,Registered,Automatic
+Acura,CSX,2010,Black,Local Used,303625,2000,Lagos,Registered,Imported,Automatic
+Infiniti,QX,2005,Green,Local Used,118867,5600,N/A,Registered,Imported,Automatic
+Toyota,Highlander,2004,Gold,Local Used,307961,3300,OGUN,Registered,Imported,Automatic
+Mercedes-Benz,M Class,2006,Gold,Local Used,189865,3500,LAGOS,Registered,Imported,Automatic
+Mercedes-Benz,GLK-Class,2010,White,Foreign Used,271556,3500,N/A,Imported,Imported,Automatic
+Ford,Escape,2009,Black,Local Used,262624,3000,ABUJA,Registered,Registered,Automatic
+Toyota,Corolla,2017,Black,Local Used,87345,1800,LAGOS,Registered,Registered,Automatic
+Honda,Accord,2005,Gray,Local Used,305357,2400,N/A,Registered,Imported,Automatic
+Volkswagen,Sharan,2001,Black,Local Used,245461,2000,LAGOS,Registered,Imported,Automatic
+Toyota,Sienna,2011,Gray,Local Used,108523,3500,N/A,Registered,Imported,Automatic
+Hyundai,Sonata,2011,Black,Foreign Used,287408,2400,N/A,Imported,Imported,Automatic
+Toyota,Camry,2004,Silver,Local Used,424225,2400,LAGOS,Registered,Registered,Automatic
+Lexus,GX,2010,Black,Local Used,55184,4600,N/A,Registered,Imported,Automatic
+Mercedes-Benz,C300,2016,White,Local Used,335333,3000,ABUJA,Registered,Imported,CVT
+Honda,Pilot,2009,Red,Local Used,125280,3500,KADUNA,Registered,Registered,Automatic
+Toyota,Land Cruiser,2010,Black,Local Used,136271,4700,N/A,Registered,Registered,Automatic
+Toyota,Camry,2003,Green,Local Used,326621,2400,ABUJA,Registered,Registered,Automatic
+Lexus,RX 400h,2006,Black,Local Used,299358,3300,LAGOS,Registered,Imported,Automatic
+Volvo,240,1990,Silver,Local Used,223123,2300,ABIA,Registered,Registered,Manual
+Honda,Civic,2007,White,Local Used,236164,1300,N/A,Registered,Imported,Automatic
+Toyota,Camry,2009,Blue,Local Used,118962,3500,LAGOS,Registered,Registered,Automatic
+Acura,MDX,2001,Green,Local Used,316904,3500,N/A,Registered,Imported,Automatic
+Mercedes-Benz,M Class,2005,Silver,Local Used,331765,3700,ABUJA,Registered,Registered,Automatic
+Kia,Rio,2013,Brown,Local Used,97422,1400,LAGOS,Registered,Registered,Manual
+Lexus,IS,2007,Red,Local Used,187864,2500,Abuja,Registered,Imported,Automatic
+Lexus,RX 350,2018,Red,Foreign Used,1341512,3500,N/A,Imported,Imported,Automatic
+Mitsubishi,Montero Sport,2019,Black,Local Used,72658,3000,N/A,Registered,Brand new,Automatic
+Kia,Optima,2014,Gray,Local Used,100672,2500,Kano State,Registered,Imported,Automatic
+Land Rover,Range Rover Velar,2018,White,Foreign Used,101884,3000,N/A,Imported,Imported,Automatic
+Honda,Accord,2005,Gray,Local Used,405991,2400,ENUGU,Registered,Registered,Automatic
+Kia,Optima,2007,Silver,Local Used,167520,2000,LAGOS,Registered,Registered,Automatic
+Ford,Escape,2015,Black,Local Used,182040,2000,Lagos,Registered,Imported,Automatic
+Toyota,Corolla,2005,Blue,Local Used,136415,1800,N/A,Registered,Registered,Automatic
+Mitsubishi,Eclipse,2021,Black,Local Used,39258,1500,N/A,Registered,Registered,CVT
+Toyota,Tundra,2010,Silver,Local Used,97119,5700,LAGOS,Registered,Registered,Automatic
+Ford,Mondeo,2007,Blue,Local Used,228482,2300,lagos,Registered,Imported,Automatic
+Honda,Accord,2005,Black,Local Used,92058,2500,N/A,Registered,Imported,Automatic
+Toyota,Avalon,2004,Black,Local Used,N/A,3000,EDO,Registered,Registered,Automatic
+Ford,Edge,2007,Black,Local Used,327455,3200,N/A,Registered,Imported,Automatic
+Lexus,RX 350,2010,Gold,Foreign Used,162187,3500,N/A,Imported,Imported,Automatic
+Mercedes-Benz,E200,1994,Gray,Local Used,164401,2000,Osun,Registered,Registered,Automatic
+Toyota,Camry,2008,Silver,Local Used,112371,2500,Lagos,Registered,Imported,Automatic
+Honda,Civic,2006,Blue,Local Used,1159697,1800,Lagos,Registered,Registered,Automatic
+Mercedes-Benz,E350,2006,Silver,Local Used,163329,3500,ABUJA,Registered,Imported,Automatic
+Toyota,Highlander,2009,Black,Local Used,330926,3500,Lagos,Registered,Imported,Automatic
+Mercedes-Benz,GLE53,2022,Green,Foreign Used,119549,3000,N/A,Imported,Imported,Automatic
+Land Rover,Range Rover Velar,2018,Black,Foreign Used,122060,3000,N/A,Imported,Imported,Automatic
+Mitsubishi,SpaceWagon,2005,Silver,Foreign Used,161336,1600,N/A,Imported,Imported,Automatic
+Peugeot,307,2006,Green,Local Used,N/A,1600,PLATEAU,Registered,Registered,Manual
+Toyota,Land Cruiser,2009,Black,Local Used,296814,4000,N/A,Registered,Brand new,Automatic
+Toyota,Camry,2007,Silver,Foreign Used,80623,2400,N/A,Imported,Imported,Automatic
+Ford,Escape,2009,Silver,Local Used,275750,2500,LAGOS,Registered,Imported,Automatic
+Nissan,Serena,1993,Gray,Foreign Used,146257,1800,N/A,Imported,Imported,Manual
+Toyota,Venza,2013,Brown,Foreign Used,211422,3500,N/A,Imported,Imported,Automatic
+Lexus,RX 300,2001,Black,Local Used,135253,3000,LAGOS,Registered,Registered,Automatic
+Peugeot,508,2016,Green,Local Used,40466,1600,N/A,Registered,Brand new,Automatic
+Dodge,Nitro,2008,Silver,Local Used,180520,3700,Lagos State,Registered,Imported,Automatic
+Hyundai,Creta,2018,Silver,Local Used,206808,1600,N/A,Registered,Brand new,Automatic
+Ford,F-150,2017,White,Foreign Used,120829,3500,N/A,Imported,Imported,Automatic
+Toyota,Camry,2002,Gray,Local Used,413255,2400,LAGOS,Registered,Registered,Automatic
+Honda,Accord,2008,Gray,Local Used,92809,2400,Abuja,Registered,Registered,Automatic
+Toyota,Avensis,2005,Black,Local Used,126122,2000,N/A,Registered,Registered,Automatic
+Cadillac,SRX,2007,Silver,Local Used,181712,3600,LAGOS,Registered,Registered,Automatic
+Kia,Optima,2006,Silver,Local Used,351326,2700,N/A,Registered,Imported,AMT
+Toyota,RAV4,2014,Blue,Local Used,191690,2500,LAGOS,Registered,Registered,Automatic
+Nissan,Primera,1993,Green,Local Used,N/A,1600,OGUN,Registered,Imported,Manual
+Ford,Escape,2004,Gray,Foreign Used,167562,3000,N/A,Imported,Imported,Automatic
+Lexus,GX,2003,Black,Local Used,109548,3700,Rivers,Registered,Registered,Automatic
+BMW,X3,2008,Silver,Local Used,202910,3000,N/A,Registered,Imported,Automatic
+Toyota,Camry,2007,Gray,Local Used,353263,3500,N/A,Registered,Registered,Automatic
+Toyota,Camry,2013,Blue,Foreign Used,231015,2500,N/A,Imported,Imported,Automatic
+Mercedes-Benz,GLE-Class,2016,Black,Foreign Used,220003,3000,N/A,Imported,Imported,Automatic
+Ford,F-150,2010,Black,Foreign Used,155023,5400,N/A,Imported,Imported,Automatic
+Honda,Accord,2004,Blue,Local Used,324952,2400,ENUGU,Registered,Registered,Automatic
+Pontiac,Vibe,2007,Blue,Foreign Used,478513,1800,N/A,Imported,Imported,Automatic
+Audi,A4,2007,Black,Local Used,301833,2000,N/A,Registered,Imported,Automatic
+Mercedes-Benz,C320,2000,Blue,Local Used,944639,3000,DELTA STATE,Registered,Imported,Automatic
+Geely,Emgrand EC7,2010,Gray,Local Used,169483,1800,N/A,Registered,Brand new,Manual
+Mercedes-Benz,R-Class,2007,Gray,Local Used,189500,3500,N/A,Registered,Imported,Automatic
+Nissan,Pathfinder,2016,White,Local Used,116516,3500,LAGOS,Registered,Imported,Automatic
+Toyota,RAV4,2014,Black,Local Used,160009,2500,N/A,Registered,Imported,CVT
+Ford,Edge,2007,Off white,Local Used,297115,3500,NIGER,Registered,Registered,Automatic
+Toyota,Camry,2013,Beige,Local Used,256179,2500,FCT,Registered,Imported,Automatic
+Volkswagen,Eos,2007,Silver,Local Used,121941,2000,Lagos,Registered,Imported,Automatic
+Honda,Accord,2019,White,Foreign Used,49212,1500,N/A,Imported,Imported,Automatic
+Mercedes-Benz,GLE-Class,2016,Black,Foreign Used,136695,3000,N/A,Imported,Imported,Automatic
+Toyota,Matrix,2003,Blue,Local Used,109413,1800,EDO,Registered,Registered,Automatic
+Mercedes-Benz,GLK-Class,2013,White,Foreign Used,201874,3500,N/A,Imported,Imported,Automatic
+Toyota,Corolla,2022,Black,Local Used,12887,2000,N/A,Registered,Registered,Automatic
+Mitsubishi,SpaceWagon,1999,Gray,Local Used,211597,N/A,N/A,Registered,Registered,Manual
+Nissan,Sunny,2011,Black,Local Used,156132,1600,ABUJA,Registered,Registered,Manual
+Toyota,Camry,2002,Silver,Local Used,362059,N/A,Abuja,Registered,Imported,Automatic
+Mercedes-Benz,190,1991,Blue,Local Used,135508,1800,LAGOS,Registered,Registered,Manual
+Toyota,Avalon,2008,Black,Local Used,173798,3500,EDO,Registered,Registered,Automatic
+Lexus,ES,2006,White,Local Used,207452,3300,Abuja,Registered,Imported,Automatic
+Mazda,Tribute,2003,Green,Local Used,151970,3000,ENUGU,Registered,Imported,Automatic
+Mercedes-Benz,GLE-Class,2017,Black,Foreign Used,63773,3500,N/A,Imported,Imported,Automatic
+Honda,Accord,2008,Gold,Local Used,328308,2400,N/A,Registered,Imported,Automatic
+Ford,Explorer,2016,Brown,Local Used,79332,3500,N/A,Registered,Imported,Automatic
+Lexus,ES,2008,White,Local Used,117491,3500,N/A,Registered,Imported,Automatic
+BMW,7 Series,2013,Blue,Foreign Used,68370,4400,N/A,Imported,Imported,Automatic
+Toyota,Camry,2012,Black,Local Used,249676,2500,N/A,Registered,Imported,Automatic
+Volkswagen,Passat,2003,Red,Local Used,188124,1800,N/A,Registered,Registered,Automatic
+Toyota,Highlander,2014,Blue,Foreign Used,153568,3700,N/A,Imported,Imported,Automatic
+Honda,Accord,2008,Red,Local Used,228664,3500,N/A,Registered,Registered,Automatic
+Honda,Accord,2007,Silver,Local Used,101924,3500,ABUJA,Registered,Registered,Automatic
+Toyota,Corolla,2018,Blue,Local Used,105574,1800,LAGOS,Registered,Imported,Automatic
+Chevrolet,Blazer,2019,Red,Foreign Used,41337,3500,N/A,Imported,Imported,Automatic
+Mercedes-Benz,C-Class,2017,Silver,Foreign Used,95656,3000,N/A,Imported,Imported,Automatic
+Hyundai,Elantra,2012,Black,Foreign Used,273077,1800,N/A,Imported,Imported,Automatic
+Toyota,Highlander,2014,Silver,Foreign Used,105677,3500,N/A,Imported,Imported,Automatic
+Toyota,Tacoma,2014,Blue,Foreign Used,81394,3500,N/A,Imported,Imported,Automatic
+Volvo,S80,2009,Black,Local Used,258949,3200,LAGOS,Registered,Imported,Automatic
+Mitsubishi,Outlander Sport,2012,Black,Local Used,191805,3000,N/A,Registered,Imported,Automatic
+Toyota,Camry,2014,Silver,Local Used,66419,2500,KADUNA,Registered,Imported,Automatic
+Volkswagen,Golf,2000,Blue,Local Used,297197,1800,ENUGU,Registered,Registered,Automatic
+Mercedes-Benz,GL-Class,2007,Black,Local Used,1288997,4600,LAGOS,Registered,Imported,Automatic
+Honda,Accord,1998,Green,Local Used,254171,1600,N/A,Registered,Registered,Automatic
+Mercedes-Benz,GLA-Class,2019,White,Foreign Used,128481,3500,N/A,Imported,Imported,Automatic
+Ford,Transit,2012,White,Local Used,128713,2500,LAGOS,Registered,Registered,Automatic
+Honda,Accord,2009,Red,Local Used,158921,2400,N/A,Registered,Registered,Automatic
+Toyota,Camry,2012,Gray,Foreign Used,294581,2500,N/A,Imported,Imported,Automatic
+Toyota,Camry,2007,White,Local Used,334156,2400,LAGOS,Registered,Registered,Automatic
+Toyota,Camry,2007,Black,Local Used,195685,3500,N/A,Registered,Registered,Automatic
+Toyota,Camry,2006,Red,Local Used,154511,N/A,ABUJA,Registered,Registered,Automatic
+Toyota,Land Cruiser,2011,White,Foreign Used,121389,5700,N/A,Imported,Imported,Automatic
+Lexus,LS,2012,White,Local Used,18035,4600,N/A,Registered,Imported,Automatic
+Peugeot,407,2005,Gray,Local Used,1,2000,KADUNA,Registered,Registered,Manual
+Mazda,5,2007,Black,Foreign Used,111212,2300,N/A,Imported,Imported,Manual
+Citroen,C4,2008,Gold,Local Used,N/A,1800,N/A,Registered,Imported,Manual
+Mazda,3,2007,Gold,Local Used,188119,2000,Abuja,Registered,Registered,Automatic
+Ford,Edge,2009,Gray,Local Used,324113,3500,Lagos,Registered,Registered,Automatic
+Nissan,Pathfinder,2014,Black,Local Used,153831,3500,N/A,Registered,Imported,Automatic
+Mercedes-Benz,E200,1980,Gray,Local Used,111526,1999,Lagos,Registered,Registered,Automatic
+Toyota,Land Cruiser,2007,Black,Local Used,75288,4700,Abuja,Registered,Registered,Automatic
+Toyota,Camry,2003,Green,Local Used,171020,3000,LAGOS,Registered,Registered,Automatic
+BMW,520i,2007,Black,Local Used,277833,3800,Lagos,Registered,Imported,Manual
+Acura,MDX,2004,Silver,Local Used,229740,3000,N/A,Registered,Registered,Automatic
+Toyota,Corolla,2015,White,Local Used,234130,1800,DELTA,Registered,Imported,CVT
+Kia,Sorento,2024,Black,Local Used,1991,2500,N/A,Registered,Brand new,Automatic
+Acura,MDX,2009,White,Local Used,318844,3700,Lagos,Registered,Imported,Automatic
+Toyota,Camry,2001,Gray,Local Used,410929,2200,EDO,Registered,Registered,Automatic
+Toyota,Camry,2007,Gray,Local Used,187811,2400,LAGOS,Registered,Imported,Automatic
+Hyundai,Sonata,2014,Silver,Foreign Used,170506,1800,N/A,Imported,Imported,Automatic
+Toyota,Fortuner,2020,Gray,Foreign Used,42438,2700,N/A,Imported,Imported,Automatic
+Toyota,Corolla,2006,Blue,Local Used,154607,1800,LAGOS,Registered,Imported,Manual
+Ford,Explorer,2013,White,Local Used,160782,3500,LAGOS,Registered,Imported,Automatic
+Chevrolet,Camaro,2012,Black,Foreign Used,227314,3600,N/A,Imported,Imported,Automatic
+Ford,Explorer,2004,Silver,Local Used,200995,3800,LAGOS,Registered,Registered,Automatic
+Lexus,ES,2002,Burgandy,Local Used,181988,3000,N/A,Registered,Registered,Automatic
+Toyota,Corolla,2014,Black,Foreign Used,141929,1800,N/A,Imported,Imported,Automatic
+Toyota,Corolla,2006,Red,Local Used,231358,1800,LAGOS,Registered,Registered,Automatic
+Lexus,RX 300,1999,Black,Local Used,392490,3000,N/A,Registered,Imported,Automatic
+Infiniti,QX60,2017,Black,Local Used,94398,3500,Lagos,Registered,Imported,Automatic
+Mercedes-Benz,E350,2007,Black,Local Used,298754,3500,Lagos,Registered,Registered,Automatic
+Toyota,Land Cruiser Prado,2009,Black,Local Used,137839,2700,LAGOS,Registered,Registered,Automatic
+Honda,Accord,1999,Gold,Local Used,N/A,3000,N/A,Registered,Registered,Automatic
+Honda,CR-V,2010,Blue,Local Used,18115,2400,N/A,Registered,Imported,Automatic
+Land Rover,Range Rover,2014,Black,Foreign Used,80785,5000,N/A,Imported,Imported,Automatic
+Toyota,Land Cruiser Prado,2007,Black,Local Used,10933,4000,N/A,Registered,Registered,Automatic
+Toyota,Camry,2019,Black,Local Used,39615,2500,Abuja,Registered,Imported,Automatic
+Honda,Accord,2012,Black,Local Used,157518,2000,ABUJA,Registered,Brand new,Automatic
+Ford,Focus,2001,Blue,Foreign Used,356975,2000,N/A,Imported,Imported,Manual
+Toyota,Camry,2014,Black,Local Used,240588,2500,LAGOS,Registered,Registered,CVT
+Volkswagen,Passat,2012,Black,Local Used,59080,2400,LAGOS,Registered,Imported,Automatic
+Toyota,Land Cruiser,2015,Silver,Foreign Used,74541,5700,N/A,Imported,Imported,Automatic
+Acura,TL,2004,Silver,Foreign Used,28652,3200,N/A,Imported,Imported,Automatic
+Infiniti,FX,2005,Silver,Local Used,95476,4500,N/A,Registered,Imported,Automatic
+Mercedes-Benz,E350,2016,Gray,Foreign Used,132036,3500,N/A,Imported,Imported,Automatic
+Volkswagen,Golf,2004,Red,Local Used,218978,2000,LAGOS,Registered,Registered,Manual
+Toyota,Sienna,2007,Red,Foreign Used,99815,3500,N/A,Imported,Imported,Automatic
+Toyota,Camry,2005,Gray,Local Used,244491,2400,Lagos State,Registered,Registered,Automatic
+Honda,Accord,2013,Black,Local Used,323940,2400,N/A,Registered,Registered,Automatic
+Toyota,Corolla,2015,Gray,Local Used,237564,1800,ABUJA,Registered,Registered,Automatic
+Toyota,Camry,2002,Gold,Local Used,215431,2400,N/A,Registered,Registered,Automatic
+Ford,Edge,2007,White,Local Used,179876,3500,N/A,Registered,Registered,Automatic
+Ford,Ranger,2015,Black,Local Used,184203,4000,LAGOS,Registered,Imported,Manual
+Mercedes-Benz,GL-Class,2007,Silver,Local Used,122596,4700,Lagos,Registered,Imported,Automatic
+Toyota,Avalon,2007,Silver,Local Used,147722,3500,N/A,Registered,Registered,Automatic
+Mercedes-Benz,C240,2001,Silver,Local Used,15902,2600,LAGOS,Registered,Registered,Automatic
+Lexus,IS,2007,Red,Local Used,190087,3700,Lagos,Registered,Imported,Automatic
+Lexus,IS,2016,Gray,Foreign Used,118630,2000,N/A,Imported,Imported,Automatic
+Lexus,RX 330,2004,Brown,Local Used,34793,3300,Lagos,Registered,Registered,Automatic
+Toyota,Highlander,2017,Silver,Foreign Used,100453,3500,N/A,Imported,Imported,Automatic
+Honda,Ridgeline,2006,Red,Local Used,289779,3500,OGUN,Registered,Registered,Automatic
+Mercedes-Benz,M Class,2007,Gray,Local Used,173254,3500,N/A,Registered,Imported,Automatic
+Toyota,Corolla,2007,Gray,Local Used,298109,1800,N/A,Registered,Imported,Automatic
+Honda,Accord,2012,Silver,Local Used,214494,2400,LAGOS,Registered,Brand new,Automatic
+Brilliance,Splendor,2015,White,Local Used,145623,1800,N/A,Registered,Registered,Manual
+Toyota,Camry,2024,Black,Brand New,150,2500,N/A,Brand new,Brand new,Automatic
+Mercedes-Benz,CLA-Class,2015,Red,Local Used,36242,2500,RIVERS,Registered,Imported,Automatic
+Hyundai,Elantra,2007,Gold,Local Used,406379,2000,ABUJA,Registered,Imported,Automatic
+Toyota,Camry,2007,Black,Local Used,213242,2400,N/A,Registered,Imported,Automatic
+Honda,Accord,2010,Red,Local Used,153820,2400,Lagos,Registered,Registered,Automatic
+Mercedes-Benz,C300,2013,Black,Local Used,109084,3500,Abuja,Registered,Registered,Automatic
+Lincoln,MKZ,2008,Black,Local Used,204740,3500,ABUJA,Registered,Registered,Automatic
+Ford,F-150,2007,Black,Local Used,N/A,4200,N/A,Registered,Imported,Manual
+Honda,Pilot,2005,Gray,Local Used,173892,3500,Lagos,Registered,Imported,Automatic
+BMW,7 Series,2008,Blue,Local Used,261382,4800,LAGOS,Registered,Registered,Automatic
+Toyota,Matrix,2009,Red,Foreign Used,307036,1800,N/A,Imported,Imported,Automatic
+Ford,Explorer,2007,White,Local Used,588184,4600,Abuja,Registered,Imported,Automatic
+Volkswagen,Jetta,2010,Black,Local Used,215471,2500,N/A,Registered,Registered,Automatic
+Mercedes-Benz,S-Class,2014,Black,Local Used,230982,4600,N/A,Registered,Imported,Automatic
+Honda,Odyssey,2003,Silver,Local Used,302871,3500,LAGOS,Registered,Registered,Automatic
+Volkswagen,Passat,2011,Black,Local Used,257016,2000,LAGOS,Registered,Registered,Automatic
+Honda,Civic,2007,Red,Foreign Used,398310,1700,N/A,Imported,Imported,Manual
+Toyota,Sienna,2008,Green,Local Used,127108,3500,Lagos,Registered,Registered,Automatic
+Mercedes-Benz,M Class,2014,White,Foreign Used,412053,3500,N/A,Imported,Imported,Automatic
+Volkswagen,Jetta,2009,Off white,Local Used,123193,2500,LAGOS,Registered,Registered,Automatic
+Mitsubishi,Spacestar,2002,Blue,Local Used,117030,1600,N/A,Registered,Registered,Automatic
+Mercedes-Benz,M Class,2007,Black,Local Used,143100,3500,LAGOS,Registered,Registered,Automatic
+Toyota,Highlander,2002,Silver,Local Used,288368,3800,LAGOS,Registered,Registered,Automatic
+Toyota,Sienna,2007,Silver,Local Used,107297,3500,LAGOS,Registered,Imported,Automatic
+Lexus,GX,2021,Black,Foreign Used,34697,4600,N/A,Imported,Imported,Automatic
+Mercedes-Benz,E350,2010,Gray,Local Used,129329,3500,N/A,Registered,Registered,Automatic
+Mercedes-Benz,GL-Class,2011,Black,Foreign Used,408402,4700,N/A,Imported,Imported,Automatic
+Acura,MDX,2007,Black,Local Used,205612,3700,Abuja,Registered,Registered,Automatic
+Toyota,Venza,2011,Gray,Local Used,185367,2700,N/A,Registered,Registered,Automatic
+Mercedes-Benz,GLK-Class,2013,Black,Local Used,145811,3500,N/A,Registered,Imported,Automatic
+Peugeot,307,2002,Silver,Foreign Used,218443,1608,N/A,Imported,Imported,Automatic
+Acura,MDX,2013,Black,Foreign Used,156187,3500,N/A,Imported,Imported,Automatic
+Pontiac,Vibe,2006,Blue,Local Used,417097,1800,LAGOS,Registered,Registered,Automatic
+BMW,335i,2014,Brown,Local Used,11067,3000,N/A,Registered,Brand new,Automatic
+Kia,Cerato,2011,Gray,Local Used,298729,1600,Lagos,Registered,Registered,Manual
+Toyota,Tundra,2006,Black,Local Used,274471,4700,Lagos,Registered,Imported,Automatic
+Honda,Pilot,2006,Black,Local Used,230707,3500,ABUJA,Registered,Registered,Automatic
+Toyota,Sienna,2007,Silver,Local Used,168815,3300,LAGOS,Registered,Registered,Automatic
+Lexus,IS,2008,Black,Local Used,159403,3500,LAGOS,Registered,Imported,Automatic
+Mercedes-Benz,E350,2011,Black,Local Used,214866,3500,N/A,Registered,Registered,Automatic
+Acura,MDX,2009,White,Foreign Used,82621,3700,N/A,Imported,Imported,Automatic
+Ford,Escape,2010,Black,Foreign Used,254719,3000,N/A,Imported,Imported,Automatic
+Toyota,Camry,2018,Silver,Local Used,91803,2500,N/A,Registered,Imported,Automatic
+Toyota,Camry,2014,Black,Foreign Used,150402,2500,N/A,Imported,Imported,Automatic
+Toyota,Camry,2004,Gray,Local Used,1470303,2400,N/A,Registered,Registered,Automatic
+Volkswagen,Passat,1998,Blue,Local Used,213251,2500,LAGOS,Registered,Imported,Manual
+Peugeot,807,2005,Silver,Foreign Used,195317,2000,N/A,Imported,Imported,Manual
+Honda,Pilot,2008,Gray,Foreign Used,354326,3500,N/A,Imported,Imported,Automatic
+Audi,A4,2008,Gray,Local Used,188732,2000,Lagos,Registered,Imported,Manual
+Ford,Edge,2013,Green,Local Used,182825,3500,LAGOS,Registered,Imported,Automatic
+Toyota,Land Cruiser Prado,2007,Black,Foreign Used,121875,2500,N/A,Imported,Imported,Automatic
+Ford,Edge,2014,Gray,Local Used,91337,3500,LAGOS,Registered,Registered,Automatic
+BMW,X5,2011,Black,Foreign Used,166639,3000,N/A,Imported,Imported,Automatic
+Land Rover,Lr4,2010,Black,Local Used,72341,5000,LAGOS,Registered,Registered,Automatic
+Toyota,Sienna,2008,Green,Local Used,151877,3500,ABUJA,Registered,Registered,Automatic
+Honda,Accord,2006,Blue,Local Used,371321,3000,N/A,Registered,Registered,Automatic
+Hyundai,Sonata,2018,Black,Foreign Used,46532,2400,N/A,Imported,Imported,Automatic
+Toyota,Corolla,2005,Red,Local Used,238099,1800,Abuja,Registered,Registered,Automatic
+Toyota,Camry,2003,Silver,Local Used,172134,2500,Lagos State,Registered,Imported,Automatic
+Honda,Accord,2013,Black,Foreign Used,182761,2400,N/A,Imported,Imported,CVT
+Honda,Odyssey,2007,Gray,Local Used,203058,3500,OGUN,Registered,Registered,Automatic
+Toyota,Avalon,2013,Black,Local Used,52572,3500,Lagos,Registered,Registered,Automatic
+Honda,Pilot,2006,Silver,Local Used,307050,3500,N/A,Registered,Registered,Automatic
+Honda,Accord,1999,Blue,Local Used,233243,2000,OGUN,Registered,Registered,Automatic
+Mercedes-Benz,C300,2011,White,Local Used,90566,3000,N/A,Registered,Registered,Automatic
+Toyota,Corolla,2006,Gray,Local Used,182341,1800,Lagos State,Registered,Registered,Automatic
+Honda,Accord,2011,Black,Local Used,176521,3500,N/A,Registered,Registered,Automatic
+Lexus,RX 300,2000,White,Local Used,316801,3000,LAGOS,Registered,Registered,Automatic
+Honda,Odyssey,2007,Blue,Local Used,212005,3500,Lagos,Registered,Imported,Automatic
+Toyota,Camry,2011,Gray,Foreign Used,188878,2500,N/A,Imported,Imported,Automatic
+Honda,Accord,2008,Black,Local Used,182685,2400,Lagos,Registered,Imported,Automatic
+Toyota,Sienna,2008,Silver,Local Used,150804,3500,Lagos,Registered,Imported,Automatic
+Mercedes-Benz,E350,2015,White,Local Used,149229,3500,Lagos,Registered,Imported,Automatic
+Nissan,Altima,2007,Blue,Foreign Used,182069,2500,N/A,Imported,Imported,Automatic
+Toyota,Avalon,2006,Red,Local Used,291208,3500,N/A,Registered,Imported,Automatic
+Toyota,Tundra,2003,Gold,Local Used,224525,4700,AKWA IBOM,Registered,Registered,Automatic
+Ford,Explorer,2002,Gold,Local Used,144378,4000,N/A,Registered,Imported,Automatic
+Hyundai,Santa Fe,2016,Brown,Local Used,68488,3300,N/A,Registered,Imported,Automatic
+Lexus,GX,2003,Gold,Local Used,369498,4700,FCT,Registered,Registered,Automatic
+Mercedes-Benz,E200,1997,Silver,Local Used,100000,4200,Lagos,Registered,Imported,Automatic
+Mercedes-Benz,GLK-Class,2011,Red,Foreign Used,103542,3500,N/A,Imported,Imported,Automatic
+Toyota,Corolla,2002,Gold,Local Used,243979,1800,LAGOS,Registered,Imported,Automatic
+Lexus,ES,2007,Silver,Local Used,166426,3500,ABUJA,Registered,Registered,Automatic
+Bentley,Continental,2006,Black,Foreign Used,28292,6000,N/A,Imported,Imported,Automatic
+Kia,Rio,2016,Gray,Local Used,94763,1400,LAGOS,Registered,Brand new,Automatic
+Toyota,Camry,2007,Gray,Local Used,329382,2400,LAGOS,Registered,Registered,Automatic
+Toyota,Avalon,2007,Black,Local Used,59613,3500,N/A,Registered,Registered,Automatic
+Toyota,Camry,2012,Gray,Local Used,102488,2500,Rivers,Registered,Registered,Automatic
+Toyota,RAV4,2018,Blue,Foreign Used,149055,2500,N/A,Imported,Imported,Automatic
+Land Rover,Range Rover,2012,Black,Local Used,43933,5000,LAGOS,Registered,Imported,Automatic
+Lexus,ES,2007,Black,Local Used,315071,3500,N/A,Registered,Registered,Automatic
+Toyota,Avensis,2006,Blue,Local Used,104231,2000,LAGOS,Registered,Registered,Automatic
+Mercedes-Benz,CLA-Class,2014,Gray,Foreign Used,275205,2000,N/A,Imported,Imported,Automatic
+Honda,CR-V,2014,Silver,Local Used,64231,2400,LAGOS,Registered,Brand new,Automatic
+Honda,Accord,2010,Brown,Local Used,291539,2400,ABUJA,Registered,Registered,Automatic
+Volkswagen,Golf,1999,Black,Local Used,415867,1400,LAGOS,Registered,Imported,Manual
+Lexus,GX,2014,White,Foreign Used,60681,4600,N/A,Imported,Imported,Automatic
+Mazda,6,2005,Red,Local Used,132319,2300,N/A,Registered,Registered,Automatic
+Toyota,Camry,2004,Gray,Local Used,361412,2400,LAGOS,Registered,Registered,Automatic
+BMW,5 Series,2008,Blue,Local Used,105844,3500,LAGOS,Registered,Registered,Automatic
+Mercedes-Benz,S-Class,2007,Blue,Local Used,4203,5500,N/A,Registered,Imported,Automatic
+BMW,X3,2015,Brown,Local Used,135679,2000,LAGOS,Registered,Imported,Automatic
+Ford,Focus,2012,Red,Local Used,260043,2000,Abuja,Registered,Registered,Automatic
+Ford,E-250,2010,Gold,Local Used,280035,5400,Lagos,Registered,Registered,Automatic
+Honda,Accord,2003,Silver,Local Used,285085,2400,N/A,Registered,Imported,Automatic
+Lexus,RX 300,2000,Black,Foreign Used,168928,3000,N/A,Imported,Imported,Automatic
+Honda,Odyssey,2016,Gray,Foreign Used,179524,3500,N/A,Imported,Imported,Automatic
+Volkswagen,Jetta,2012,Red,Foreign Used,201268,2500,N/A,Imported,Imported,Automatic
+Toyota,Camry,2008,Gray,Local Used,179334,2400,N/A,Registered,Registered,Automatic
+Mazda,CX-9,2008,Brown,Local Used,227370,3700,LAGOS,Registered,Imported,Automatic
+Toyota,Solara,2006,White,Local Used,191599,3300,N/A,Registered,Registered,Automatic
+Honda,Pilot,2003,Silver,Foreign Used,399351,3500,N/A,Imported,Imported,Automatic
+Toyota,Camry,2005,Silver,Local Used,63534,2400,N/A,Registered,Registered,Automatic
+Nissan,Armada,2007,Blue,Local Used,107970,5600,N/A,Registered,Imported,Automatic
+Honda,Crosstour,2010,Matt Black,Local Used,200404,3500,LAGOS,Registered,Registered,Automatic
+Kia,Rio,2014,Gray,Local Used,100637,1200,LAGOS,Registered,Registered,Manual
+Toyota,Corolla,2007,Black,Local Used,355356,1800,N/A,Registered,Imported,Automatic
+Toyota,FJ Cruiser,2007,Black,Local Used,1,4000,ABUJA,Registered,Registered,Automatic
+Mercedes-Benz,M Class,2008,Blue,Local Used,216939,3500,OGUN,Registered,Registered,Automatic
+Toyota,Corolla,2010,Gray,Local Used,228516,1800,LAGOS,Registered,Registered,Automatic
+Toyota,Land Cruiser Prado,2019,Black,Local Used,23001,3500,LAGOS,Registered,Brand new,Automatic
+Mercedes-Benz,C350,2008,Black,Local Used,302126,3500,Abuja,Registered,Registered,Automatic
+Acura,MDX,2004,Burgandy,Local Used,140789,3500,ABUJA,Registered,Registered,Automatic
+Toyota,Camry,2006,Gray,Local Used,138211,3500,ABUJA,Registered,Registered,Automatic
+Toyota,Sienna,2005,Blue,Local Used,472309,3300,Lagos,Registered,Imported,Automatic
+Volkswagen,Passat,2006,Black,Local Used,118594,2000,Lagos,Registered,Imported,Automatic
+Land Rover,Range Rover,2012,White,Foreign Used,310409,5000,N/A,Imported,Imported,Automatic
+Lexus,RX 350,2018,White,Brand New,83027,3500,N/A,Brand new,Brand new,Automatic
+Lexus,RX 350,2016,Black,Foreign Used,129305,3500,N/A,Imported,Imported,Automatic
+Toyota,Camry,2007,Gray,Local Used,92279,3500,ABUJA,Registered,Imported,Automatic
+Toyota,Corolla,2004,Red,Local Used,482800,1800,FCT,Registered,Imported,Automatic
+Toyota,Corolla,2015,Blue,Local Used,148873,1800,LAGOS,Registered,Registered,Automatic
+Toyota,Corolla,2008,Black,Local Used,124006,1800,N/A,Registered,Registered,Automatic
+Mercedes-Benz,GL-Class,2013,White,Local Used,104943,4700,Lagos,Registered,Imported,Automatic
+Hyundai,Sonata,2011,Burgandy,Local Used,178587,2000,LAGOS,Registered,Registered,Automatic
+Honda,Pilot,2008,Green,Local Used,404538,3500,Lagos,Registered,Registered,Automatic
+Subaru,Impreza,2008,Silver,Foreign Used,100839,2500,N/A,Imported,Imported,Automatic
+Mercedes-Benz,C250,2014,Brown,Local Used,405938,1800,N/A,Registered,Registered,Automatic
+Lexus,ES,2007,Black,Local Used,148445,3500,LAGOS,Registered,Imported,Automatic
+Ford,Focus,2013,Black,Local Used,218595,2000,N/A,Registered,Registered,Automatic
+Volkswagen,Passat,2012,White,Local Used,272638,2000,N/A,Registered,Registered,Automatic
+Lexus,GX,2010,Red,Local Used,226138,4000,ABUJA,Registered,Imported,Automatic
+Mercedes-Benz,C300,2008,Black,Local Used,299855,3000,N/A,Registered,Imported,Automatic
+Chrysler,200,2012,Black,Foreign Used,244218,2400,N/A,Imported,Imported,Automatic
+Dodge,Challenger,2008,Matt Black,Local Used,60219,3600,LAGOS,Registered,Registered,Automatic
+Toyota,Corolla,2014,Black,Local Used,101564,2000,N/A,Registered,Registered,Automatic
+Toyota,Corolla,2007,Gray,Local Used,299999,1800,N/A,Registered,Imported,Automatic
+Toyota,Camry,2011,Black,Local Used,257267,2400,N/A,Registered,Registered,Automatic
+Toyota,Avanza,2011,Silver,Local Used,159404,1500,LAGOS,Registered,Registered,Automatic
+Toyota,Tundra,2008,Silver,Local Used,106820,5700,Lagos,Registered,Imported,Automatic
+Mercedes-Benz,C250,2010,Blue,Local Used,284951,2500,Abuja,Registered,Imported,Automatic
+Toyota,Camry,2008,Gray,Local Used,212627,2800,LAGOS,Registered,Registered,Automatic
+Honda,Accord,2007,Gray,Local Used,N/A,3000,ANAMBRA,Registered,Imported,Automatic
+Mercedes-Benz,M Class,2006,Silver,Local Used,172796,3500,N/A,Registered,Registered,Automatic
+Peugeot,307,2005,Green,Foreign Used,201151,2000,N/A,Imported,Imported,Automatic
+Toyota,Sienna,2005,Gray,Local Used,195179,3300,ABUJA,Registered,Imported,Automatic
+Volvo,S80,2009,Gray,Local Used,163481,4400,N/A,Registered,Imported,Automatic
+Lexus,GX,2014,Black,Local Used,141539,4600,Abuja,Registered,Registered,Automatic
+Ford,Focus,2015,Black,Local Used,48957,1600,N/A,Registered,Registered,Manual
+Toyota,Hilux,2009,White,Local Used,338059,2700,N/A,Registered,Registered,Manual
+Toyota,Corolla,2013,Red,Foreign Used,134632,1800,N/A,Imported,Imported,Automatic
+Toyota,Camry,2011,Blue,Foreign Used,334197,2500,N/A,Imported,Imported,Automatic
+Toyota,Sienna,2007,Gold,Local Used,195249,3500,LAGOS,Registered,Registered,Automatic
+Toyota,RAV4,2006,Silver,Local Used,80591,2400,Lagos,Registered,Imported,Automatic
+Toyota,Mark X,2005,Silver,Local Used,178507,2500,N/A,Registered,Imported,Automatic
+Toyota,RAV4,2007,Green,Foreign Used,94968,2400,N/A,Imported,Imported,Automatic
+Honda,Civic,2001,Gray,Local Used,N/A,1700,N/A,Registered,Registered,Automatic
+Hyundai,Sonata,2011,Black,Local Used,121995,2000,N/A,Registered,Imported,Automatic
+Lexus,GS,2006,Off white,Local Used,479102,3000,N/A,Registered,Imported,Automatic
+Honda,CR-V,1999,Gold,Local Used,124224,2000,LAGOS,Registered,Registered,Automatic
+Nissan,Almera,2001,Red,Local Used,214545,1500,N/A,Registered,Imported,Manual
+Toyota,Sienna,2000,Green,Local Used,450048,3000,N/A,Registered,Imported,Automatic
+Mercedes-Benz,GL-Class,2008,Black,Local Used,187510,4600,N/A,Registered,Imported,Automatic
+Honda,Pilot,2012,White,Local Used,39111,3500,LAGOS,Registered,Imported,Automatic
+Volkswagen,Transporter,1995,White,Foreign Used,240130,1800,N/A,Imported,Imported,Manual
+Toyota,Sienna,2008,Silver,Local Used,208138,3500,ENUGU,Registered,Imported,Automatic
+Toyota,Camry,2016,Silver,Foreign Used,73376,2500,N/A,Imported,Imported,Automatic
+Toyota,Highlander,2017,Black,Foreign Used,53245,3500,N/A,Imported,Imported,CVT
+Ford,Explorer,2015,Ivory,Local Used,149689,3500,LAGOS,Registered,Imported,Automatic
+Toyota,Highlander,2010,Black,Foreign Used,305761,3500,N/A,Imported,Imported,Automatic
+Toyota,Tacoma,2017,Black,Foreign Used,143284,3500,N/A,Imported,Imported,Automatic
+Ford,Explorer,2013,Black,Local Used,134465,3500,LAGOS,Registered,Imported,Automatic
+Honda,CR-V,2012,Green,Local Used,110341,2300,LAGOS,Registered,Imported,Automatic
+Kia,Sorento,2012,Silver,Local Used,420638,3500,N/A,Registered,Imported,Automatic
+Honda,Accord Crosstour,2010,Green,Local Used,171464,3500,LAGOS,Registered,Registered,Automatic
+Volkswagen,Passat,2000,Green,Foreign Used,246819,1800,N/A,Imported,Imported,Manual
+Acura,MDX,2014,Gray,Foreign Used,116377,3700,N/A,Imported,Imported,Automatic
+Toyota,Camry,2002,Gold,Local Used,274332,2400,LAGOS,Registered,Registered,Automatic
+Toyota,Avensis,2012,Gray,Local Used,122111,N/A,Abuja,Registered,Registered,Automatic
+Subaru,Legacy,2012,White,Foreign Used,125131,2500,N/A,Imported,Imported,Automatic
+Toyota,Highlander,2006,Silver,Local Used,464893,3300,N/A,Registered,Imported,Automatic
+Mercedes-Benz,C300,2013,Gray,Foreign Used,149564,3500,N/A,Imported,Imported,Automatic
+Mitsubishi,L200,2020,White,Local Used,62393,3000,LAGOS,Registered,Brand new,Manual
+Mercedes-Benz,GLK-Class,2012,Black,Local Used,78831,3500,Imo,Registered,Imported,Automatic
+Hyundai,Ix35,2011,Silver,Local Used,168640,2000,LAGOS,Registered,Imported,Automatic
+Toyota,Highlander,2012,White,Local Used,89532,3500,Lagos,Registered,Imported,Automatic
+Toyota,Camry,2012,Silver,Foreign Used,211391,2500,N/A,Imported,Imported,Automatic
+Nissan,Murano,2004,White,Local Used,109653,3500,N/A,Registered,Registered,CVT
+Toyota,Venza,2012,Gray,Local Used,284288,2700,ABUJA,Registered,Registered,Automatic
+Toyota,Land Cruiser,2013,Black,Local Used,81102,2700,ABUJA,Registered,Registered,Automatic
+Lexus,GX,2015,Silver,Local Used,67660,4600,N/A,Registered,Imported,Automatic
+Toyota,Highlander,2006,Silver,Local Used,189437,3500,LAGOS,Registered,Registered,Automatic
+Mitsubishi,L200,2012,White,Foreign Used,224799,2800,N/A,Imported,Imported,Manual
+Mitsubishi,L200,2012,White,Foreign Used,166348,2800,N/A,Imported,Imported,Manual
+Toyota,Corolla,2004,Gray,Local Used,302512,1800,N/A,Registered,Imported,Automatic
+Toyota,Corolla,2003,Black,Local Used,151497,1800,Imo,Registered,Registered,Automatic
+Toyota,Corolla,2015,Black,Foreign Used,60748,1800,N/A,Imported,Imported,Automatic
+Toyota,Venza,2011,Gray,Foreign Used,84584,3500,N/A,Imported,Imported,Automatic
+Toyota,4-Runner,2004,Gold,Local Used,111929,3500,LAGOS,Registered,Imported,Automatic
+Toyota,Sienna,2005,Gray,Local Used,367393,3300,N/A,Registered,Registered,Automatic
+Honda,Odyssey,2001,White,Local Used,181269,3500,N/A,Registered,Imported,Automatic
+Honda,Accord,2006,Blue,Local Used,252386,2400,N/A,Registered,Imported,Automatic
+Toyota,Corolla,2004,Gray,Local Used,169972,1600,ABUJA,Registered,Registered,Automatic
+Toyota,Matrix,2006,Blue,Local Used,274728,1400,N/A,Registered,Imported,Automatic
+Lexus,RX 350,2013,White,Foreign Used,288604,3500,N/A,Imported,Imported,Automatic
+Toyota,Camry,2002,Blue,Local Used,436086,2400,N/A,Registered,Imported,Automatic
+Mercedes-Benz,E350,2002,Silver,Local Used,346591,2600,EDO,Registered,Registered,Automatic
+Toyota,Camry,2011,Gray,Local Used,254230,2500,Lagos State,Registered,Imported,Automatic
+Hyundai,Sonata,2014,White,Foreign Used,221293,2000,N/A,Imported,Imported,Automatic
+Peugeot,406,2000,Green,Local Used,235894,2000,Niger,Registered,Registered,Manual
+Mitsubishi,L200,2019,White,Local Used,94116,2000,LAGOS,Registered,Registered,Manual
+Toyota,Highlander,2005,Green,Local Used,52384,3300,Rivers,Registered,Registered,Automatic
+Toyota,RAV4,2010,White,Local Used,157663,2500,Lagos,Registered,Registered,Automatic
+Toyota,RAV4,2019,Blue,Foreign Used,67112,2500,N/A,Imported,Imported,Automatic
+Chevrolet,Cruze,2017,Black,Local Used,40218,1800,LAGOS,Registered,Brand new,AMT
+Toyota,Corolla,2006,Silver,Local Used,398335,1800,N/A,Registered,Imported,Automatic
+Toyota,Corolla,2003,Gold,Local Used,167126,1800,LAGOS,Registered,Registered,Automatic
+Honda,Accord,2004,Black,Local Used,29120,3500,Abuja,Registered,Registered,Automatic
+Mazda,CX-9,2009,Black,Local Used,241634,3700,Abuja,Registered,Imported,Automatic
+Honda,Accord,2013,Red,Local Used,149209,2400,Abuja,Registered,Imported,Automatic
+Lexus,RX 350,2008,Silver,Local Used,186359,3500,N/A,Registered,Imported,Automatic
+Acura,MDX,2011,Gray,Foreign Used,344105,3700,N/A,Imported,Imported,Automatic
+Kia,Rio,2009,Blue,Local Used,163870,1400,ABUJA,Registered,Registered,Manual
+BMW,X6,2022,Black,Foreign Used,32016,3000,N/A,Imported,Imported,Automatic
+Mercedes-Benz,E350,2006,Black,Local Used,303000,3500,KADUNA,Registered,Registered,Automatic
+Acura,MDX,2006,Black,Local Used,246948,3500,N/A,Registered,Registered,Automatic
+Dodge,Charger,2010,Black,Local Used,70282,2700,Lagos,Registered,Registered,Automatic
+Toyota,Avalon,2015,Black,Foreign Used,149915,3500,N/A,Imported,Imported,Automatic
+Mercedes-Benz,S-Class,2012,Black,Local Used,55066,5500,LAGOS,Registered,Imported,Automatic
+Toyota,Highlander,2014,White,Foreign Used,63544,3500,N/A,Imported,Imported,Automatic
+Toyota,Camry,2000,Gray,Local Used,336981,3000,ABUJA,Registered,Imported,Automatic
+Nissan,Pathfinder,2013,Gray,Foreign Used,97509,3500,N/A,Imported,Imported,Automatic
+Toyota,Corolla,2003,Red,Local Used,268494,1800,Lagos,Registered,Imported,Automatic
+Toyota,Avensis,2006,Gray,Local Used,123965,2000,N/A,Registered,Brand new,Automatic
+Hyundai,Tucson,2016,Silver,Local Used,280124,1600,N/A,Registered,Imported,Automatic
+Ford,F-150,2005,Red,Local Used,152687,5400,Abuja,Registered,Imported,Automatic
+Peugeot,406,2002,Silver,Foreign Used,1,2000,N/A,Imported,Imported,Automatic
+Ford,Focus,2014,Black,Local Used,N/A,1600,LAGOS,Registered,Imported,Manual
+BMW,5 Series,2013,Black,Foreign Used,156439,3000,N/A,Imported,Imported,Automatic
+Mercedes-Benz,E350,2006,Black,Local Used,437151,3500,ABUJA,Registered,Registered,Automatic
+Toyota,Sequoia,2004,Silver,Local Used,300856,4700,LAGOS,Registered,Imported,Automatic
+BMW,X1,2014,White,Local Used,16840,2000,LAGOS,Registered,Brand new,Automatic
+Toyota,Camry,2007,Gray,Local Used,330652,2800,LAGOS,Registered,Registered,Automatic
+Toyota,Corolla,2008,Black,Local Used,103780,1800,N/A,Registered,Brand new,Manual
+Toyota,Camry,2007,Black,Local Used,97364,2400,N/A,Registered,Registered,Automatic
+Dodge,Dart,2013,Gray,Foreign Used,147705,1400,N/A,Imported,Imported,Automatic
+Nissan,Altima,2007,Black,Local Used,210062,2400,LAGOS,Registered,Registered,Automatic
+Ford,Edge,2007,Off white,Local Used,357712,3500,LAGOS,Registered,Registered,Automatic
+Toyota,Camry,2007,Blue,Local Used,174098,2400,LAGOS,Registered,Registered,Automatic
+Toyota,Sienna,2004,Blue,Local Used,431099,3300,LAGOS,Registered,Registered,Automatic
+Toyota,Corolla,2007,Red,Local Used,280960,1800,LAGOS,Registered,Registered,Automatic
+Hyundai,Sonata,2018,Black,Foreign Used,65725,2400,N/A,Imported,Imported,Automatic
+Lexus,RX 350,2008,Black,Local Used,158648,3500,N/A,Registered,Registered,Automatic
+Ford,Edge,2010,Black,Local Used,194671,3500,LAGOS,Registered,Registered,Automatic
+Toyota,Highlander,2007,Silver,Local Used,447443,3500,LAGOS,Registered,Registered,Automatic
+Toyota,Sequoia,2002,Green,Local Used,116400,4700,LAGOS,Registered,Registered,Automatic
+Hyundai,Sonata,2011,Red,Local Used,171864,2000,LAGOS,Registered,Imported,Automatic
+BMW,X5,2009,Gray,Local Used,180661,3000,N/A,Registered,Imported,Automatic
+Honda,Accord,2007,Black,Local Used,94568,2300,N/A,Registered,Registered,Automatic
+Toyota,Camry,2017,Black,Foreign Used,135813,2500,N/A,Imported,Imported,Automatic
+Kia,Soul,2010,Black,Local Used,195206,1600,N/A,Registered,Imported,Manual
+Toyota,Matrix,2003,White,Local Used,154681,1800,Abuja,Registered,Registered,Automatic
+Honda,Accord,2009,Silver,Local Used,272408,2400,ABUJA,Registered,Registered,Automatic
+Hyundai,Tucson,2012,Black,Local Used,104013,2000,LAGOS,Registered,Brand new,Automatic
+Honda,Accord,2019,Silver,Foreign Used,46535,2000,N/A,Imported,Imported,Automatic
+Toyota,Highlander,2003,Red,Local Used,220996,3000,N/A,Registered,Registered,Automatic
+Lexus,RX 330,2006,Gold,Local Used,231104,3300,Lagos,Registered,Imported,Automatic
+Toyota,4-Runner,2004,Gold,Local Used,219224,4700,N/A,Registered,Registered,Automatic
+Toyota,Venza,2009,Gray,Local Used,321276,2700,Lagos,Registered,Imported,Automatic
+IVM,G40,2020,Black,Local Used,12537,2290,N/A,Registered,Brand new,Automatic
+Pontiac,G6,2008,Red,Local Used,252381,2400,Abuja,Registered,Registered,Automatic
+Toyota,Venza,2009,Brown,Local Used,158598,3500,Lagos,Registered,Imported,Automatic
+Hyundai,Sonata,2012,Black,Local Used,92580,2000,Lagos,Registered,Imported,CVT
+Lexus,RX 350,2011,Blue,Foreign Used,131457,3500,N/A,Imported,Imported,Automatic
+Acura,MDX,2010,Silver,Local Used,276077,3500,LAGOS,Registered,Registered,Automatic
+Toyota,Camry,2007,Silver,Local Used,199740,3500,N/A,Registered,Registered,Automatic
+Toyota,Camry,2018,White,Foreign Used,27260,2400,N/A,Imported,Imported,Automatic
+Jeep,Liberty,2012,Gray,Local Used,184512,3700,LAGOS,Registered,Registered,Automatic
+Ford,F-150,2010,Black,Local Used,201461,5400,LAGOS,Registered,Imported,Automatic
+Mazda,CX-9,2008,Blue,Local Used,391246,3700,LAGOS,Registered,Imported,Automatic
+Audi,A4,1996,Gray,Local Used,N/A,3000,N/A,Registered,Registered,Automatic
+Peugeot,406,2005,Black,Local Used,112129,2000,Taraba,Registered,Registered,Manual
+Toyota,4-Runner,2003,Silver,Local Used,226289,4000,N/A,Registered,Registered,Automatic
+Ford,Edge,2013,Black,Local Used,281457,3500,LAGOS,Registered,Registered,Automatic
+Mercedes-Benz,E350,2006,Gray,Local Used,242149,3500,Abuja,Registered,Imported,Automatic
+Jeep,Wrangler,2014,Black,Foreign Used,357934,3600,N/A,Imported,Imported,Automatic
+Toyota,Land Cruiser Prado,2009,Gray,Local Used,307472,3500,ABUJA,Registered,Registered,Automatic
+Geely,Coolray,2021,Gray,Local Used,27164,2400,Lagos,Registered,Registered,Automatic
+Ford,Focus,2007,Blue,Local Used,24463,1600,ABUJA,Registered,Imported,Manual
+Ford,Explorer,2017,Gold,Local Used,28195,3500,N/A,Registered,Registered,Automatic
+Nissan,Almera,2001,Silver,Foreign Used,30696,1500,N/A,Imported,Imported,Manual
+Mercedes-Benz,GL-Class,2013,White,Local Used,88611,4600,N/A,Registered,Imported,Automatic
+Dodge,Caravan,2006,White,Foreign Used,383814,3300,N/A,Imported,Imported,Automatic
+Mercedes-Benz,C300,2008,Blue,Local Used,184033,3000,LAGOS,Registered,Registered,Automatic
+Lexus,LX,2013,Black,Local Used,94894,5700,N/A,Registered,Imported,Automatic
+Mercedes-Benz,GLK-Class,2011,Black,Local Used,180376,3500,ABUJA,Registered,Imported,Automatic
+Nissan,Altima,2014,Gray,Local Used,88659,2500,N/A,Registered,Brand new,Automatic
+Toyota,Solara,2001,Black,Local Used,176666,3000,AKWA IBOM,Registered,Imported,Automatic
+Toyota,Corolla,2008,Blue,Local Used,244256,1800,Lagos,Registered,Imported,Automatic
+Infiniti,QX60,2015,Black,Local Used,134969,3500,LAGOS,Registered,Registered,CVT
+Ford,Escape,2013,Silver,Local Used,210638,2000,LAGOS,Registered,Imported,Automatic
+Toyota,Camry,2010,Red,Local Used,112158,3500,LAGOS,Registered,Imported,Automatic
+Mini,Cooper,2014,Green,Foreign Used,88655,1600,N/A,Imported,Imported,Automatic
+Toyota,Hilux,2005,Black,Local Used,N/A,2700,LAGOS,Registered,Registered,Manual
+Kia,Picanto,2013,Brown,Local Used,151349,1100,Abuja,Registered,Registered,Automatic
+Kia,Sedona,2004,Blue,Local Used,168323,3500,Lagos,Registered,Registered,Automatic
+Toyota,Sienna,1998,Gold,Local Used,209801,3500,LAGOS,Registered,Registered,Automatic
+Infiniti,QX56,2008,Black,Local Used,241621,5600,FCT,Registered,Imported,Automatic
+Honda,Accord,2010,Black,Local Used,136003,2400,LAGOS,Registered,Registered,Automatic
+Toyota,Fortuner,2017,Black,Local Used,61708,3500,LAGOS,Registered,Registered,Automatic
+Honda,Accord,2013,Green,Local Used,180614,3500,LAGOS,Registered,Imported,Automatic
+Toyota,Avalon,2008,Black,Local Used,201526,3500,N/A,Registered,Registered,Automatic
+Mercedes-Benz,GLA 250,2015,Black,Local Used,168996,2000,ABUJA,Registered,Registered,Automatic
+Toyota,Camry,2003,Gold,Local Used,184462,2400,Lagos,Registered,Registered,Automatic
+Lexus,RX,2008,Gold,Local Used,120651,3800,LAGOS,Registered,Registered,Automatic
+Toyota,Corolla,2007,Black,Local Used,224599,1800,N/A,Registered,Registered,Automatic
+Nissan,Murano,2012,Silver,Foreign Used,142781,3500,N/A,Imported,Imported,Automatic
+BMW,530i,2017,Blue,Local Used,84580,2000,Abuja,Registered,Registered,Automatic
+Mercedes-Benz,M Class,2012,White,Local Used,4290,3500,Abuja,Registered,Imported,Automatic
+Lexus,ES,2008,Blue,Local Used,173085,3500,DELTA,Registered,Imported,Automatic
+Toyota,Sienna,2009,Silver,Local Used,126389,3500,LAGOS,Registered,Imported,Automatic
+Toyota,Camry,2014,Black,Local Used,62595,2500,LAGOS,Registered,Registered,Automatic
+Honda,Accord,2000,Blue,Local Used,N/A,1500,Lagos,Registered,Registered,Automatic
+Toyota,RAV4,2014,Black,Local Used,145954,2500,Kaduna,Registered,Imported,Automatic
+Kia,Rio,2007,Blue,Local Used,253743,1400,Lagos,Registered,Registered,Automatic
+Mitsubishi,Pajero,2015,Black,Local Used,180860,3500,OGUN,Registered,Registered,Automatic
+Honda,Accord,2004,Gray,Foreign Used,172589,2400,N/A,Imported,Imported,Automatic
+Dodge,RAM,2011,Red,Local Used,259049,5700,ABUJA,Registered,Imported,Automatic
+Toyota,Land Cruiser,2016,Gray,Foreign Used,230188,5700,N/A,Imported,Imported,Automatic
+Lexus,LX,2011,Silver,Local Used,43813,5700,N/A,Registered,Registered,Automatic
+Honda,Odyssey,2012,Silver,Local Used,217325,3500,N/A,Registered,Imported,Automatic
+Honda,Accord,2008,Gray,Local Used,708704,2400,N/A,Registered,Imported,Automatic
+Lexus,RX 300,1999,Blue,Local Used,335026,3000,N/A,Registered,Registered,Automatic
+Honda,Accord,2015,White,Foreign Used,100227,2400,N/A,Imported,Imported,Automatic
+Mercedes-Benz,E400,2014,Blue,Local Used,23065,3000,N/A,Registered,Imported,Automatic
+Lexus,RX 350,2013,Black,Foreign Used,182271,3500,N/A,Imported,Imported,Automatic
+Mercedes-Benz,G-Class,2020,Black,Local Used,11502,4000,N/A,Registered,Imported,Automatic
+Honda,Accord,2005,Black,Local Used,188814,2400,Abuja,Registered,Registered,Automatic
+Toyota,Avalon,2006,Black,Local Used,330112,3500,LAGOS,Registered,Imported,Automatic
+Toyota,Hilux,2013,White,Local Used,134173,2700,N/A,Registered,Imported,Manual
+Ford,F-150,2010,Silver,Local Used,287373,4600,N/A,Registered,Registered,Automatic
+Mercedes-Benz,C-Class,2007,Silver,Local Used,125651,2500,N/A,Registered,Registered,Automatic
+Mercedes-Benz,C300,2014,Brown,Local Used,87775,3500,LAGOS,Registered,Registered,Automatic
+Ford,Edge,2007,Gray,Local Used,164938,3500,Lagos,Registered,Imported,Automatic
+Mercedes-Benz,C230,2007,Silver,Local Used,309181,3000,Kano State,Registered,Imported,Automatic
+Honda,CR-V,2004,Silver,Local Used,260521,2000,N/A,Registered,Registered,Manual
+Hyundai,Sonata,2011,Silver,Local Used,108935,2400,Abuja,Registered,Registered,Automatic
+Ford,Edge,2010,Gray,Local Used,125341,3500,N/A,Registered,Imported,Automatic
+Toyota,RAV4,2019,Blue,Foreign Used,66808,N/A,N/A,Imported,Imported,Automatic
+Lexus,IS,2011,Black,Local Used,119687,2500,LAGOS,Registered,Registered,Automatic
+Acura,TSX,2006,Burgandy,Local Used,171476,N/A,Lagos,Registered,Registered,Automatic
+Toyota,Camry,2012,Blue,Local Used,230018,2400,N/A,Registered,Registered,Automatic
+Honda,Odyssey,2006,Gold,Local Used,160582,3500,N/A,Registered,Registered,Automatic
+Toyota,Avalon,2006,Black,Local Used,77728,3500,N/A,Registered,Registered,Automatic
+Lexus,RX 350,2017,Black,Local Used,118096,3500,Abuja,Registered,Imported,Automatic
+Acura,MDX,2008,Red,Local Used,255000,3700,ENUGU,Registered,Imported,Automatic
+Toyota,Camry,2003,Gold,Local Used,137430,2400,Ogun,Registered,Registered,Automatic
+Toyota,Corolla,2014,Blue,Local Used,70538,1800,N/A,Registered,Imported,Automatic
+Toyota,Camry,2012,White,Local Used,105680,2500,N/A,Registered,Imported,Automatic
+Chrysler,300C,2009,Silver,Foreign Used,252552,3500,N/A,Imported,Imported,Automatic
+Honda,Accord,2010,White,Local Used,96959,3500,N/A,Registered,Registered,Automatic
+BMW,228i,2016,White,Local Used,42633,2000,AKWA IBOM,Registered,Imported,Automatic
+Toyota,Yaris,2006,Silver,Foreign Used,28438,1000,N/A,Imported,Imported,Automatic
+Honda,Civic,2007,Blue,Local Used,202263,1800,Abuja,Registered,Registered,Automatic
+Hyundai,Accent,2012,Gray,Local Used,72426,1600,IMO,Registered,Registered,Automatic
+Toyota,Avensis,2003,Black,Local Used,109068,2400,LAGOS,Registered,Registered,Automatic
+Toyota,Camry,2004,Brown,Local Used,406326,2400,Lagos,Registered,Imported,Automatic
+Toyota,Sequoia,2004,Silver,Local Used,198571,4700,LAGOS,Registered,Registered,Automatic
+Honda,Accord,2009,Black,Local Used,161127,2400,LAGOS,Registered,Registered,Automatic
+Honda,Accord,2008,Black,Local Used,232663,2400,LAGOS,Registered,Registered,Automatic
+Nissan,Teana,2011,Silver,Local Used,213134,2000,N/A,Registered,Imported,CVT
+Mitsubishi,Jeep,2008,Black,Local Used,212664,3000,N/A,Registered,Imported,Automatic
+Toyota,Corolla,2003,Blue,Local Used,162111,1800,ABUJA,Registered,Imported,Automatic
+Toyota,Corolla,2013,Gray,Local Used,200287,1800,LAGOS,Registered,Imported,Automatic
+Toyota,Corolla,2011,Red,Local Used,145639,1800,ABUJA,Registered,Imported,Automatic
+Toyota,Highlander,2009,White,Local Used,108804,3500,N/A,Registered,Registered,Automatic
+Hyundai,Sonata,2011,Blue,Foreign Used,271930,2400,N/A,Imported,Imported,Automatic
+Toyota,Camry,2012,Black,Local Used,135192,3500,N/A,Registered,Imported,Automatic
+Toyota,Sienna,2013,Silver,Foreign Used,39139,3500,N/A,Imported,Imported,Automatic
+Toyota,Camry,2015,Black,Foreign Used,2606672,2500,N/A,Imported,Imported,Automatic
+Ford,Fusion,2013,Silver,Foreign Used,251465,1600,N/A,Imported,Imported,Automatic
+Toyota,Corolla Altis,2008,Black,Local Used,513149,1800,EUNGU,Registered,Registered,Automatic
+Mercedes-Benz,C300,2017,White,Local Used,88782,2000,N/A,Registered,Imported,Automatic
+Toyota,Corolla,2002,Beige,Local Used,312833,1800,N/A,Registered,Imported,Automatic
+Honda,Ridgeline,2007,Gray,Local Used,152341,3500,Lagos State,Registered,Imported,Automatic
+Toyota,Camry,2005,Gray,Local Used,152314,2500,Lagos State,Registered,Registered,Automatic
+Toyota,Highlander,2006,Silver,Local Used,105233,3300,N/A,Registered,Registered,Automatic
+Nissan,Armada,2004,Brown,Local Used,192731,5600,EDO,Registered,Imported,Automatic
+Audi,Q7,2011,Black,Local Used,133432,3000,LAGOS,Registered,Imported,Automatic
+Mitsubishi,Endeavor,2007,White,Local Used,151736,3000,LAGOS,Registered,Registered,Automatic
+Honda,Accord,2000,Silver,Local Used,430812,2000,N/A,Registered,Registered,Automatic
+Toyota,Sienna,2002,Blue,Local Used,400368,N/A,LAGOS,Registered,Registered,Automatic
+Toyota,Sienna,2016,Black,Foreign Used,118542,3500,N/A,Imported,Imported,Automatic
+Toyota,Tundra,2013,Black,Foreign Used,142767,5700,N/A,Imported,Imported,Automatic
+Ford,Escape,2018,Black,Local Used,114501,1500,LAGOS,Registered,Brand new,Automatic
+Toyota,Avalon,2002,Black,Local Used,N/A,3000,RIVERS,Registered,Registered,Automatic
+Lexus,RX 330,2004,Black,Local Used,193132,3300,FCT,Registered,Registered,Automatic
+Toyota,Corolla,2019,White,Foreign Used,36261,1200,N/A,Imported,Imported,Automatic
+Mercedes-Benz,M Class,2009,White,Local Used,111928,3500,LAGOS,Registered,Imported,Automatic
+Honda,Odyssey,1998,Green,Local Used,N/A,3500,Abuja,Registered,Registered,Automatic
+Toyota,Corolla,2005,Black,Local Used,185241,1800,N/A,Registered,Registered,Automatic
+Mercedes-Benz,E350,2010,White,Local Used,222783,3500,Abuja,Registered,Registered,Automatic
+Chevrolet,Equinox,2010,Black,Foreign Used,152971,2400,N/A,Imported,Imported,Automatic
+JMC,Vigus,2021,White,Local Used,41266,2000,Ondo,Registered,Imported,Manual
+Toyota,Avalon,2003,Black,Local Used,308351,N/A,LAGOS,Registered,Registered,Automatic
+Ford,Explorer,2007,White,Local Used,199513,4600,LAGOS,Registered,Registered,Automatic
+Kia,Sorento,2012,Gray,Local Used,217328,3500,LAGOS,Registered,Registered,AMT
+Infiniti,Q45,2003,White,Local Used,277480,4500,Abuja,Registered,Registered,Automatic
+Honda,Accord,2013,Black,Foreign Used,147528,2400,N/A,Imported,Imported,Automatic
+Toyota,Camry,2004,Black,Local Used,293152,2400,Lagos State,Registered,Imported,Automatic
+Lexus,RX 300,1999,White,Local Used,406825,3000,Lagos,Registered,Imported,Automatic
+Ford,Edge,2009,Blue,Local Used,123093,3500,AKWA IBOM,Registered,Registered,Automatic
+Honda,Accord,2007,Black,Local Used,257325,2400,N/A,Registered,Registered,Automatic
+Mazda,CX-7,2009,Blue,Foreign Used,130646,2300,N/A,Imported,Imported,Automatic
+Lexus,ES,2002,Black,Local Used,113687,3300,LAGOS,Registered,Registered,Automatic
+Toyota,Sienna,2006,Silver,Foreign Used,110280,3300,N/A,Imported,Imported,Automatic
+Ford,Edge,2007,White,Local Used,247946,3500,N/A,Registered,Imported,Automatic
+Volvo,XC90,2005,Red,Local Used,525863,3000,LAGOS,Registered,Registered,Automatic
+Toyota,Sienna,2012,Green,Local Used,86513,3500,Abuja,Registered,Registered,Automatic
+Toyota,Camry,2015,Red,Foreign Used,111010,2500,N/A,Imported,Imported,Automatic
+Toyota,Camry,2007,Silver,Local Used,403162,2400,Lagos,Registered,Registered,Automatic
+Ford,Edge,2007,Orange,Local Used,115256,3500,LAGOS,Registered,Imported,Automatic
+Toyota,Tundra,2006,Gray,Local Used,111607,4700,LAGOS,Registered,Registered,Automatic
+Ford,Freestyle,2005,Gold,Foreign Used,200510,3000,N/A,Imported,Imported,Automatic
+Nissan,Xterra,2005,Gray,Local Used,179526,3600,Abuja,Registered,Registered,Automatic
+Toyota,RAV4,2008,Red,Local Used,129483,2400,LAGOS,Registered,Imported,Automatic
+Acura,MDX,2013,Black,Foreign Used,106988,3500,N/A,Imported,Imported,Automatic
+GAC,GA3,2018,Black,Local Used,78213,1600,LAGOS,Registered,Registered,Automatic
+Toyota,Avensis,2006,Green,Local Used,138237,1800,LAGOS,Registered,Imported,Automatic
+Porsche,Cayenne,2004,Gold,Foreign Used,156975,4500,N/A,Imported,Imported,Automatic
+Toyota,Highlander,2011,Gold,Local Used,179530,N/A,ABUJA,Registered,Imported,Automatic
+Nissan,Almera,2001,Silver,Local Used,261968,1600,Lagos,Registered,Registered,Manual
+Honda,Accord,2011,Red,Local Used,254406,3500,N/A,Registered,Registered,Automatic
+Honda,Crosstour,2010,Silver,Local Used,117919,3500,N/A,Registered,Registered,Automatic
+Mazda,CX-7,2010,Black,Local Used,269624,2500,LAGOS,Registered,Imported,Automatic
+Ford,Explorer,2017,Silver,Foreign Used,204971,3500,N/A,Imported,Imported,Automatic
+Lexus,ES,2002,Black,Local Used,87168,3000,Abuja,Registered,Imported,Automatic
+Honda,Accord,2003,Silver,Local Used,97197,2400,Osun state,Registered,Registered,Automatic
+Toyota,Hilux,2006,Off white,Local Used,163194,2500,N/A,Registered,Registered,Manual
+Nissan,Serena,1995,White,Local Used,1622623,2700,OYO,Registered,Imported,Manual
+Mercedes-Benz,C180,2005,Black,Local Used,262818,1800,Lagos,Registered,Imported,Automatic
+Lexus,RX 350,2018,Gray,Foreign Used,51413,3500,N/A,Imported,Imported,Automatic
+Honda,Odyssey,2003,Blue,Local Used,115195,3500,N/A,Registered,Registered,Automatic
+Subaru,Tribeca,2006,Gold,Local Used,237910,3000,Lagos,Registered,Registered,Automatic
+Honda,Ridgeline,2007,White,Local Used,133561,3500,LAGOS,Registered,Registered,Automatic
+Mercedes-Benz,C300,2008,Gray,Local Used,129114,3000,N/A,Registered,Imported,Automatic
+Isuzu,Rodeo,2004,White,Local Used,152325,3200,N/A,Registered,Imported,Automatic
+Hyundai,Santa Fe,2010,Red,Local Used,2024,3500,N/A,Registered,Imported,Automatic
+Toyota,Solara,2001,Gold,Local Used,258314,2200,N/A,Registered,Registered,Automatic
+BMW,528i,2011,Gray,Foreign Used,172741,2000,N/A,Imported,Imported,Automatic
+Ford,Edge,2007,White,Local Used,250709,3500,Abuja,Registered,Registered,Automatic
+Toyota,Camry,2011,Silver,Local Used,181134,3500,N/A,Registered,Imported,Automatic
+Honda,Accord,2007,Black,Local Used,85425,2400,OGUN STATE,Registered,Registered,Automatic
+Toyota,Highlander,2007,Gold,Local Used,249442,3500,Lagos,Registered,Registered,Automatic
+Acura,TL,2010,Gray,Local Used,254702,3500,Abuja,Registered,Imported,Automatic
+Toyota,Camry,2012,Black,Foreign Used,194337,2400,N/A,Imported,Imported,Automatic
+Lexus,RX 350,2008,Black,Local Used,203616,3500,N/A,Registered,Registered,Automatic
+Toyota,Corolla,2014,White,Foreign Used,148153,1800,N/A,Imported,Imported,Automatic
+Land Rover,Range Rover Sport,2012,Brown,Local Used,116916,4800,ABUJA,Registered,Registered,Automatic
+Hyundai,Sonata,2015,Burgandy,Foreign Used,73878,2400,N/A,Imported,Imported,Automatic
+Hyundai,Sonata,2015,Black,Foreign Used,165933,2400,N/A,Imported,Imported,Automatic
+Mercedes-Benz,M Class,2007,Gray,Local Used,294565,3500,N/A,Registered,Imported,Automatic
+Mercedes-Benz,M Class,2013,Black,Local Used,234138,3500,N/A,Registered,Imported,Automatic
+Toyota,Tundra,2010,Gray,Foreign Used,542075,4600,N/A,Imported,Imported,Automatic
+Nissan,Sunny,2007,Black,Local Used,207029,1800,ABUJA,Registered,Registered,Automatic
+Mercedes-Benz,C240,2001,White,Local Used,396753,2600,N/A,Registered,Imported,Automatic
+Mercedes-Benz,S-Class,2021,Black,Foreign Used,47211,4000,N/A,Imported,Imported,Automatic
+Mercedes-Benz,C300,2008,Gray,Foreign Used,299993,3000,N/A,Imported,Imported,Automatic
+Lexus,ES,2012,Gray,Foreign Used,278618,3500,N/A,Imported,Imported,Automatic
+Honda,Pilot,2005,Gold,Local Used,195550,3500,LAGOS,Registered,Registered,Automatic
+Volkswagen,Golf,2000,Black,Local Used,481559,1800,LAGOS,Registered,Imported,Automatic
+Nissan,Altima,2002,Red,Local Used,20312,2500,Lagos State,Registered,Registered,Automatic
+Hyundai,Sonata,2012,Blue,Foreign Used,175804,1800,N/A,Imported,Imported,Automatic
+Ford,Edge,2011,Silver,Local Used,190537,3500,LAGOS,Registered,Imported,Automatic
+Toyota,Camry,2007,Gray,Local Used,322228,3000,Lagos,Registered,Registered,Automatic
+Hyundai,Santa Fe,2015,White,Foreign Used,171450,3300,N/A,Imported,Imported,Automatic
+Toyota,Highlander,2009,Teal,Local Used,316668,3500,N/A,Registered,Registered,Automatic
+Lexus,RX 350,2011,Black,Local Used,159025,3500,FCT,Registered,Imported,Automatic
+Lexus,RX,2010,Off white,Foreign Used,165127,3500,N/A,Imported,Imported,Automatic
+Acura,MDX,2005,Blue,Local Used,369359,3500,LAGOS,Registered,Registered,Automatic
+Mercedes-Benz,G-Class,2002,Black,Local Used,235771,5000,Abuja,Registered,Imported,Automatic
+Hyundai,Sonata,2016,Silver,Foreign Used,191094,2500,N/A,Imported,Imported,Automatic
+Peugeot,306,2004,Silver,Local Used,239873,2100,LAGOS,Registered,Registered,Manual
+Mercedes-Benz,M Class,2006,Red,Local Used,183720,3500,Lagos,Registered,Imported,Automatic
+Toyota,Camry,2010,White,Local Used,482322,2500,Abuja,Registered,Registered,Automatic
+Hyundai,Santa Fe,2002,Black,Local Used,182967,2700,LAGOS,Registered,Registered,Automatic
+Ford,E-150,2008,White,Local Used,389722,4600,LAGOS,Registered,Registered,Automatic
+Mercedes-Benz,C300,2010,White,Local Used,121532,3500,LAGOS,Registered,Imported,Automatic
+Mercedes-Benz,S-Class,2015,White,Local Used,149818,4600,N/A,Registered,Imported,Automatic
+Chevrolet,Silverado,2013,White,Foreign Used,310210,4800,N/A,Imported,Imported,Automatic
+Ford,Edge,2012,Black,Local Used,245212,3500,ABUJA,Registered,Registered,Automatic
+Toyota,RAV4,2009,Black,Local Used,156857,3500,LAGOS,Registered,Imported,Automatic
+Chevrolet,Malibu,2013,White,Local Used,150284,2500,LAGOS,Registered,Imported,Automatic
+Hyundai,Sonata,2015,Blue,Foreign Used,95699,2400,N/A,Imported,Imported,Automatic
+Hyundai,Sonata,2015,Gray,Foreign Used,127856,2400,N/A,Imported,Imported,Automatic
+BMW,7 Series,2015,Silver,Foreign Used,171779,4400,N/A,Imported,Imported,Automatic
+Toyota,Camry,2005,Gray,Local Used,308709,2400,ABUJA,Registered,Registered,Automatic
+Toyota,Avalon,2003,Gold,Local Used,345914,3000,Abia,Registered,Imported,Automatic
+Honda,Crosstour,2014,Gray,Foreign Used,134722,3500,N/A,Imported,Imported,Automatic
+Hyundai,Santa Fe,2010,Black,Local Used,159891,2400,LAGOS,Registered,Registered,Automatic
+Hyundai,Sonata,2012,Blue,Foreign Used,138454,2400,N/A,Imported,Imported,Automatic
+Toyota,Corolla,2007,Red,Local Used,133864,1800,Abuja,Registered,Imported,Automatic
+Mercedes-Benz,E350,2011,Black,Local Used,204407,3500,ABUJA,Registered,Registered,Automatic
+Lexus,LS,2009,Black,Local Used,144383,4600,ABUJA,Registered,Registered,Automatic
+Lexus,RX 300,2002,Gray,Local Used,273406,3000,N/A,Registered,Imported,Automatic
+Lexus,ES,2003,Blue,Local Used,426293,3300,Lagos State,Registered,Registered,Automatic
+Toyota,Venza,2012,White,Foreign Used,141132,2700,N/A,Imported,Imported,Automatic
+Hyundai,Sonata,2015,Silver,Foreign Used,71192,2400,N/A,Imported,Imported,Automatic
+Toyota,Camry,2001,Blue,Local Used,238495,2200,LAGOS,Registered,Registered,Automatic
+Lexus,RX,2015,Black,Foreign Used,156701,3500,N/A,Imported,Imported,Automatic
+BMW,X3,2007,Black,Local Used,202253,3000,KADUNA,Registered,Registered,Automatic
+Toyota,Avalon,2013,Black,Local Used,141691,3500,Lagos,Registered,Imported,Automatic
+Toyota,Corolla,2004,Green,Local Used,171428,1800,LAGOS,Registered,Imported,Automatic
+Honda,Odyssey,2008,White,Foreign Used,233871,3500,N/A,Imported,Imported,Automatic
+Lexus,GX,2005,White,Local Used,207609,4700,Lagos,Registered,Registered,Automatic
+Mercedes-Benz,GLK-Class,2010,Black,Foreign Used,N/A,3800,N/A,Imported,Imported,Automatic
+Mercedes-Benz,E350,2010,White,Local Used,181925,3500,N/A,Registered,Registered,Automatic
+Mercedes-Benz,C250,2012,Blue,Local Used,277146,1800,N/A,Registered,Imported,Automatic
+Toyota,Camry,2004,Gray,Local Used,258952,2400,Abuja,Registered,Registered,Automatic
+Mazda,6,2005,Gray,Local Used,124327,2500,N/A,Registered,Registered,Automatic
+BMW,5 Series,2010,Green,Local Used,329766,3000,LAGOS,Registered,Imported,Automatic
+Nissan,Sentra,2008,Gray,Local Used,304005,2000,N/A,Registered,Imported,Automatic
+Honda,Pilot,2005,Black,Local Used,270772,N/A,Lagos,Registered,Registered,Automatic
+Toyota,Land Cruiser,2014,Black,Local Used,88071,4000,LAGOS,Registered,Registered,Automatic
+Mercedes-Benz,GL-Class,2007,Red,Local Used,261923,4700,N/A,Registered,Registered,Automatic
+Toyota,Camry,2012,Black,Local Used,104368,3500,Abuja,Registered,Registered,Automatic
+Toyota,Corolla,2013,Blue,Local Used,151739,1800,ABUJA,Registered,Imported,Automatic
+Ford,Sport Trac,2007,Gray,Local Used,251823,3500,LAGOS,Registered,Registered,Automatic
+Toyota,Camry,2003,Black,Local Used,622127,2400,LAGOS,Registered,Registered,Automatic
+Mercedes-Benz,C280,2008,Black,Local Used,159685,3000,N/A,Registered,Registered,Automatic
+Nissan,X-Trail,2008,Silver,Local Used,102216,2500,N/A,Registered,Imported,Automatic
+Toyota,Corolla,2010,White,Foreign Used,152303,1800,N/A,Imported,Imported,Automatic
+BMW,525i,2006,White,Local Used,2399999,2500,ABUJA,Registered,Registered,Automatic
+Toyota,Hilux,2010,White,Local Used,66834,2700,N/A,Registered,Imported,Automatic
+Toyota,RAV4,2013,Gray,Local Used,156072,2500,LAGOS,Registered,Registered,Automatic
+Toyota,Camry,2012,Silver,Foreign Used,136079,2500,N/A,Imported,Imported,Automatic
+Lexus,IS,2014,Black,Local Used,114181,3500,KANO,Registered,Registered,Automatic
+Toyota,Avensis,2007,Blue,Local Used,345254,2000,N/A,Registered,Imported,Automatic
+Mercedes-Benz,GLC-Class,2019,Black,Local Used,20580,2000,N/A,Registered,Imported,Automatic
+Ford,Explorer,2006,Brown,Local Used,310845,4000,N/A,Registered,Registered,Automatic
+Ford,Explorer,2005,Black,Local Used,210913,5400,N/A,Registered,Imported,Automatic
+Volkswagen,Jetta,2007,Black,Local Used,280343,2500,LAGOS,Registered,Registered,Automatic
+Mercedes-Benz,C240,2003,Black,Local Used,220331,2600,Lagos,Registered,Registered,Automatic
+Acura,RDX,2007,Black,Local Used,99999,2300,N/A,Registered,Imported,Automatic
+Ford,Escape,2010,Black,Local Used,185918,2500,LAGOS,Registered,Brand new,Automatic
+Lexus,ES,2003,Silver,Local Used,224325,3000,LAGOS,Registered,Imported,Automatic
+Lexus,ES,2001,Gray,Local Used,354407,3000,LAGOS,Registered,Registered,Automatic
+Lexus,GX,2018,Gray,Local Used,87792,4600,N/A,Registered,Imported,Automatic
+Toyota,Camry,2013,Red,Foreign Used,132910,2500,N/A,N/A,N/A,CVT
+Honda,Crosstour,2010,Gray,Local Used,181447,3500,Abuja,Registered,Registered,Automatic
+Toyota,Camry,2011,Blue,Local Used,161160,2500,Lagos,Registered,Imported,Automatic
+Honda,Odyssey,2006,Blue,Local Used,175611,3500,Lagos,Registered,Imported,Automatic
+GAC,GA3,2020,Black,Local Used,76966,1500,LAGOS,Registered,Imported,Automatic
+Mercedes-Benz,C300,2009,White,Local Used,314135,3000,LAGOS,Registered,Imported,Automatic
+Land Rover,Range Rover Sport,2012,White,Foreign Used,160180,5000,N/A,Imported,Imported,Automatic
+Toyota,Highlander,2007,Blue,Local Used,109072,3300,LAGOS,Registered,Registered,Automatic
+Ford,Escape,2008,Off white,Local Used,292965,3000,N/A,Registered,Registered,Automatic
+Peugeot,206,2001,Blue,Local Used,140726,1600,Kano,Registered,Registered,Manual
+Toyota,Camry,2014,Black,Foreign Used,132897,2500,N/A,Imported,Imported,Automatic
+Nissan,Versa,2007,Red,Local Used,N/A,1800,LAGOS,Registered,Registered,Automatic
+Peugeot,508,2012,White,Local Used,179557,1600,FCT,Registered,Registered,Automatic
+Mercedes-Benz,E400,2016,Silver,Foreign Used,53956,3000,N/A,Imported,Imported,Automatic
+Toyota,4-Runner,2007,Gray,Local Used,97575,4000,BENUE,Registered,Registered,Automatic
+Toyota,Matrix,2010,Blue,Local Used,188166,2400,LAGOS,Registered,Imported,Automatic
+Mazda,CX-9,2008,Red,Local Used,137169,3700,Lagos,Registered,Registered,Automatic
+Ford,Mondeo,2008,Green,Local Used,170077,2300,N/A,Registered,Registered,Automatic
+Nissan,Sentra,2014,Silver,Local Used,130603,1800,Abuja,Registered,Registered,Automatic
+Toyota,Avalon,2006,Blue,Foreign Used,343156,3500,N/A,Imported,Imported,Automatic
+Mercedes-Benz,C-Class,2003,Blue,Local Used,87496,2600,LAGOS,Registered,Imported,Automatic
+Toyota,Corolla,2004,Gray,Local Used,373790,1800,Lagos,Registered,Imported,Automatic
+Lexus,GX,2004,Black,Local Used,282961,4700,Lagos,Registered,Imported,Automatic
+Toyota,Camry,2007,Red,Local Used,41927,2800,LAGOS,Registered,Registered,Automatic
+Lexus,LS,2012,Black,Local Used,23705,4600,N/A,Registered,Imported,Automatic
+Toyota,Land Cruiser Prado,2008,Black,Local Used,150630,2700,N/A,Registered,Imported,Automatic
+Toyota,Camry,2020,Black,Foreign Used,97535,2500,N/A,Imported,Imported,Automatic
+Toyota,Land Cruiser Prado,2013,Black,Local Used,112670,2700,N/A,Registered,Brand new,Automatic
+Mazda,CX-9,2007,Gray,Local Used,205421,3500,N/A,Registered,Registered,Automatic
+Mercedes-Benz,GL-Class,2013,Black,Local Used,150787,4600,LAGOS,Registered,Registered,Automatic
+Ford,Explorer,2015,Red,Foreign Used,150677,3500,N/A,Imported,Imported,Automatic
+Toyota,Sienna,2006,Silver,Local Used,217944,3500,LAGOS,Registered,Registered,Automatic
+Toyota,Sienna,2005,Gray,Foreign Used,344522,3300,N/A,Imported,Imported,Automatic
+Mercedes-Benz,E350,2006,Blue,Local Used,112117,3500,Abuja,Registered,Registered,Automatic
+Toyota,Sienna,2004,Gold,Local Used,154064,3300,LAGOS,Registered,Registered,Automatic
+Volkswagen,Vento,2002,White,Local Used,341489,2400,LAGOS,Registered,Imported,Manual
+Ford,Edge,2012,White,Local Used,142457,3500,N/A,Registered,Registered,Automatic
+Toyota,Previa,1997,Green,Foreign Used,332892,2400,N/A,Imported,Imported,Automatic
+Toyota,Camry,2003,Black,Local Used,219231,2400,Abuja,Registered,Registered,Automatic
+Volkswagen,Routan,2010,Silver,Foreign Used,135707,4000,N/A,Imported,Imported,Automatic
+Acura,TL,2005,Black,Local Used,239057,1700,LAGOS,Registered,Imported,Automatic
+Mercedes-Benz,GL-Class,2012,Black,Local Used,209643,4500,N/A,Registered,Imported,Automatic
+Mercedes-Benz,GLA 250,2017,White,Foreign Used,169746,2000,N/A,Imported,Imported,Automatic
+Mercedes-Benz,M Class,2013,White,Foreign Used,277089,3500,N/A,Imported,Imported,Automatic
+Lexus,GS,1999,Gray,Local Used,61963,3000,Abuja,Registered,Registered,Automatic
+Lexus,ES,2002,Gold,Local Used,221425,3000,LAGOS,Registered,Registered,Automatic
+Toyota,Sienna,2005,Gold,Local Used,179852,3300,LAGOS,Registered,Registered,Automatic
+Nissan,Murano,2005,Blue,Local Used,118725,3500,LAGOS,Registered,Registered,Automatic
+Land Rover,Range Rover,2006,Black,Local Used,82679,4400,LAGOS,Registered,Registered,Automatic
+Hyundai,Elantra,2009,Silver,Local Used,347711,1800,Lagos,Registered,Registered,Manual
+Mercedes-Benz,S-Class,2005,Black,Local Used,N/A,4300,LAGOS,Registered,Imported,Automatic
+Acura,TL,2013,Red,Local Used,N/A,3500,N/A,Registered,Registered,Automatic
+Honda,Pilot,2008,Black,Local Used,190471,3500,LAGOS,Registered,Imported,Automatic
+Peugeot,407,2005,Blue,Local Used,99999,2000,N/A,Registered,Registered,Automatic
+Hyundai,Sonata,2017,Silver,Foreign Used,86897,2400,N/A,Imported,Imported,Automatic
+Toyota,Corolla,2020,Black,Foreign Used,54168,1800,N/A,Imported,Imported,Automatic
+Land Rover,Lr3,2007,Black,Local Used,51954,4400,LAGOS,Registered,Registered,Automatic
+Porsche,Cayman,2014,Black,Local Used,14130,2700,Lagos,Registered,Brand new,Automatic
+Toyota,Corolla,2010,Black,Local Used,486245,1800,BAYELSA,Registered,Registered,Automatic
+Hyundai,Elantra,2009,Blue,Local Used,117507,2000,N/A,Registered,Imported,Automatic
+Toyota,RAV4,2018,Black,Foreign Used,94222,2500,N/A,Imported,Imported,Automatic
+Toyota,Camry,2003,Beige,Local Used,264498,2400,N/A,Registered,Imported,Automatic
+Hyundai,Sonata,2016,Blue,Local Used,148904,2400,LAGOS,Registered,Imported,Automatic
+Toyota,Sienna,2006,White,Local Used,184236,3300,N/A,Registered,Imported,Automatic
+Hyundai,Genesis,2015,White,Local Used,141972,5000,Lagos,Registered,Imported,Automatic
+Toyota,Corolla,2010,Silver,Local Used,182083,1800,LAGOS,Registered,Registered,Automatic
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Toyota,Camry,2011,Gold,Local Used,280855,2500,N/A,Registered,Registered,Automatic
