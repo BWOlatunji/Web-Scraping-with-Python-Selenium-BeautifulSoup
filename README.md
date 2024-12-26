@@ -48,6 +48,9 @@ Each car detail page was scraped using custom XPaths, and error handling was imp
 
 We implemented error handling to ensure the scraping process continued even if some elements were missing from the page. When fewer than 11 expected details were found, the script automatically appended 'N/A' for the missing data, ensuring the output remained consistent.
 
+## Data Cleaning and Manipulation
+The data was cleaned of NAs and new columns were created to prepare the data for analysis, etc.
+
 ## Final Output
 
 The final output was saved as a CSV and parquet file containing columns for car details, including pricing, car condition, mileage, and more. This dataset can be used for analysis, reporting, or ML projects.
