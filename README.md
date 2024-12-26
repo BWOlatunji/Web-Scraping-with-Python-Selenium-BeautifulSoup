@@ -50,7 +50,7 @@ We implemented error handling to ensure the scraping process continued even if s
 
 ## Final Output
 
-The final output was saved as a CSV file containing columns for car details, including pricing, car condition, mileage, and more. This dataset can be used for analysis, reporting, or ML projects.
+The final output was saved as a CSV and parquet file containing columns for car details, including pricing, car condition, mileage, and more. This dataset can be used for analysis, reporting, or ML projects.
 
 ## Conclusion
 
